@@ -101,6 +101,15 @@ Verstößen mit Unions-Dimension zuständig
             Dienstleistungsverkehrs Wertpapierdienstleistungen oder
             Wertpapiernebendienstleistungen erbringt,
 
+    c)  eines Unternehmens handelt, das
+
+        aa) als Kreditgeber im Sinne des § 1 Absatz 1 des
+            Absatzfinanzierungsaufsichtsgesetzes tätig wird oder
+
+        bb) Institut im Sinne des § 1 Absatz 2 des
+            Absatzfinanzierungsaufsichtsgesetzes ist und nach § 2 Absatz 2 des
+            Absatzfinanzierungsaufsichtsgesetzes tätig wird,
+
     und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit
     bezieht,
 

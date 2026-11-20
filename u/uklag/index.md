@@ -132,7 +132,7 @@ insbesondere
     jeweils geltenden Fassung, die für die Verarbeitung von Daten von
     Verbrauchern durch Unternehmer gelten,
 
-14. § 31 des Bundesdatenschutzgesetzes,
+14. die §§ 30 und 37a des Bundesdatenschutzgesetzes,
 
 15. diejenigen Vorschriften des Zahlungskontengesetzes, die das Verhältnis
     zwischen Zahlungsdienstleistern und Verbrauchern regeln,
@@ -1080,27 +1080,18 @@ allgemeinen Vorschriften tritt.
     Fernabsatzverträge über Finanzdienstleistungen,
 
 2.  der §§ 491 bis 508, 511 und 655a bis 655d des Bürgerlichen Gesetzbuchs
-    sowie Artikel 247a § 1 des Einführungsgesetzes zum Bürgerlichen
+    sowie Artikel 247a § 1 bis 3 des Einführungsgesetzes zum Bürgerlichen
     Gesetzbuche,
 
 3.  der Vorschriften betreffend Zahlungsdiensteverträge in
 
     a)  den §§ 675c bis 676c des Bürgerlichen Gesetzbuchs,
 
-    b)  die Verordnung (EU) 2021/1230 des Europäischen Parlaments und des
-        Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der
-        Union (kodifizierter Text) (ABl. L 274 vom 30.7.2021, S. 20)
+    b)  der Verordnung (EU) 2021/1230,
 
-    c)  der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des
-        Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften
-        und der Geschäftsanforderungen für Überweisungen und Lastschriften in
-        Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-        30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 2024/886
-        (ABl. L, 2024/886, 19.3.2024) geändert worden ist,
+    c)  der Verordnung (EU) Nr. 260/2012,
 
-    d)  der Verordnung (EU) 2015/751 des Europäischen Parlaments und des
-        Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene
-        Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
+    d)  der Verordnung (EU) 2015/751,
 
 4.  der Vorschriften des Zahlungsdiensteaufsichtsgesetzes, soweit sie
     Pflichten von E-Geld-Emittenten oder Zahlungsdienstleistern gegenüber

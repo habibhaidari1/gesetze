@@ -296,9 +296,9 @@ zuständigen Behörde über den Erlaubnisantrag erforderlich sind.
 ### § 11a Vermittlerregister
 
 (1) Jede Industrie- und Handelskammer (Registerbehörde) führt ein
-Register der nach § 34d Absatz 10 Satz 1, § 34f Absatz 5, § 34h
-Absatz 1 Satz 4 und § 34i Absatz 8 Eintragungspflichtigen. Die
-örtliche Zuständigkeit richtet sich nach dem Landesrecht. Zweck
+Register der nach § 34d Absatz 10 Satz 1, § 34f Absatz 5, § 34h Absatz
+1 Satz 4, § 34i Absatz 8 und § 34k Absatz 8 Eintragungspflichtigen.
+Die örtliche Zuständigkeit richtet sich nach dem Landesrecht. Zweck
 des Registers ist es insbesondere, der Allgemeinheit, vor allem
 Anlegern und Versicherungsunternehmen sowie Darlehensnehmern und
 Darlehensgebern, die Überprüfung der Zulassung sowie des Umfangs der
@@ -364,6 +364,14 @@ die Registerbehörde die gespeicherten Daten unverzüglich zu löschen;
 unabhängig von dieser Mitteilung hat die Registerbehörde die Daten
 aber spätestens nach fünf Jahren zu löschen.
 
+(3c) Die für die Erlaubniserteilung nach § 34k Absatz 1 zuständige
+Behörde teilt der Registerbehörde unverzüglich die für die Eintragung
+nach § 34k Absatz 8 Nummer 1 erforderlichen Angaben sowie die
+Aufhebung der Erlaubnis nach § 34k Absatz 1 mit. Bei Erhalt der
+Mitteilung über die Aufhebung der Erlaubnis nach § 34k Absatz 1
+hat die Registerbehörde unverzüglich die gespeicherten Daten der
+betroffenen Person zu löschen.
+
 (4) Beabsichtigt ein nach § 34d Absatz 10 Satz 1 und nach § 34i Absatz
 8 Nummer 1 Eintragungspflichtiger, in einem anderen Mitgliedstaat
 der Europäischen Union oder in einem anderen Vertragsstaat des
@@ -395,9 +403,9 @@ Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen
 
 (7) Die Registerbehörde, die Bundesanstalt für
 Finanzdienstleistungsaufsicht und die Behörden, die für die
-Erlaubniserteilung nach § 34d Absatz 1 Satz 1, Absatz 2 Satz
-1, § 34f Absatz 1 Satz 1, auch in Verbindung mit § 34h Absatz
-1 Satz 4, und nach § 34i Absatz 1 Satz 1, für die Untersagung
+Erlaubniserteilung nach § 34d Absatz 1 Satz 1, Absatz 2 Satz 1,
+§ 34f Absatz 1 Satz 1, auch in Verbindung mit § 34h Absatz 1 Satz
+4, § 34i Absatz 1 Satz 1 und § 34k Absatz 1, für die Untersagung
 nach § 35, für die Entgegennahme der Gewerbeanzeige nach § 14
 oder für die Verfolgung von Ordnungswidrigkeiten zuständig sind,
 dürfen einander auch ohne Ersuchen Informationen einschließlich
@@ -408,14 +416,15 @@ Einsicht in die über Versicherungsvermittler gespeicherten
 Daten ermöglicht. Satz 1 gilt nur, soweit dies zur Erfüllung
 der jeweiligen Aufgaben erforderlich ist, die jeweils mit der
 Tätigkeit von Versicherungsvermittlern, Versicherungsberatern,
-Finanzanlagenvermittlern, Honorar-Finanzanlagenberatern und
-Immobiliardarlehensvermittlern zusammenhängen. Die in Satz 1
-genannten Stellen stellen der Europäischen Aufsichtsbehörde für das
-Versicherungswesen und die betriebliche Altersversorgung nach Maßgabe
-des Artikels 35 der Verordnung (EU) Nr. 1094/2010 des Europäischen
-Parlaments und des Rates vom 24. November 2010 zur Errichtung
-einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde
-für das Versicherungswesen und die betriebliche Altersversorgung),
+Finanzanlagenvermittlern, Honorar-Finanzanlagenberatern,
+Immobiliardarlehensvermittlern und Darlehensvermittlern
+zusammenhängen. Die in Satz 1 genannten Stellen stellen der
+Europäischen Aufsichtsbehörde für das Versicherungswesen und
+die betriebliche Altersversorgung nach Maßgabe des Artikels 35
+der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments
+und des Rates vom 24. November 2010 zur Errichtung einer
+Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für
+das Versicherungswesen und die betriebliche Altersversorgung),
 zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des
 Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S.
 48) auf Verlangen alle Informationen zur Verfügung, die zur Erfüllung
@@ -423,11 +432,11 @@ von deren Aufgaben auf Grund der Verordnung (EU) Nr. 1094/2010
 erforderlich sind.
 
 (8) In Bezug auf Versicherungsvermittler, Versicherungsberater,
-Finanzanlagenvermittler, Honorar-Finanzanlagenberater und
-Immobiliardarlehensvermittler unterliegen alle Personen, die im
-Rahmen des Registrierungsverfahrens oder im Rahmen der Überprüfung
-der Einhaltung der Voraussetzungen für die Tätigkeit zur
-Entgegennahme oder Erteilung von Informationen verpflichtet sind,
+Finanzanlagenvermittler, Honorar-Finanzanlagenberater,
+Immobiliardarlehensvermittler und Darlehensvermittler unterliegen alle
+Personen, die im Rahmen des Registrierungsverfahrens oder im Rahmen
+der Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit
+zur Entgegennahme oder Erteilung von Informationen verpflichtet sind,
 dem Berufsgeheimnis. § 309 des Versicherungsaufsichtsgesetzes gilt
 entsprechend.
 
@@ -1099,8 +1108,7 @@ eine zusätzliche Sicherheit verlangt werden, die die nicht gedeckten
 Risiken absichert.
 
 (3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 31, 33c,
-33d, 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34f, 34h, 34i
-oder nach § 60a ausgeübt werden.
+33d, 34, 34a, 34d, 34f, 34i, 34k oder nach § 60a ausgeübt werden.
 
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
@@ -1551,8 +1559,8 @@ deren Rechtsfähigkeit im Inland nicht anerkannt wird.
 (1) Gewerbetreibende oder sonstige Personen,
 
 1.  die einer Erlaubnis nach den §§ 30, 31, 33a, 33c, 33d, 33i, 34, 34a,
-    34b, 34c, 34d, 34f, 34h oder 34i bedürfen oder nach § 34i Absatz 4 von
-    der Erlaubnispflicht befreit sind,
+    34b, 34c, 34d, 34f, 34h, 34i oder 34k bedürfen oder nach § 34i Absatz
+    4 von der Erlaubnispflicht befreit sind,
 
 2.  die nach § 34b Abs. 5 oder § 36 öffentlich bestellt sind,
 
@@ -2610,7 +2618,7 @@ Vorschriften erlassen über
     wollen.
 
 
-##### § 34c Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung
+##### § 34c Immobilienmakler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung
 
 (1) Wer gewerbsmäßig
 
@@ -2618,9 +2626,7 @@ Vorschriften erlassen über
     Rechte, gewerbliche Räume oder Wohnräume vermitteln oder die
     Gelegenheit zum Abschluss solcher Verträge nachweisen,
 
-2.  den Abschluss von Darlehensverträgen, mit Ausnahme von Verträgen im
-    Sinne des § 34i Absatz 1 Satz 1, vermitteln oder die Gelegenheit zum
-    Abschluss solcher Verträge nachweisen,
+2.  (weggefallen)
 
 3.  Bauvorhaben
 
@@ -2764,18 +2770,7 @@ dem Prüfer und dem Gewerbetreibenden, geregelt werden.
 1a. Kapitalverwaltungsgesellschaften, für die eine Erlaubnis nach § 20
     Absatz 1 des Kapitalanlagegesetzbuchs erteilt wurde,
 
-2.  Gewerbetreibende, die lediglich zur Finanzierung der von ihnen
-    abgeschlossenen Warenverkäufe oder zu erbringenden Dienstleistungen
-    den Abschluß von Verträgen über Darlehen vermitteln oder die
-    Gelegenheit zum Abschluß solcher Verträge nachweisen,
-
-3.  Zweigstellen von Unternehmen mit Sitz in einem anderen Mitgliedstaat
-    der Europäischen Union, die nach § 53b Abs. 7 des Kreditwesengesetzes
-    Darlehen zwischen Kreditinstituten vermitteln dürfen, soweit sich
-    ihre Tätigkeit nach Absatz 1 auf die Vermittlung von Darlehen zwischen
-    Kreditinstituten beschränkt,
-
-4.  Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des
+2.  Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des
     § 481 des Bürgerlichen Gesetzesbuchs gemäß Absatz 1 Satz 1 Nr. 1
     nachgewiesen oder vermittelt wird.
 
@@ -3728,6 +3723,153 @@ Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem
 Gewerbetreibenden geregelt werden.
 
 
+##### § 34k Darlehensvermittler
+
+(1) Wer gewerbsmäßig gegen eine Vergütung, die aus einer Geldzahlung
+oder einem sonstigen vereinbarten wirtschaftlichen Vorteil bestehen
+kann, den Abschluss von Allgemein-Verbraucherdarlehensverträgen nach §
+491 Absatz 2 des Bürgerlichen Gesetzbuchs oder von Finanzierungshilfen
+nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs, mit Ausnahme von
+Verträgen im Sinne des § 34i Absatz 1 Satz 1, vermitteln oder die
+Gelegenheit zum Abschluss solcher Verträge nachweisen oder Dritte zu
+solchen Verträgen beraten oder in anderer Weise beim Abschluss eines
+solchen Vertrages behilflich sein will (Darlehensvermittler), bedarf
+nach Maßgabe der folgenden Bestimmungen der Erlaubnis der zuständigen
+Behörde.
+
+(2) Die Erlaubnis nach Absatz 1 kann inhaltlich beschränkt und
+mit Nebenbestimmungen verbunden werden, soweit dies zum Schutz
+der Allgemeinheit oder der Darlehensnehmer erforderlich ist; unter
+denselben Voraussetzungen sind auch die nachträgliche Aufnahme,
+Änderung und Ergänzung von Nebenbestimmungen zulässig.
+
+(3) Die Erlaubnis nach Absatz 1 ist zu versagen, wenn
+
+1.  Tatsachen die Annahme rechtfertigen, dass der Antragsteller oder
+    eine der mit der Leitung des Betriebs oder einer Zweigniederlassung
+    beauftragten Personen die für den Gewerbebetrieb erforderliche
+    Zuverlässigkeit nicht besitzt; die erforderliche Zuverlässigkeit
+    besitzt in der Regel nicht, wer in den letzten fünf Jahren vor
+    Stellung des Antrages wegen eines Verbrechens oder wegen Diebstahls,
+    Unterschlagung, Erpressung, Betruges, Untreue, Geldwäsche,
+    Urkundenfälschung, Hehlerei, Wuchers oder einer Insolvenzstraftat
+    rechtskräftig verurteilt worden ist,
+
+2.  der Antragsteller in ungeordneten Vermögensverhältnissen lebt, was in
+    der Regel der Fall ist, wenn über das Vermögen des Antragstellers das
+    Insolvenzverfahren eröffnet worden oder er in das Schuldnerverzeichnis
+    nach § 882b der Zivilprozessordnung eingetragen ist, oder
+
+3.  der Antragsteller nicht durch eine vor der Industrie- und
+    Handelskammer erfolgreich abgelegte Prüfung nachweist, dass
+    er die für die Vermittlung von oder Beratung zu Allgemein-
+    Verbraucherdarlehensverträgen und Finanzierungshilfen im Sinne des
+    Absatzes 1 notwendige Sachkunde über die fachlichen und rechtlichen
+    Grundlagen sowie über die Kundenberatung besitzt.
+
+In Bezug auf den Sachkundenachweis gemäß Satz 1 Nummer 3 ist
+es ausreichend, wenn der Nachweis für eine im Hinblick auf eine
+ordnungsgemäße Wahrnehmung der erlaubnispflichtigen Tätigkeit
+angemessene Zahl von beim Antragsteller beschäftigten natürlichen
+Personen erbracht wird, denen die Aufsicht über die unmittelbar mit
+Tätigkeiten nach Absatz 1 befassten Personen übertragen ist und die
+den Antragsteller vertreten dürfen. Satz 2 ist nicht anzuwenden, wenn
+der Antragsteller eine natürliche Person ist und
+
+1.  selbst Tätigkeiten nach Absatz 1 ausübt oder
+
+2.  für diese Tätigkeiten in der Leitung des Gewerbebetriebs
+    verantwortlich ist.
+
+(4) Einer Erlaubnis nach Absatz 1 bedürfen nicht:
+
+1.  Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des
+    Kreditwesengesetzes erteilt wurde, Wertpapierinstitute, für die
+    eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes
+    erteilt wurde oder für die eine Erlaubnis nach § 86 Absatz 1 des
+    Wertpapierinstitutsgesetzes als erteilt gilt, Zweigstellen von
+    Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes
+    sowie Zweigniederlassungen und vertraglich gebundene Vermittler
+    von Wertpapierinstituten im Sinne des § 73 Absatz 1 Satz 1 des
+    Wertpapierinstitutsgesetzes,
+
+2.  Kapitalverwaltungsgesellschaften, für die eine Erlaubnis nach § 20
+    Absatz 1 des Kapitalanlagegesetzbuchs erteilt wurde,
+
+3.  Gewerbetreibende, die als Kleinstunternehmen oder kleine oder mittlere
+    Unternehmen im Sinne der Empfehlung 2003/361/EG gelten und die
+    lediglich zur Finanzierung der von ihnen abgeschlossenen Warenverkäufe
+    oder zu erbringenden Dienstleistungen eine Tätigkeit nach Absatz
+    1 ausüben.
+
+(5) Gewerbetreibende nach Absatz 1, die eine unabhängige Beratung
+anbieten oder als unabhängige Berater auftreten (Honorar-
+Darlehensberater),
+
+1.  müssen für ihre Empfehlung für oder gegen einen Allgemein-
+    Verbraucherdarlehensvertrag oder eine Finanzierungshilfe im Sinne
+    des Absatzes 1 eine ausreichende Zahl von auf dem Markt verfügbaren
+    Verträgen einbeziehen und
+
+2.  dürfen vom Darlehensgeber für ihre Beratungsleistung keine Zuwendungen
+    annehmen und von ihm in keiner Weise abhängig sein.
+
+Honorar-Darlehensberater dürfen keine Tätigkeit als
+Darlehensvermittler und Darlehensvermittler dürfen keine Tätigkeit als
+Darlehensberater ausüben.
+
+(6) Gewerbetreibende, die eine Erlaubnis nach Absatz 1 besitzen,
+dürfen unmittelbar bei der Vermittlung oder Beratung mitwirkende
+Personen nur beschäftigen, wenn sie sicherstellen, dass diese
+Personen in ihrem Geschäftsbereich über angemessene Kenntnisse und
+Fähigkeiten in Bezug auf die Gestaltung, das Angebot und den Abschluss
+von Allgemein-Verbraucherdarlehensverträgen und Finanzierungshilfen,
+die Vermittlungs- und Beratungstätigkeit und die Verbraucherrechte
+verfügen. Gewerbetreibende, die eine Erlaubnis nach Absatz 1
+besitzen, und die unmittelbar bei der Vermittlung und Beratung
+mitwirkenden Beschäftigten sind verpflichtet, sich nach Maßgabe
+einer Rechtsverordnung nach § 34l Absatz 1 Nummer 4 weiterzubilden.
+Hinsichtlich der Weiterbildungspflicht des Gewerbetreibenden nach Satz
+2 ist es für den Gewerbetreibenden ausreichend, wenn die Weiterbildung
+durch eine im Hinblick auf die ordnungsgemäße Wahrnehmung der
+erlaubnispflichtigen Tätigkeit nach Absatz 1 angemessene Zahl von
+bei dem Gewerbetreibenden beschäftigten natürlichen Personen erbracht
+wird, denen die Aufsicht über die direkt bei der erlaubnispflichtigen
+Tätigkeit nach Absatz 1 mitwirkenden Personen übertragen ist und die
+den Gewerbetreibenden vertreten dürfen. Satz 3 ist nicht anzuwenden,
+wenn der Gewerbetreibende eine natürliche Person ist und
+
+1.  selbst Tätigkeiten nach Absatz 1 ausübt oder
+
+2.  in der Leitung des Gewerbebetriebs für diese Tätigkeiten
+    verantwortlich ist.
+
+Sofern der Nachweis der Sachkunde nach Absatz 3 Satz 2 delegiert
+wurde, gilt die Weiterbildungspflicht nach Satz 3 als auf
+dieselben natürlichen Personen delegiert. Die Beschäftigung einer
+bei der Vermittlung oder Beratung mitwirkenden Person kann dem
+Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme
+rechtfertigen, dass die Person die für ihre Tätigkeit erforderlichen
+Kenntnisse und Fähigkeiten nicht besitzt.
+
+(7) Bei Gewerbetreibenden nach Absatz 1 darf die Struktur der
+Vergütung der in dem Gewerbebetrieb beschäftigten Personen nicht deren
+Fähigkeit beeinträchtigen, im besten Interesse des Darlehensnehmers zu
+handeln; insbesondere darf die Vergütungsstruktur nicht an Absatzziele
+gekoppelt sein.
+
+(8) Gewerbetreibende, die eine Erlaubnis nach Absatz 1 besitzen, sind
+verpflichtet,
+
+1.  sich und die Personen, die für die Vermittlung und Beratung in der
+    leitenden Position verantwortlich sind, unverzüglich nach Aufnahme
+    ihrer Tätigkeit in das Register nach § 11a Absatz 1 Satz 1 eintragen
+    zu lassen,
+
+2.  Änderungen gegenüber den im Register gespeicherten Daten der
+    Registerbehörde unverzüglich mitzuteilen.
+
+
 ##### § 34l Verordnungsermächtigung
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann zur
@@ -4174,7 +4316,7 @@ Stellvertreter betrieben wird.
 #### § 47 Stellvertretung in besonderen Fällen
 
 Inwiefern für die nach den §§ 31, 33i, 34, 34a, 34b, 34c, 34d, 34f,
-34h, 34i und 36 konzessionierten oder angestellten Personen eine
+34h, 34i, 34k und 36 konzessionierten oder angestellten Personen eine
 Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde
 zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
@@ -4559,9 +4701,9 @@ Tätigkeit erforderliche Zuverlässigkeit nicht besitzt.
 Makler, Bauträger und Baubetreuer, Wohnimmobilienverwalter, des
 Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes,
 des Gewerbes des Finanzanlagenvermittlers und Honorar-
-Finanzanlagenberaters sowie des Gewerbes des
-Immobiliardarlehensvermittlers gelten die Versagungsgründe der §§ 34a,
-34c, 34d, 34f, 34h oder 34i entsprechend.
+Finanzanlagenberaters, des Gewerbes des Immobiliardarlehensvermittlers
+oder des Gewerbes des Darlehensvermittlers gelten die Versagungsgründe
+der §§ 34a, 34c, 34d, 34f, 34h, 34i oder 34k entsprechend.
 
 (3) Die Ausübung des Versteigerergewerbes als Reisegewerbe ist
 nur zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1
@@ -4679,17 +4821,18 @@ Verfahren fortsetzen, wenn die nunmehr zuständige Behörde zustimmt.
 des Gewerbes der Makler, Bauträger und Baubetreuer,
 Wohnimmobilienverwalter, des Versicherungsvermittlergewerbes,
 des Versicherungsberatergewerbes, des Gewerbes des
-Finanzanlagenvermittlers oder Honorar-Finanzanlagenberaters sowie des
-Gewerbes des Immobiliardarlehensvermittlers gelten *§ 34a* Absatz 1a
-Satz 1 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz
-2a, 3 und 5, § 34d Absatz 1 Satz 6 und 7, Absatz 2 Satz 3 bis 6,
-Absatz 3 und 8 bis 10, § 34f Absatz 4 bis 6, auch in Verbindung mit §
-34h Absatz 1 Satz 4 und Absatz 2 und 3, die §§ 34g, 34i Absatz 5 bis
-8 und § 34j sowie die auf Grund des § 34a Absatz 2, des § 34b Absatz
-8, des § 34c Absatz 3, des § 34e sowie der §§ 34g und 34j erlassenen
-Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die
-Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen
-zulassen.
+Finanzanlagenvermittlers oder Honorar-Finanzanlagenberaters, des
+Gewerbes des Immobiliardarlehensvermittlers sowie des Gewerbes des
+Darlehensvermittlers gelten § 34a Absatz 1a Satz 1 und Absatz 2
+bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 2a, 3 und 5, § 34d
+Absatz 1 Satz 6 und 7, Absatz 2 Satz 3 bis 6, Absatz 3 und 8 bis 10,
+§ 34f Absatz 4 bis 6, auch in Verbindung mit § 34h Absatz 1 Satz 4
+und Absatz 2 und 3, die §§ 34g, 34i Absatz 5 bis 8, die §§ 34j und
+34k Absatz 5 bis 8 sowie die auf Grund des § 34a Absatz 2, des § 34b
+Absatz 8, des § 34c Absatz 3, des § 34e sowie der §§ 34g, 34j und 34l
+erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde
+kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk
+Ausnahmen zulassen.
 
 
 ### (XXXX) §§ 62 und 63 (weggefallen)
@@ -4891,10 +5034,11 @@ Zuverlässigkeit nicht besitzt.
 des Gewerbes der Makler, Bauträger und Baubetreuer,
 Wohnimmobilienverwalter, des Gewerbes des Versicherungsvermittlers
 und Versicherungsberaters, des Gewerbes des Finanzanlagenvermittlers
-und Honorar-Finanzanlagenberaters sowie des Gewerbes des
-Immobiliardarlehensvermittlers auf einer Veranstaltung im Sinne der §§
-64 bis 68 gelten die Versagungsgründe der §§ 34a, 34c, 34d, 34f, 34h
-oder 34i entsprechend.
+und Honorar-Finanzanlagenberaters, des Gewerbes des
+Immobiliardarlehensvermittlers oder des Gewerbes des
+Darlehensvermittlers auf einer Veranstaltung im Sinne der §§ 64 bis 68
+gelten die Versagungsgründe der §§ 34a, 34c, 34d, 34f, 34h, 34i oder
+34k entsprechend.
 
 (3) Die selbständige Ausübung des Versteigerergewerbes auf einer
 Veranstaltung im Sinne der §§ 64 bis 68 ist nur zulässig, wenn
@@ -4935,16 +5079,17 @@ der §§ 64 bis 68 zu erlassen.
 des Gewerbes der Makler, Bauträger und Baubetreuer,
 Wohnimmobilienverwalter, des Versicherungsvermittlergewerbes,
 des Versicherungsberatergewerbes, des Gewerbes des
-Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters sowie des
-Gewerbes des Immobiliardarlehensvermittlers gelten § 34a Absatz 1a
-Satz 1 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz
-2a, 3 und 5, § 34d Absatz 1 Satz 6 und 7, Absatz 2 Satz 3 bis 6,
-Absatz 3 und 8 bis 10, § 34f Absatz 4 bis 6, § 34h Absatz 1 Satz 4
-und Absatz 2 und 3, § 34i Absatz 5 bis 8 sowie die auf Grund des §
-34a Absatz 2, des § 34b Absatz 8, des § 34c Absatz 3, des § 34e sowie
-der §§ 34g und 34j erlassenen Rechtsvorschriften entsprechend. Die
-zuständige Behörde kann für die Versteigerung leicht verderblicher
-Waren für ihren Bezirk Ausnahmen zulassen.
+Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters, des
+Gewerbes des Immobiliardarlehensvermittlers oder des Gewerbes des
+Darlehensvermittlers gelten § 34a Absatz 1a Satz 1 und Absatz 2 bis
+5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 2a, 3 und 5, § 34d Absatz
+1 Satz 6 und 7, Absatz 2 Satz 3 bis 6, Absatz 3 und 8 bis 10, § 34f
+Absatz 4 bis 6, § 34h Absatz 1 Satz 4 und Absatz 2 und 3, § 34i Absatz
+5 bis 8, § 34k Absatz 5 bis 8 sowie die auf Grund des § 34a Absatz 2,
+des § 34b Absatz 8, des § 34c Absatz 3, des § 34e sowie der §§ 34g,
+34j und 34l erlassenen Rechtsvorschriften entsprechend. Die zuständige
+Behörde kann für die Versteigerung leicht verderblicher Waren für
+ihren Bezirk Ausnahmen zulassen.
 
 
 ## Titel V - Taxen
@@ -5295,9 +5440,9 @@ zusammen:
     g)  nach § 34b Abs. 1 fremde bewegliche Sachen, fremde Grundstücke oder
         fremde Rechte versteigert,
 
-    h)  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 2 den Abschluß von
-        Verträgen der dort bezeichneten Art vermittelt oder die Gelegenheit
-        hierzu nachweist,
+    h)  nach § 34c Absatz 1 Satz 1 Nummer 1 den Abschluß von Verträgen
+        der dort bezeichneten Art vermittelt oder die Gelegenheit hierzu
+        nachweist,
 
     i)  nach § 34c Absatz 1 Satz 1 Nummer 3 ein Bauvorhaben vorbereitet oder
         durchführt,
@@ -5313,10 +5458,16 @@ zusammen:
     m)  nach § 34f Absatz 1 Satz 1 Anlageberatung oder Anlagevermittlung
         erbringt,
 
-    n)  nach § 34h Absatz 1 Satz 1 Anlageberatung erbringt oder
+    n)  nach § 34h Absatz 1 Satz 1 Anlageberatung erbringt,
 
     o)  nach § 34i Absatz 1 Satz 1 den Abschluss von Verträgen der dort
-        bezeichneten Art vermittelt oder Dritte zu solchen Verträgen berät,
+        bezeichneten Art vermittelt oder Dritte zu solchen Verträgen berät
+        oder
+
+    p)  nach § 34k Absatz 1 den Abschluss eines Allgemein-
+        Verbraucherdarlehensvertrages oder einer Finanzierungshilfe
+        vermittelt, die Gelegenheit zum Abschluss eines solchen Vertrages
+        nachweist oder Dritte zu solchen Verträgen berät,
 
 2.  ohne Zulassung nach § 31 Absatz 1 Leben oder Eigentum fremder Personen
     auf einem Seeschiff bewacht,
@@ -5361,17 +5512,18 @@ zusammen:
 
 4a. entgegen § 33c Absatz 3 Satz 4 eine Person beschäftigt,
 
-5.  einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2, § 34f
-    Absatz 1 Satz 2, § 34h Absatz 1 Satz 2 oder § 34i Absatz 1 Satz
+5.  einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2, § 34f Absatz 1
+    Satz 2, § 34h Absatz 1 Satz 2, § 34i Absatz 1 Satz 2 oder § 34k Absatz
     2 zuwiderhandelt,
 
 5a. entgegen § 34c Absatz 2a Satz 1 in Verbindung mit einer
     Rechtsverordnung nach § 34c Absatz 3 Nummer 3 sich nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig weiterbildet,
 
-6.  einer Rechtsverordnung nach § 34c Abs. 3 oder § 34g Absatz 1 Satz 1
-    oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2 oder § 34j oder
-    einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+6.  einer Rechtsverordnung nach § 34c Abs. 3 oder § 34g Absatz 1 Satz
+    1 oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2, § 34j oder §
+    34l Absatz 1 Nummer 1, 2 oder 4 Buchstabe b oder Absatz 2 oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
     zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -5392,19 +5544,23 @@ zusammen:
     sich nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
     weiterbildet,
 
-8.  entgegen § 34d Absatz 10 Satz 1 oder § 34f Absatz 5 oder 6 Satz 1
-    eine Eintragung nicht, nicht richtig oder nicht rechtzeitig vornehmen
-    lässt,
+8.  entgegen § 34d Absatz 10 Satz 1, § 34f Absatz 5 oder 6 Satz 1, § 34i
+    Absatz 8 Nummer 1 oder 2 oder § 34k Absatz 8 Nummer 1 eine Eintragung
+    nicht, nicht richtig oder nicht rechtzeitig vornehmen lässt,
 
-9.  entgegen § 34d Absatz 10 Satz 2, § 34f Absatz 5 oder Absatz 6 Satz
-    2 oder § 34i Absatz 8 Nummer 3 eine Mitteilung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig macht,
+9.  entgegen § 34d Absatz 10 Satz 2, § 34f Absatz 5 oder Absatz 6 Satz 2,
+    § 34i Absatz 8 Nummer 3 oder § 34k Absatz 8 Nummer 2 eine Mitteilung
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-10. entgegen § 34h Absatz 3 Satz 2 oder § 34i Absatz 5 eine Zuwendung
-    annimmt oder
+10. entgegen § 34h Absatz 3 Satz 2, § 34i Absatz 5 Nummer 2 oder § 34k
+    Absatz 5 Satz 1 Nummer 2 eine Zuwendung annimmt,
 
 11. entgegen § 34h Absatz 3 Satz 3 eine Zuwendung nicht, nicht vollständig
-    oder nicht rechtzeitig auskehrt.
+    oder nicht rechtzeitig auskehrt oder
+
+12. entgegen § 34k Absatz 6 Satz 2 in Verbindung mit einer
+    Rechtsverordnung nach § 34l Absatz 1 Nummer 4 Buchstabe a sich nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig weiterbildet.
 
 (3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 bei einer Versteigerung einer Vorschrift des § 34b Abs. 6 oder 7
@@ -5413,9 +5569,9 @@ zuwiderhandelt.
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1
 Nummer 1 Buchstabe m und n und Nummer 2 mit einer Geldbuße bis zu
 fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe
-a bis l und o, Nummer 3 und 4 und des Absatzes 2 Nummer 1, 1a und
-5 bis 11 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen
-des Absatzes 2 Nummer 1b und 2 bis 4a mit einer Geldbuße bis zu
+a bis l, o und p, Nummer 3 und 4 und des Absatzes 2 Nummer 1, 1a,
+5 bis 11 und 12 mit einer Geldbuße bis zu fünftausend Euro, in den
+Fällen des Absatzes 2 Nummer 1b und 2 bis 4a mit einer Geldbuße bis zu
 dreitausend Euro und in den Fällen des Absatzes 3 mit einer Geldbuße
 bis zu eintausend Euro geahndet werden.
 
@@ -5491,12 +5647,13 @@ Wirtschaft und Ausfuhrkontrolle.
     für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist
     oder
 
-9.  einer Rechtsverordnung nach § 61a Absatz 2 Satz 1 in Verbindung mit §
-    34c Absatz 3, mit § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1,
-    2 oder 4 oder Satz 2, mit § 34j Absatz 1 Nummer 1 oder 3 oder Absatz
-    2 oder einer vollziehbaren Anordnung auf Grund dieser Rechtsverordnung
-    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
-    Tatbestand auf diese Bußgeldvorschrift verweist.
+9.  einer Rechtsverordnung nach § 61a Absatz 2 Satz 1 in Verbindung mit
+    § 34c Absatz 3, mit § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer
+    1, 2 oder 4 oder Satz 2, mit § 34j Absatz 1 Nummer 1 oder 3 oder
+    Absatz 2 oder mit § 34l Absatz 1 Nummer 2 oder einer vollziehbaren
+    Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit
+    die Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
 
 (3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 
@@ -5632,7 +5789,8 @@ werden.
 
 11a. einer Rechtsverordnung nach § 71b Abs. 2 Satz 1 in Verbindung mit
      § 34c Abs. 3, § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer
-     1, 2 oder Nummer 4 oder Satz 2 oder § 34j oder einer vollziehbaren
+     1, 2 oder Nummer 4 oder Satz 2, § 34j oder § 34l Absatz 1 Nummer
+     1, 2 oder 4 Buchstabe b oder Absatz 2 oder einer vollziehbaren
      Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit
      die Rechtsverordnung für einen bestimmten Tatbestand auf diese
      Bußgeldvorschrift verweist oder
@@ -6722,6 +6880,60 @@ Voraussetzungen für die automatisierte und medienbruchfreie
 Übermittlung der Daten aus der steuerlichen Abmeldung von den
 Finanzbehörden an die Gewerbebehörden bundesweit vorliegen, in der bis
 zum 31. Dezember 2022 geltenden Fassung anzuwenden.
+
+
+#### § 162 Übergangsregelungen zu § 34k
+
+(1) Gewerbetreibende, die vor dem 20. November 2026 eine Erlaubnis
+nach § 34c Absatz 1 Satz 1 in der bis zum 19. November 2026
+geltenden Fassung haben, welche zur Vermittlung des Abschlusses von
+Darlehensverträgen berechtigt, und die Verbraucherdarlehensverträge
+oder Finanzierungshilfen im Sinne des § 34k Absatz 1 weiterhin
+vermitteln wollen, müssen bis zum Ablauf des 31. Mai 2027 eine
+Erlaubnis als Darlehensvermittler nach § 34k Absatz 1 beantragen und
+sich selbst sowie die nach § 34k Absatz 8 Nummer 1 einzutragenden
+Personen unverzüglich nach Erlaubniserteilung in dem Register nach §
+11a Absatz 1 Satz 1 registrieren lassen.
+
+(2) Bei Gewerbetreibenden nach Absatz 1 erfolgt in der Regel keine
+Prüfung der Zuverlässigkeit und der Vermögensverhältnisse nach § 34k
+Absatz 3 Satz 1 Nummer 1 und 2. Die bisherige Erlaubnis nach § 34c
+Absatz 1 Satz 1 für die Vermittlung von Darlehensverträgen ist der
+Erlaubnisbehörde auf Anforderung vorzulegen. Die Erlaubnis nach § 34c
+Absatz 1 Satz 1, soweit sie zur Vermittlung von Darlehensverträgen
+berechtigt, erlischt mit der bestandskräftigen Entscheidung über den
+Erlaubnisantrag nach § 34k Absatz 1, spätestens aber mit Ablauf des
+19\. November 2027. Bis zu diesem Zeitpunkt gilt die Erlaubnis nach §
+34c Absatz 1 Satz 1, soweit sie zur Vermittlung von Darlehensverträgen
+berechtigt, als Erlaubnis nach § 34k Absatz 1 fort. Sofern
+Gewerbetreibende, die am 20. November 2026 über eine Erlaubnis nach §
+34c Absatz 1 Satz 1 als Darlehensvermittler verfügen, bis zum Ablauf
+des 31. Mai 2027 keine Erlaubnis nach § 34k Absatz 1 beantragt haben,
+erlischt die bestehende Erlaubnis nach § 34c Absatz 1 Satz 1, soweit
+sie zur Vermittlung von Darlehensverträgen berechtigt, mit Ablauf des
+19\. November 2027.
+
+(3) Gewerbetreibende nach Absatz 1, die seit dem 1. Januar 2021
+ununterbrochen selbständig oder unselbständig als Darlehensvermittler
+im Sinne des § 34c Absatz 1 Satz 1 tätig waren, bedürfen keiner
+Sachkundeprüfung nach § 34k Absatz 3 Satz 1 Nummer 3, wenn sie
+die Erlaubnis nach § 34k Absatz 1 bis zum Ablauf des 31. Mai 2027
+beantragen und die ununterbrochene Tätigkeit nachweisen.
+
+(4) Gewerbetreibende nach § 34k Absatz 1, die lediglich zur
+Finanzierung der von ihnen abgeschlossenen Warenverkäufe oder zu
+erbringenden Dienstleistungen den Abschluss von Darlehensverträgen
+vermitteln oder die Gelegenheit zum Abschluss solcher Verträge
+nachweisen und die nicht als Kleinstunternehmen oder kleine
+oder mittlere Unternehmen im Sinne der Empfehlung 2003/361/EG
+gelten, müssen bis zum Ablauf des 31. Mai 2027 eine Erlaubnis als
+Darlehensvermittler nach § 34k Absatz 1 beantragen und sich selbst
+sowie die nach § 34k Absatz 8 Nummer 1 einzutragenden Personen
+unverzüglich nach Erlaubniserteilung in dem Register nach § 11a Absatz
+1 Satz 1 registrieren lassen. Bei Antragstellung bis zum Ablauf des
+31\. Mai 2027 dürfen Gewerbetreibende nach Satz 1 die Tätigkeit nach §
+34k Absatz 1 bis zum Abschluss des Erlaubnisverfahrens auch ohne die
+Erlaubnis nach § 34k Absatz 1 ausüben. Absatz 3 gilt entsprechend.
 
 
 #### Anlage (zu § 36 Absatz 4a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen

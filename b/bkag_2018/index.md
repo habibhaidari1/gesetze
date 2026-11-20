@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 3.7.2026 I Nr. 199
-
-Änderung durch
-:   Art. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.10.2026 I Nr. 318
 
 Änderung durch
 :   Art. 2 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -4348,7 +4345,7 @@ für den Fall, dass noch die Strafvollstreckung betrieben wird, sind
 die Maßnahmen im Einvernehmen mit der Strafvollstreckungsbehörde
 und im Falle fortdauernder Inhaftierung auch im Einvernehmen mit
 der Justizvollzugsbehörde durchzuführen. § 63 Absatz 2 und 4 bis 8
-und § 64 sowie die *§§* 16 bis 21 des Bundespolizeigesetzes gelten
+und § 64 sowie die *§§ 16 bis 21* des Bundespolizeigesetzes gelten
 entsprechend.
 
 (2) Von Maßnahmen des Bundeskriminalamtes, die nach Absatz 1

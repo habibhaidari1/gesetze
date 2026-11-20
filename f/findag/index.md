@@ -83,18 +83,18 @@ Unbeschadet weiterer Befugnisse nach anderen Gesetzen kann die
 Bundesanstalt gegenüber den Instituten und anderen Unternehmen,
 die nach dem Kreditwesengesetz, dem Zahlungsdiensteaufsichtsgesetz,
 dem Versicherungsaufsichtsgesetz, dem Wertpapierhandelsgesetz, dem
-Kapitalanlagegesetzbuch sowie nach anderen Gesetzen beaufsichtigt
-werden, alle Anordnungen treffen, die geeignet und erforderlich
-sind, um verbraucherschutzrelevante Missstände zu verhindern
-oder zu beseitigen, wenn eine generelle Klärung im Interesse des
-Verbraucherschutzes geboten erscheint. Ein Missstand im Sinne
-des Satzes 2 ist ein erheblicher, dauerhafter oder wiederholter
-Verstoß gegen ein Verbraucherschutzgesetz, der nach seiner Art oder
-seinem Umfang die Interessen nicht nur einzelner Verbraucherinnen
-oder Verbraucher gefährden kann oder beeinträchtigt. Zur Erfüllung
-ihrer Aufgaben und nach Maßgabe des Satzes 2 kann die Bundesanstalt
-auch im Wege verdeckter Testkäufe Finanzprodukte erwerben und
-Finanzdienstleistungen in Anspruch nehmen.
+Kapitalanlagegesetzbuch, dem Absatzfinanzierungsaufsichtsgesetz sowie
+nach anderen Gesetzen beaufsichtigt werden, alle Anordnungen treffen,
+die geeignet und erforderlich sind, um verbraucherschutzrelevante
+Missstände zu verhindern oder zu beseitigen, wenn eine generelle
+Klärung im Interesse des Verbraucherschutzes geboten erscheint. Ein
+Missstand im Sinne des Satzes 2 ist ein erheblicher, dauerhafter
+oder wiederholter Verstoß gegen ein Verbraucherschutzgesetz, der
+nach seiner Art oder seinem Umfang die Interessen nicht nur einzelner
+Verbraucherinnen oder Verbraucher gefährden kann oder beeinträchtigt.
+Zur Erfüllung ihrer Aufgaben und nach Maßgabe des Satzes 2 kann
+die Bundesanstalt auch im Wege verdeckter Testkäufe Finanzprodukte
+erwerben und Finanzdienstleistungen in Anspruch nehmen.
 
 (1b) Die Bundesanstalt veröffentlicht ihre mittelfristigen
 strategischen Ziele. Die Übersicht enthält insbesondere
@@ -1304,8 +1304,15 @@ Rechtsverpflichtungen zu erfüllen sind.
         Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1
         und 4 Buchstabe h der Verordnung (EU) 2019/1020,
 
+15. durch
+
+    a)  eine aufgrund des § 3 Absatz 3 des
+        Absatzfinanzierungsaufsichtsgesetzes vorgenommene Prüfung,
+
+    b)  eine Bekanntmachung nach § 9 des Absatzfinanzierungsaufsichtsgesetzes,
+
 sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie
-13 und 14 von dem Betroffenen, im Fall der Nummer 1a von der
+13 bis 15 von dem Betroffenen, im Fall der Nummer 1a von der
 Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur
 Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer
 5 von dem registerführenden Unternehmen, in den Fällen der Nummer

@@ -808,7 +808,7 @@ Recht eines Mitgliedstaats der Europäischen Union oder eines anderen
 Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum,
 weist der Vertrag jedoch einen engen Zusammenhang mit dem Gebiet eines
 dieser Staaten auf, so sind die im Gebiet dieses Staates geltenden
-Bestimmungen zur Umsetzung der Verbraucherschutzrichtlinien gleichwohl
+Bestimmungen zur Umsetzung der Verbraucherschutzrichtlinie gleichwohl
 anzuwenden.
 
 (2) Ein enger Zusammenhang ist insbesondere anzunehmen, wenn der
@@ -826,16 +826,8 @@ Unternehmer
 
 und der Vertrag in den Bereich dieser Tätigkeit fällt.
 
-(3) Verbraucherschutzrichtlinien im Sinne dieser Vorschrift sind in
-ihrer jeweils geltenden Fassung:
-
-1.  die Richtlinie 93/13/EWG des Rates vom 5. April 1993 über
-    missbräuchliche Klauseln in Verbraucherverträgen (ABl. L 95 vom
-    21\.4.1993, S. 29);
-
-2.  die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates
-    vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung
-    der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66).
+(3) Verbraucherschutzrichtlinie im Sinne dieser Vorschrift ist die
+Richtlinie 93/13/EWG.
 
 (4) Unterliegt ein Teilzeitnutzungsvertrag, ein Vertrag über ein
 langfristiges Urlaubsprodukt, ein Wiederverkaufsvertrag oder ein
@@ -4324,6 +4316,36 @@ ab dem Zeitpunkt der Änderungsvereinbarung § 585a des Bürgerlichen
 Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
 
 
+##### § 71 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge und zur Regelung der Förderung klimaneutraler Mobilität
+
+(1) Auf Schuldverhältnisse, die ein Verbraucherdarlehen, eine
+Finanzierungshilfe, die damit verbundene Lieferung einer Ware oder
+damit verbundene Erbringung einer anderen Leistung, die Vermittlung
+von Verbraucherdarlehensverträgen und Finanzierungshilfen oder
+Beratungsleistungen zu solchen Verträgen zum Gegenstand haben und
+die vor dem 20. November 2026 bestanden, sind dieses Gesetz und
+das Bürgerliche Gesetzbuch jeweils in der vor dem 20. November 2026
+geltenden Fassung weiter anzuwenden. Für Verbraucherdarlehensverträge
+gemäß § 504 des Bürgerlichen Gesetzbuchs ist für das Bestehen
+des Vertrages auf den Zeitpunkt des Abschlusses des Vertrags
+abzustellen, mit dem der Darlehensgeber dem Darlehensnehmer das Recht
+einräumt, sein laufendes Konto in bestimmter Höhe zu überziehen. Für
+Verbraucherdarlehensverträge gemäß § 505 Absatz 1 des Bürgerlichen
+Gesetzbuchs ist auf den Zeitpunkt des Abschlusses des Vertrags
+abzustellen, mit dem der Unternehmer mit dem Verbraucher ein Entgelt
+für den Fall vereinbart, dass er eine Überziehung seines laufenden
+Kontos duldet.
+
+(2) Abweichend von Absatz 1 Satz 1 sind auf unbefristete Allgemein-
+Verbraucherdarlehensverträge und entsprechende Finanzierungshilfen,
+die vor dem 20. November 2026 bestanden, Artikel 247 § 15 und 17
+dieses Gesetzes sowie § 492 Absatz 1 und 5 in Verbindung mit §
+493 Absatz 3, § 499 Absatz 1 und 2 und § 504 Absatz 1 Satz 1 und 3
+sowie die §§ 496, 504, 504a und 505 Absatz 1 und 2 des Bürgerlichen
+Gesetzbuchs in ihrer ab dem 20. November 2026 geltenden Fassung
+anzuwenden.
+
+
 ##### § 72 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren sowie zur Verbesserung der Verfügbarkeit von Vorsorgeverfügungen
 
 Auf einen Kaufvertrag, der vor dem 31. Juli 2026 geschlossen worden
@@ -7350,11 +7372,154 @@ Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
      § 356a Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs zur Verfügung
      gestellt wird oder wenn dem Verbraucher keine Eingangsbestätigung nach
      Maßgabe von § 356a Absatz 4 des Bürgerlichen Gesetzbuchs übermittelt
-     wird, oder
+     wird,
 
 15. eine Sache dem Verbraucher nicht innerhalb der nach § 433 Absatz 1
     Satz 1 in Verbindung mit § 475 Absatz 1 Satz 1 und 2 des Bürgerlichen
-    Gesetzbuchs maßgeblichen Leistungszeit übergeben wird.
+    Gesetzbuchs maßgeblichen Leistungszeit übergeben wird,
+
+16. der Verbraucher im Falle eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig nach § 491a Absatz 1
+    oder Absatz 5, § 493 Absatz 7 oder § 505 Absatz 1 des Bürgerlichen
+    Gesetzbuchs oder Artikel 247a § 2 informiert wird,
+
+17. dem Verbraucher im Falle eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs entgegen § 491a Absatz 2 des Bürgerlichen Gesetzbuchs kein
+    Vertragsentwurf ausgehändigt oder übermittelt wird,
+
+18. dem Verbraucher im Falle eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs entgegen § 491a Absatz 3 des Bürgerlichen Gesetzbuchs
+    keine angemessenen Erläuterungen gegeben werden,
+
+19. eine Vereinbarung eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs nicht gemäß § 492 Absatz 1 des Bürgerlichen Gesetzbuchs
+    zumindest in Textform abgeschlossen wird,
+
+20. eine Vereinbarung eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs entgegen § 492 Absatz 1a des Bürgerlichen Gesetzbuchs
+    mittels einer Voreinstellung für die Erklärung des Verbrauchers
+    abgeschlossen wird,
+
+21. eine Vereinbarung eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs entgegen § 492 Absatz 2 oder § 505 Absatz 1 des
+    Bürgerlichen Gesetzbuchs die erforderlichen Angaben nicht, nicht
+    richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise
+    enthält,
+
+22. nach Abschluss eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    dem Verbraucher entgegen § 492 Absatz 3 Satz 1 des Bürgerlichen
+    Gesetzbuchs keine Abschrift des Vertrags oder entgegen § 492 Absatz
+    3 Satz 2 des Bürgerlichen Gesetzbuchs kein Tilgungsplan zur Verfügung
+    gestellt wird,
+
+23. der Verbraucher im Falle eines Allgemein-Verbraucherdarlehensvertrags
+    oder einer Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen
+    Gesetzbuchs nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig nach § 493 Absatz 3, §
+    496 Absatz 2, § 499 Absatz 2 Satz 2, § 504 Absatz 1, § 505 Absatz 2
+    und § 505a Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs unterrichtet
+    wird,
+
+24. dem Verbraucher Geldmittel zum Zwecke der Vereinbarung eines
+    Allgemein-Verbraucherdarlehens oder einer Finanzierungshilfe nach §
+    506 Absatz 1 des Bürgerlichen Gesetzbuchs entgegen § 492 Absatz 8 Satz
+    1 des Bürgerlichen Gesetzbuchs zur Verfügung gestellt werden, ohne
+    dass dieser die Gewährung vorher angefordert oder ihrer Erbringung
+    ausdrücklich zugestimmt hat,
+
+25. ein Allgemein-Verbraucherdarlehensvertrag oder eine Finanzierungshilfe
+    nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs entgegen § 492 Absatz
+    9 des Bürgerlichen Gesetzbuchs mit einem auffälligen Missverhältnis
+    zwischen dem vertraglichen effektiven Jahreszinssatz und dem
+    marktüblichen effektiven Jahreszinssatz abgeschlossen wird,
+
+26. der Abschluss eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    entgegen § 492a Absatz 1 des Bürgerlichen Gesetzbuchs davon
+    abhängig gemacht wird, dass der Verbraucher oder ein Dritter weitere
+    Finanzprodukte oder -dienstleistungen erwirbt,
+
+27. im Falle eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    dem Verbraucher entgegen § 496 Absatz 1 des Bürgerlichen Gesetzbuchs
+    ein Einwendungsverzicht entgegengehalten wird, dem Verbraucher
+    entgegen der in § 499 Absatz 1 des Bürgerlichen Gesetzbuchs
+    vorgeschriebenen Weise gekündigt wird oder dem Verbraucher entgegen
+    § 500 Absatz 1 des Bürgerlichen Gesetzbuchs verwehrt wird, einen
+    unbefristeten Vertrag jederzeit oder bei Vereinbarung einer
+    Kündigungsfrist mit einer längeren Kündigungsfrist als einem Monat
+    zu kündigen,
+
+28. der Verbraucher entgegen § 497a Absatz 1 des Bürgerlichen Gesetzbuchs
+    nicht an Schuldnerberatungsdienste verwiesen wird,
+
+29. gegenüber dem Verbraucher entgegen § 497a Absatz 2 bis 4 des
+    Bürgerlichen Gesetzbuchs keine angemessene Nachsicht walten gelassen
+    wird oder entgegen § 504 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs
+    keine Rückzahlung in Raten angeboten wird,
+
+30. im Falle eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    entgegen § 499 Absatz 3 des Bürgerlichen Gesetzbuchs durch den
+    Unternehmer ein Vertrag beendet oder seine Änderung verlangt wird,
+
+31. im Falle einer vorzeitigen Rückzahlung eines Allgemein-
+    Verbraucherdarlehensvertrags oder einer Finanzierungshilfe nach §
+    506 Absatz 1 des Bürgerlichen Gesetzbuchs vom Verbraucher eine nicht
+    den Vorgaben des § 502 des Bürgerlichen Gesetzbuchs entsprechende
+    Vorfälligkeitsentschädigung verlangt wird,
+
+32. im Falle einer Kündigung oder Teilkündigung einer eingeräumten
+    Überziehungsmöglichkeit oder Überschreitungsmöglichkeit der
+    Verbraucher entgegen § 504 Absatz 2 Satz 1 des Bürgerlichen
+    Gesetzbuchs nicht, nicht in der vereinbarten Weise oder nicht
+    rechtzeitig über diese informiert wird,
+
+33. im Falle einer regelmäßigen geduldeten Überziehung gemäß § 505 Absatz
+    2 Satz 2 des Bürgerlichen Gesetzbuchs entgegen § 504a Absatz 1, 2 und
+    Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs dem Verbraucher keine
+    Beratung angeboten wird,
+
+34. vor Abschluss eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    entgegen den §§ 505a und 505b des Bürgerlichen Gesetzbuchs die
+    Kreditwürdigkeitsprüfung nicht oder nicht richtig durchgeführt wird,
+
+35. bei einem Allgemein-Verbraucherdarlehensvertrag oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    bei Beratungsleistungen nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gemäß § 511
+    Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
+
+36. bei Erbringung einer Beratungsleistung bei einem Allgemein-
+    Verbraucherdarlehensvertrag oder einer Finanzierungshilfe nach § 506
+    Absatz 1 des Bürgerlichen Gesetzbuchs eine Empfehlung entgegen § 511
+    Absatz 3 des Bürgerlichen Gesetzbuchs abgegeben wird,
+
+37. bei Erbringung einer Beratungsleistung bei einem Allgemein-
+    Verbraucherdarlehensvertrag oder einer Finanzierungshilfe nach § 506
+    Absatz 1 des Bürgerlichen Gesetzbuchs entgegen § 511 Absatz 4 des
+    Bürgerlichen Gesetzbuchs nicht gewarnt wird,
+
+38. der Verbraucher bei der Vermittlung eines Allgemein-
+    Verbraucherdarlehensvertrags oder einer Finanzierungshilfe nach
+    § 506 Absatz 1 des Bürgerlichen Gesetzbuchs nicht, nicht richtig,
+    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig gemäß § 655a Absatz 2 des Bürgerlichen Gesetzbuchs
+    informiert wird oder
+
+39. der Verbraucher entgegen Artikel 247a § 3 durch die Bedingungen für
+    die Gewährung eines Allgemein-Verbraucherdarlehensvertrags oder einer
+    Finanzierungshilfe nach § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+    benachteiligt wird.
 
 (3) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit
 Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
@@ -7372,22 +7537,29 @@ Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 entgegen § 1 Absatz 1 Verbraucherinteressen im Zusammenhang mit
-Verbraucherverträgen nach § 1 Absatz 2 oder 3 verletzt.
+Verbraucherverträgen nach § 1 Absatz 2
+
+1.  Nummer 1 bis 14a oder Nummer 15 oder
+
+2.  Nummer 16 bis 38 oder Nummer 39,
+
+jeweils auch in Verbindung mit § 1 Absatz 3, verletzt.
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis
 zu fünfzigtausend Euro geahndet werden.
 
-(3) Gegenüber einem Unternehmer mit einem Jahresumsatz von mehr als
-1,25 Millionen Euro kann abweichend von Absatz 2, auch in Verbindung
-mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten,
-die Ordnungswidrigkeit nach Absatz 1 mit einer Geldbuße bis zu
-4 Prozent des Jahresumsatzes geahndet werden. Jahresumsatz nach
-Satz 1 ist die Summe aller Umsatzerlöse, die der Unternehmer in
-dem der Behördenentscheidung vorausgegangenen Geschäftsjahr in den
-Mitgliedstaaten der Europäischen Union erzielt hat, die von dem
-Verstoß betroffen sind. Der Jahresumsatz kann geschätzt werden. Liegen
-keine Anhaltspunkte für eine Schätzung des Jahresumsatzes vor, beträgt
-das Höchstmaß der Geldbuße zwei Millionen Euro.
+(3) Gegenüber einem Unternehmer mit einem Jahresumsatz von mehr
+als 1,25 Millionen Euro kann in den Fällen des Absatzes 1 Nummer 1
+abweichend von Absatz 2, auch in Verbindung mit § 30 Absatz 2 Satz
+2 des Gesetzes über Ordnungswidrigkeiten, die Ordnungswidrigkeit
+nach Absatz 1 mit einer Geldbuße bis zu 4 Prozent des Jahresumsatzes
+geahndet werden. Jahresumsatz nach Satz 1 ist die Summe aller
+Umsatzerlöse, die der Unternehmer in dem der Behördenentscheidung
+vorausgegangenen Geschäftsjahr in den Mitgliedstaaten der Europäischen
+Union erzielt hat, die von dem Verstoß betroffen sind. Der
+Jahresumsatz kann geschätzt werden. Liegen keine Anhaltspunkte für
+eine Schätzung des Jahresumsatzes vor, beträgt das Höchstmaß der
+Geldbuße zwei Millionen Euro.
 
 (4) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist auf die
 Festsetzung der Geldbuße gegen einen Unternehmer nicht anzuwenden.
@@ -7400,7 +7572,7 @@ der Fassung vom 19. Dezember 2024 geahndet werden.
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
-#### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
+#### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, Finanzierungshilfen und Darlehensvermittlungsverträgen
 
 
 ##### § 1 Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
@@ -7439,9 +7611,7 @@ Vertragsverhältnis auf einen Dritten übertragen darf, soweit nicht die
 Abtretung im Vertrag ausgeschlossen wird oder der Darlehensnehmer der
 Übertragung zustimmen muss.
 
-(4) Wenn der Darlehensgeber entscheidet, den Darlehensvertrag
-nicht abzuschließen, muss er dies dem Darlehensnehmer unverzüglich
-mitteilen.
+(4) (weggefallen)
 
 
 ##### § 2 Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
@@ -7450,74 +7620,170 @@ mitteilen.
 Darlehensgeber den Darlehensnehmer über die Einzelheiten nach den §§
 3 bis 5 und 8 bis 13 unterrichten, und zwar rechtzeitig vor Abgabe
 der Vertragserklärung des Darlehensnehmers. Die Unterrichtung erfolgt
-in Textform.
+auf Papier oder auf einem anderen dauerhaften Datenträger nach Wahl
+des Darlehensnehmers.
 
-(2) Für die Unterrichtung nach Absatz 1 ist vorbehaltlich des Absatzes
-3 die Europäische Standardinformation für Verbraucherkredite gemäß dem
-Muster in Anlage 4 zu verwenden.
+(2) Für die vorvertragliche Unterrichtung nach Absatz 1 ist
+vorbehaltlich des Absatzes 3 die Europäische Standardinformation für
+Verbraucherkredite gemäß dem Muster in Anlage 4 zu verwenden. Alle
+Informationen in dem Muster sind in gleicher Weise hervorzuheben,
+müssen kohärent und gut lesbar sein und den technischen
+Einschränkungen des Datenträgers, auf dem sie dargestellt werden,
+Rechnung tragen. Die Informationen sind auf den verschiedenen
+Kanälen angemessen und in geeigneter Weise darzustellen, wobei der
+Interoperabilität Rechnung zu tragen ist.
 
-(3) Soll ein Allgemein-Verbraucherdarlehensvertrag gemäß § 495
-Absatz 2 Nummer 1 oder § 504 Absatz 2 des Bürgerlichen Gesetzbuchs
-abgeschlossen werden, kann der Darlehensgeber zur Unterrichtung die
-Europäische Verbraucherkreditinformation gemäß dem Muster in Anlage 5
-verwenden. Verwendet der Darlehensgeber das Muster nicht, hat er bei
-der Unterrichtung alle nach den §§ 3 bis 5 und 8 bis 13 erforderlichen
-Angaben gleichartig zu gestalten und hervorzuheben.
+(3) Soll ein Allgemein-Verbraucherdarlehensvertrag gemäß § 491
+Absatz 5 des Bürgerlichen Gesetzbuchs abgeschlossen werden, sind
+für die vorvertragliche Unterrichtung nach Absatz 1 die Europäischen
+Informationen für Verbraucherkredite gemäß dem Muster in Anlage 5 zu
+verwenden. Absatz 2 Satz 2 und 3 ist entsprechend anzuwenden.
 
-(4) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des
-Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber
-dem Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform
-übermittelt hat. Die in diesem Absatz genannten Verpflichtungen
-gelten bis 31. Dezember 2010 auch bei Übermittlung des Musters
-in den Anlagen 4 und 5 in der Fassung des Gesetzes zur Umsetzung
-der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der
-Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über
-das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355)
-als erfüllt.
+(4) Erfolgt die vorvertragliche Unterrichtung nach Absatz 1
+weniger als einen Tag vor Abgabe der bindenden Vertragserklärung
+des Darlehensnehmers, hat der Darlehensgeber den Darlehensnehmer
+auf Papier oder auf einem anderen im Darlehensvertrag benannten
+dauerhaften Datenträger nach Wahl des Darlehensnehmers innerhalb von
+einem bis sieben Tagen nach Zugang der bindenden Vertragserklärung des
+Darlehensnehmers an die Möglichkeit des Widerrufs gemäß § 495 Absatz
+1 des Bürgerlichen Gesetzbuchs sowie an das Verfahren für den Widerruf
+zu erinnern.
 
 
 ##### § 3 Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
-(1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen
-enthalten:
+(1) Die Unterrichtung vor Vertragsschluss muss folgende klare und
+verständliche Informationen enthalten:
 
-1.  den Namen und die Anschrift des Darlehensgebers,
+1.  den Namen, die Anschrift, die Telefonnummer und die E-Mail-Adresse
+    des Darlehensgebers,
 
-2.  die Art des Darlehens,
+2.  den Nettodarlehensbetrag,
 
-3.  den effektiven Jahreszins,
+3.  die Vertragslaufzeit,
 
-4.  den Nettodarlehensbetrag,
+4.  den Sollzinssatz oder gegebenenfalls die Sollzinssätze, falls unter
+    verschiedenen Umständen unterschiedliche Sollzinssätze gelten,
 
-5.  den Sollzinssatz,
+5.  den effektiven Jahreszins,
 
-6.  die Vertragslaufzeit,
+6.  den Gesamtbetrag,
 
-7.  Betrag, Zahl und Fälligkeit der einzelnen Teilzahlungen,
+7.  den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung
+    sowie gegebenenfalls anfallende Verzugskosten,
 
-8.  den Gesamtbetrag,
+8.  den Betrag, die Zahl und die Fälligkeit der einzelnen Teilzahlungen
+    sowie gegebenenfalls die Information, in welcher Reihenfolge die
+    ausstehenden Forderungen des Darlehensgebers, für die unterschiedliche
+    Sollzinssätze gelten, durch die Teilzahlungen getilgt werden,
 
-9.  die Auszahlungsbedingungen,
+9.  einen Warnhinweis zu den Folgen ausbleibender oder verspäteter
+    Zahlungen,
 
-10. alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung
-    oder der Verwendung eines Zahlungsinstruments, mit dem sowohl
+10. das Bestehen oder Nichtbestehen eines Widerrufsrechts und
+    gegebenenfalls die Widerrufsfrist,
+
+11. das Bestehen eines Rechts des Darlehensnehmers, das Darlehen vorzeitig
+    zurückzuzahlen und gegebenenfalls Informationen zum Anspruch des
+    Darlehensgebers auf eine angemessene Vorfälligkeitsentschädigung,
+
+12. die Art des Darlehens,
+
+13. die Auszahlungsbedingungen,
+
+14. falls unter verschiedenen Umständen unterschiedliche Sollzinssätze
+    gelten, die Bedingungen für die Anwendung jedes Sollzinssatzes und,
+    soweit vorhanden, Indizes oder Referenzzinssätze, die auf jeden
+    anfänglichen Sollzinssatz Anwendung finden, sowie die Zeiträume, die
+    Bedingungen und die Art und Weise der Anpassung jedes Sollzinssatzes,
+
+15. sofern der Darlehensvertrag mehrere Auszahlungsmöglichkeiten mit
+    unterschiedlichen Kosten oder Sollzinssätzen vorsieht und die
+    Berechnung des effektiven Jahreszinses auf der Vermutung beruht,
+    dass die für die Art des Darlehens übliche Auszahlungsmöglichkeit
+    vereinbart werde, einen Hinweis, dass die Nutzung anderer
+    Auszahlungsmöglichkeiten den effektiven Jahreszins erhöhen kann,
+
+16. gegebenenfalls alle sonstigen Kosten, insbesondere für einen
+    Kontoführungsvertrag, dessen Abschluss der Darlehensgeber vom
+    Darlehensnehmer für die Buchung der Zahlungsvorgänge verlangt,
+    oder für die Verwendung eines Zahlungsinstruments, mit dem sowohl
     Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die
     Bedingungen, unter denen die Kosten angepasst werden können,
 
-11. den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung
-    sowie gegebenenfalls anfallende Verzugskosten,
+17. ein repräsentatives Beispiel zur Veranschaulichung des Gesamtbetrags
+    und des effektiven Jahreszinses unter Angabe sämtlicher in die
+    Berechnung des effektiven Jahreszinses einfließender Annahmen und
+    unter Berücksichtigung der vom Darlehensnehmer genannten Wünsche zu
+    einzelnen Vertragsbedingungen,
 
-12. einen Warnhinweis zu den Folgen ausbleibender Zahlungen,
+18. falls zutreffend, einen Hinweis, dass der Darlehensnehmer infolge des
+    Vertragsabschlusses Notarkosten zu tragen hat,
 
-13. das Bestehen oder Nichtbestehen eines Widerrufsrechts,
+19. gegebenenfalls die Verpflichtung, zusätzlich zum Abschluss des
+    Darlehensvertrags einen zusammenhängenden Vertrag über eine
+    Leistung abzuschließen, wenn der Darlehensgeber den Abschluss des
+    Darlehensvertrags vom Abschluss dieses anderen Vertrags abhängig
+    macht oder wenn die Bedingungen für den Darlehensvertrag von denen
+    abweichen, zu denen er zusammen mit diesem angeboten wird,
 
-14. das Recht des Darlehensnehmers, das Darlehen vorzeitig zurückzuzahlen,
+20. falls zutreffend, die Sicherheiten, die der Darlehensgeber verlangt,
 
-15. die sich aus § 491a Abs. 2 des Bürgerlichen Gesetzbuchs ergebenden
+21. Informationen zur Art der Berechnung des Anspruchs auf
+    Vorfälligkeitsentschädigung des Darlehensgebers, soweit der
+    Darlehensgeber diesen Anspruch geltend machen will, falls der
+    Darlehensnehmer das Darlehen vorzeitig zurückzahlt,
+
+22. die sich aus § 30 Absatz 7 Satz 1 des Bundesdatenschutzgesetzes
+    ergebenden Rechte,
+
+23. die sich aus § 491a Absatz 2 des Bürgerlichen Gesetzbuchs ergebenden
     Rechte,
 
-16. die sich aus § 29 Abs. 7 des Bundesdatenschutzgesetzes ergebenden
-    Rechte.
+24. gegebenenfalls den Hinweis, dass der Preis auf Grundlage einer
+    automatisierten Datenverarbeitung, einschließlich Profiling im Sinne
+    von Artikel 4 Nummer 4 der Verordnung (EU) 2016/679 in der Fassung vom
+    27\. April 2016, personalisiert worden ist,
+
+25. gegebenenfalls den Zeitraum, für den sich der Darlehensgeber an die
+    übermittelten Informationen bindet,
+
+26. die für den Darlehensnehmer bestehende Möglichkeit des Zugangs zu
+    einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und
+    die Voraussetzungen für diesen Zugang,
+
+27. einen Warnhinweis und eine Erläuterung der rechtlichen und
+    finanziellen Folgen der Nichteinhaltung der sonstigen mit dem
+    Darlehensvertrag verbundenen Verpflichtungen und
+
+28. einen Tilgungsplan mit allen Zahlungen und Rückzahlungen während
+    der Vertragslaufzeit, falls zutreffend, auch für Leistungen, die
+    gleichzeitig im Zusammenhang mit dem Darlehensvertrag angeboten
+    werden, wobei die Angaben, falls unter verschiedenen Umständen
+    unterschiedliche Sollzinssätze gelten, auf angemessenen Erhöhungen des
+    Sollzinssatzes beruhen müssen.
+
+Die Informationen nach Satz 1 Nummer 1 bis 11 sind in auffallender
+Art und Weise unter dem Titel „Wesentliche Angaben“ im ersten
+Teil des Musters der Anlage 4 auf einer Seite und vor den weiteren
+Informationen darzustellen und von diesen erkennbar zu trennen. Falls
+die Informationen nach Satz 1 Nummer 1 bis 11 nicht in auffallender
+Art und Weise auf einer Seite dargestellt werden können, sind
+sie im ersten Teil des Musters der Anlage 4 auf höchstens zwei
+Seiten darzustellen. In diesem Fall sind die Informationen nach
+Satz 1 Nummer 1 hinsichtlich des Namens und Satz 1 Nummer 2 bis
+7 auf der ersten Seite darzustellen. Die Unterrichtung beschränkt
+sich auf Informationen nach Satz 1 Nummer 1 bis 11 bei Allgemein-
+Verbraucherdarlehensverträgen und Finanzierungshilfen gemäß § 506
+Absatz 1 des Bürgerlichen Gesetzbuchs,
+
+1.  die unentgeltlich mit lediglich begrenzten Kosten, die vom
+    Darlehensnehmer bei Zahlungsverzug zu zahlen sind, gewährt werden,
+
+2.  bei denen der Nettodarlehensbetrag weniger als 200 Euro beträgt oder
+
+3.  bei denen der Darlehensnehmer das Darlehen innerhalb von drei Monaten
+    zurückzuzahlen hat und nur geringe Kosten anfallen.
 
 (2) Gesamtbetrag ist die Summe aus Nettodarlehensbetrag und
 Gesamtkosten. Nettodarlehensbetrag ist der Höchstbetrag, auf den
@@ -7525,76 +7791,41 @@ der Darlehensnehmer aufgrund des Darlehensvertrags Anspruch hat.
 Die Gesamtkosten und der effektive Jahreszins sind nach § 16 der
 Preisangabenverordnung zu berechnen.
 
-(3) Der Gesamtbetrag und der effektive Jahreszins sind anhand eines
-repräsentativen Beispiels zu erläutern. Dabei sind sämtliche in
-die Berechnung des effektiven Jahreszinses einfließenden Annahmen
-anzugeben und die vom Darlehensnehmer genannten Wünsche zu einzelnen
-Vertragsbedingungen zu berücksichtigen. Der Darlehensgeber hat
-darauf hinzuweisen, dass sich der effektive Jahreszins unter
-Umständen erhöht, wenn der Verbraucherdarlehensvertrag mehrere
-Auszahlungsmöglichkeiten mit unterschiedlichen Kosten oder
-Sollzinssätzen vorsieht und die Berechnung des effektiven Jahreszinses
-auf der Vermutung beruht, dass die für die Art des Darlehens übliche
-Auszahlungsmöglichkeit vereinbart werde.
+(3) (weggefallen)
 
-(4) Die Angabe zum Sollzinssatz muss die Bedingungen und den
-Zeitraum für seine Anwendung sowie die Art und Weise seiner Anpassung
-enthalten. Ist der Sollzinssatz von einem Index oder Referenzzinssatz
-abhängig, sind diese anzugeben. Sieht der Verbraucherdarlehensvertrag
-mehrere Sollzinssätze vor, sind die Angaben für alle Sollzinssätze
-zu erteilen. Sind im Fall des Satzes 3 Teilzahlungen vorgesehen, ist
-anzugeben, in welcher Reihenfolge die ausstehenden Forderungen des
-Darlehensgebers, für die unterschiedliche Sollzinssätze gelten, durch
-die Teilzahlungen getilgt werden.
+(4) (weggefallen)
 
 
 ##### § 4 Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
-(1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen
-folgende Angaben enthalten, soweit sie für den in Betracht kommenden
-Vertragsabschluss erheblich sind:
+(1) Etwaige weitere Informationen des Darlehensgebers im
+Rahmen der vorvertraglichen Unterrichtung über den Allgemein-
+Verbraucherdarlehensvertrag müssen gut lesbar sein und in einem
+Dokument erteilt werden, das von dem Formular, das die Angaben gemäß
+den §§ 3 und 8 bis 13a enthält, getrennt ist, ihm jedoch beigefügt
+werden kann.
 
-1.  einen Hinweis, dass der Darlehensnehmer infolge des
-    Vertragsabschlusses Notarkosten zu tragen hat,
-
-2.  Sicherheiten, die der Darlehensgeber verlangt,
-
-3.  den Anspruch auf Vorfälligkeitsentschädigung und dessen
-    Berechnungsmethode, soweit der Darlehensgeber diesen Anspruch geltend
-    macht, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt,
-
-4.  gegebenenfalls den Zeitraum, für den sich der Darlehensgeber an die
-    übermittelten Informationen bindet.
-
-(2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von
-den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13a übermittelt
-werden.
-
-(3) Wird in einem Allgemein-Verbraucherdarlehensvertrag auf einen
-Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung
-(EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni
-2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten
-als Referenzwert oder zur Messung der Wertentwicklung eines
-Investmentfonds verwendet werden, und zur Änderung der Richtlinien
-2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl.
-L 171 vom 29.6.2016, S. 1) Bezug genommen, teilt der Darlehensgeber
+(2) Wird in einem Allgemein-Verbraucherdarlehensvertrag auf
+einen Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der
+Verordnung (EU) 2016/1011 Bezug genommen, teilt der Darlehensgeber
 dem Darlehensnehmer in einem gesonderten Dokument, das dem
 Formular „Europäische Standardinformationen für Verbraucherkredite“
-beigefügt werden kann, die Bezeichnung des Referenzwerts und den
-Namen des Administrators sowie die möglichen Auswirkungen auf den
-Darlehensnehmer mit.
+beigefügt werden kann, die Bezeichnung des Referenzwerts und
+den Namen des Administrators sowie die möglichen Auswirkungen
+auf den Darlehensnehmer mit. Satz 1 gilt nicht bei Allgemein-
+Verbraucherdarlehensverträgen und Finanzierungshilfen im Sinne von § 3
+Absatz 1 Satz 5.
 
 
 ##### § 5 Information bei besonderen Kommunikationsmitteln
 
-(1) Wählt der Darlehensnehmer für die Vertragsanbahnung bei Allgemein-
-Verbraucherdarlehensverträgen Kommunikationsmittel, die die
-Übermittlung der vorstehenden Informationen in der in § 2 vorgesehenen
-Form nicht gestatten, ist die vollständige Unterrichtung nach § 2
-unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung
-der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer
-6 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und
-4 enthalten.
+(1) Bei Telefongesprächen zur Vertragsanbahnung bei Allgemein-
+Verbraucherdarlehensverträgen muss die Beschreibung der wesentlichen
+Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6 zumindest die Angaben
+nach § 3 Absatz 1 Satz 1 Nummer 1 bis 11 und gegebenenfalls § 12
+Absatz 1 Satz 2 Nummer 1 und § 13a Absatz 1 Satz 1 enthalten. In
+diesem Fall ist die vollständige Unterrichtung gemäß § 2 unverzüglich
+nach Vertragsschluss auf einem dauerhaften Datenträger nachzuholen.
 
 (2) Bei Telefongesprächen, die sich auf Immobiliar-
 Verbraucherdarlehensverträge beziehen, muss die Beschreibung
@@ -7605,47 +7836,120 @@ Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
 ##### § 6 Vertragsinhalt
 
-(1) Der Verbraucherdarlehensvertrag muss klar und verständlich
-folgende Angaben enthalten:
+(1) Der Verbraucherdarlehensvertrag muss klar und prägnant folgende
+Angaben enthalten:
 
-1.  die in § 3 Abs. 1 Nr. 1 bis 14 und Abs. 4 genannten Angaben,
+1.  die Art des Darlehens,
 
-2.  den Namen und die Anschrift des Darlehensnehmers,
+2.  den Namen, die Anschrift, die Telefonnummer und die E-Mail-Adresse
+    des Darlehensgebers,
 
-3.  die für den Darlehensgeber zuständige Aufsichtsbehörde,
+3.  den Namen, die Anschrift, die Telefonnummer und die E-Mail-Adresse
+    des Darlehensnehmers,
 
-4.  einen Hinweis auf den Anspruch des Darlehensnehmers auf einen
-    Tilgungsplan nach § 492 Abs. 3 Satz 2 des Bürgerlichen Gesetzbuchs,
+4.  den Nettodarlehensbetrag,
 
-5.  das einzuhaltende Verfahren bei der Kündigung des Vertrags,
+5.  die Auszahlungsbedingungen,
 
-6.  sämtliche weitere Vertragsbedingungen.
+6.  die Vertragslaufzeit,
 
-Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend
-von Satz 1 nur die in § 3 Absatz 1 Nummer 1 bis 7, 10 und 13 sowie
-Absatz 4 genannten Angaben zwingend. Abweichend von § 3 Absatz 1
-Nummer 7 ist die Anzahl der Teilzahlungen nicht anzugeben, wenn die
-Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines
-Bausparvertrags abhängt.
+7.  den Sollzinssatz oder gegebenenfalls die Sollzinssätze, falls unter
+    verschiedenen Umständen unterschiedliche Sollzinssätze gelten,
+    die Bedingungen für die Anwendung jedes Sollzinssatzes und, soweit
+    vorhanden, Indizes oder Referenzzinssätze, die auf jeden anfänglichen
+    Sollzinssatz Anwendung finden, sowie die Zeiträume, die Bedingungen
+    und die Art und Weise der Anpassung jedes Sollzinssatzes,
+
+8.  den effektiven Jahreszins,
+
+9.  den Gesamtbetrag,
+
+10. den Betrag, die Zahl und die Fälligkeit der einzelnen Teilzahlungen
+    sowie gegebenenfalls die Angabe, in welcher Reihenfolge die
+    ausstehenden Forderungen des Darlehensgebers, für die unterschiedliche
+    Sollzinssätze gelten, durch die Teilzahlungen getilgt werden,
+
+11. im Falle der Darlehenstilgung bei einem Darlehen mit fester Laufzeit
+    einen Hinweis auf den Anspruch des Darlehensnehmers, kostenlos und
+    zu jedem beliebigen Zeitpunkt während der Vertragslaufzeit, einen
+    Tilgungsplan nach § 492 Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs
+    zu erhalten,
+
+12. gegebenenfalls alle sonstigen Kosten, insbesondere für einen
+    Kontoführungsvertrag, dessen Abschluss der Darlehensgeber vom
+    Darlehensnehmer für die Buchung der Zahlungsvorgänge verlangt,
+    oder für die Verwendung eines Zahlungsinstruments, mit dem sowohl
+    Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die
+    Bedingungen, unter denen die Kosten angepasst werden können,
+
+13. den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung
+    sowie gegebenenfalls anfallende Verzugskosten,
+
+14. einen Warnhinweis zu den Folgen ausbleibender oder verspäteter
+    Zahlungen,
+
+15. soweit zutreffend, einen Hinweis, dass der Darlehensnehmer Notarkosten
+    zu tragen hat,
+
+16. soweit zutreffend, die Sicherheiten und Versicherungen, die der
+    Darlehensgeber verlangt,
+
+17. das Bestehen oder Nichtbestehen eines Widerrufsrechts,
+
+18. die Art des dauerhaften Datenträgers, die der Darlehensnehmer für die
+    Übermittlung von Informationen und Erklärungen gemäß § 492 Absatz 5
+    Satz 2 in Verbindung mit § 493 Absatz 3 oder 7 oder gegebenenfalls
+    mit § 499 Absatz 1 oder 2 oder mit § 504 Absatz 1 Satz 1 oder 3
+    des Bürgerlichen Gesetzbuchs oder gegebenenfalls gemäß § 2 Absatz
+    4 auswählt,
+
+19. einen Hinweis auf das Recht des Darlehensnehmers, das Darlehen
+    vorzeitig zurückzuzahlen, das Verfahren für die vorzeitige Rückzahlung
+    und gegebenenfalls Informationen zum Anspruch des Darlehensgebers
+    nach § 502 des Bürgerlichen Gesetzbuchs auf eine angemessene
+    Vorfälligkeitsentschädigung sowie eine transparente und verständliche
+    Erläuterung, wie dieser Anspruch zu berechnen ist,
+
+20. das einzuhaltende Verfahren bei der Kündigung des Vertrags,
+
+21. die für den Darlehensnehmer bestehende Möglichkeit des Zugangs zu
+    einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und
+    die Voraussetzungen für diesen Zugang,
+
+22. sämtliche weitere Vertragsbedingungen,
+
+23. den Namen und die Anschrift der für den Darlehensgeber zuständigen
+    Aufsichtsbehörde und
+
+24. die einschlägigen Kontaktdaten von Anbietern von
+    Schuldnerberatungsdiensten nach dem Gesetz über den Zugang zu
+    Schuldnerberatungsdiensten für Verbraucher und eine Empfehlung, sich
+    im Falle von Rückzahlungsschwierigkeiten an diese zu wenden.
+
+Die Angaben nach Satz 1 müssen gut lesbar sein, den technischen
+Einschränkungen des Datenträgers, auf dem sie dargestellt werden,
+Rechnung tragen und sind auf den verschiedenen Kanälen angemessen
+und in geeigneter Weise darzustellen. Bei einem Immobiliar-
+Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur die in Satz
+1 Nummer 1, 2, 4, 6, 7, 8, 10, 12 und 17 genannten Angaben zwingend.
+Abweichend von Satz 1 Nummer 10 ist die Anzahl der Teilzahlungen nicht
+anzugeben, wenn die Laufzeit des Darlehensvertrags von dem Zeitpunkt
+der Zuteilung eines Bausparvertrags abhängt.
 
 (2) Besteht ein Widerrufsrecht nach § 495 des Bürgerlichen
 Gesetzbuchs, müssen im Vertrag Angaben zur Frist und zu anderen
-Umständen für die Erklärung des Widerrufs sowie ein Hinweis
-auf die Verpflichtung des Darlehensnehmers enthalten sein,
-ein bereits ausbezahltes Darlehen zurückzuzahlen und Zinsen
-zu vergüten. Der pro Tag zu zahlende Zinsbetrag ist anzugeben.
-Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in
-hervorgehobener und deutlich gestalteter Form, die bei Allgemein-
-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei
-Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8
-entspricht, genügt diese Vertragsklausel den Anforderungen der
-Sätze 1 und 2. Dies gilt bis zum Ablauf des 4. November 2011
-auch bei entsprechender Verwendung dieses Musters in der Fassung
-des Gesetzes zur Einführung einer Musterwiderrufsinformation für
-Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das
-Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung
-des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977).
-Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und
+Umständen für die Erklärung des Widerrufs, bei Allgemein-
+Verbraucherdarlehensverträgen einschließlich des für die Erklärung
+zu verwendenden dauerhaften Datenträgers gemäß § 356b Absatz 1a des
+Bürgerlichen Gesetzbuchs, den der Darlehensnehmer im Vertrag wählt,
+sowie ein Hinweis auf die Verpflichtung des Darlehensnehmers enthalten
+sein, ein bereits ausbezahltes Darlehen unverzüglich, spätestens
+innerhalb von 30 Tagen zurückzuzahlen und Zinsen zu vergüten. Der
+pro Tag zu zahlende Zinsbetrag ist anzugeben. Enthält ein Immobiliar-
+Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener
+und deutlich gestalteter Form, die dem Muster in Anlage 8 entspricht,
+so genügt diese Vertragsklausel den Anforderungen der Sätze 1 und
+2\. Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und
 Schriftgröße jeweils von dem Muster abweichen.
 
 (3) Bei Allgemein-Verbraucherdarlehensverträgen hat die Angabe
@@ -7655,27 +7959,9 @@ bekannt sind und die in die Berechnung des effektiven Jahreszinses
 einfließen.
 
 
-##### § 7 Weitere Angaben im Vertrag
+##### § 7 Weitere Angaben bei Immobiliar-Verbraucherdarlehensverträgen
 
-(1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und
-verständlich formulierte weitere Angaben enthalten, soweit sie für den
-Vertrag bedeutsam sind:
-
-1.  einen Hinweis, dass der Darlehensnehmer Notarkosten zu tragen hat,
-
-2.  die vom Darlehensgeber verlangten Sicherheiten und Versicherungen,
-    im Fall von entgeltlichen Finanzierungshilfen insbesondere einen
-    Eigentumsvorbehalt,
-
-3.  die Berechnungsmethode des Anspruchs auf Vorfälligkeitsentschädigung,
-    soweit der Darlehensgeber beabsichtigt, diesen Anspruch geltend zu
-    machen, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt,
-
-4.  den Zugang des Darlehensnehmers zu einem außergerichtlichen
-    Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die
-    Voraussetzungen für diesen Zugang.
-
-(2) Der Immobiliar-Verbraucherdarlehensvertrag muss folgende klar und
+Der Immobiliar-Verbraucherdarlehensvertrag muss folgende klar und
 verständlich formulierte weitere Angaben enthalten, soweit sie für den
 Vertrag bedeutsam sind:
 
@@ -7692,23 +7978,9 @@ Vertrag bedeutsam sind:
 
 ##### § 8 Verträge mit Zusatzleistungen
 
-(1) Verlangt der Darlehensgeber zum Abschluss eines Allgemein-
-Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche
-Leistungen des Darlehensgebers annimmt oder einen weiteren
-Vertrag abschließt, insbesondere einen Versicherungsvertrag oder
-Kontoführungsvertrag, hat der Darlehensgeber dies zusammen mit der
-vorvertraglichen Information anzugeben. In der vorvertraglichen
-Information sind Kontoführungsgebühren sowie die Bedingungen, unter
-denen sie angepasst werden können, anzugeben.
-
-(2) Werden im Zusammenhang mit einem Verbraucherdarlehensvertrag
-Kontoführungsgebühren erhoben, so sind diese sowie die Bedingungen,
-unter denen die Gebühren angepasst werden können, im Vertrag
-anzugeben.
-
-(3) Dienen die vom Darlehensnehmer geleisteten Zahlungen
-nicht der unmittelbaren Darlehenstilgung, sind die Zeiträume
-und Bedingungen für die Zahlung der Sollzinsen und der damit
+Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht
+der unmittelbaren Darlehenstilgung, sind die Zeiträume und
+Bedingungen für die Zahlung der Sollzinsen und der damit
 verbundenen wiederkehrenden und nicht wiederkehrenden Kosten im
 Verbraucherdarlehensvertrag aufzustellen. Verpflichtet sich der
 Darlehensnehmer mit dem Abschluss eines Verbraucherdarlehensvertrags
@@ -7717,101 +7989,93 @@ und aus dem Verbraucherdarlehensvertrag klar und verständlich
 hervorgehen, dass weder die während der Vertragslaufzeit fälligen
 Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer
 aus der Vermögensbildung erwirbt, die Tilgung des Darlehens
-gewährleisten, es sei denn, dies wird vertraglich vereinbart.
+gewährleisten, es sei denn, dies wird vertraglich vereinbart. Bei
+Allgemein-Verbraucherdarlehensverträgen und Finanzierungshilfen im
+Sinne von § 3 Absatz 1 Satz 5 muss der Vertrag die Angaben nach Satz 2
+nicht enthalten.
 
 
 ##### § 9 (weggefallen)
 
 
-##### § 10 Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
-
-(1) Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des
-Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur
-anzugeben:
-
-1.  in der vorvertraglichen Information
-
-    a)  die Angaben nach § 3 Absatz 1 Nummer 1 bis 6, 10, 11 und 16, Absatz 3
-        und 4 sowie gegebenenfalls nach § 4 Abs. 1 Nr. 4,
-
-    b)  die Bedingungen zur Beendigung des Darlehensverhältnisses und
-
-    c)  der Hinweis, dass der Darlehensnehmer jederzeit zur Rückzahlung
-        des gesamten Darlehensbetrags aufgefordert werden kann, falls ein
-        entsprechendes Kündigungsrecht für den Darlehensgeber vereinbart
-        werden soll;
-
-2.  im Vertrag
-
-    a)  die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1
-        bis 6, 9 und 10, Abs. 4,
-
-    b)  die Angaben nach § 6 Abs. 1 Nr. 2 und 5,
-
-    c)  die Gesamtkosten sowie
-
-    d)  gegebenenfalls der Hinweis nach Nummer 1 Buchstabe c.
-
-(2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
-wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
-zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3
-und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
-
-(3) Die Angabe des effektiven Jahreszinses ist entbehrlich, wenn der
-Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt und
-die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig
-werden.
+##### § 10 (weggefallen)
 
 
-##### § 11 Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
+##### § 11 Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 491 Absatz 5 des Bürgerlichen Gesetzbuchs
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß
-§ 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend
-von den §§ 3, 4 und 6 nur anzugeben:
+§ 491 Absatz 5 des Bürgerlichen Gesetzbuchs sind abweichend von § 2
+Absatz 4, § 3 Absatz 1 und den §§ 4, 6 und 8 nur zu übermitteln:
 
-1.  in der vorvertraglichen Information
+1.  in den vorvertraglichen Informationen klar und verständlich
 
-    a)  die Angaben nach § 3 Abs. 1 Nr. 1 bis 7, 10, 11, 14 und 16, Abs. 3
-        und 4,
+    a)  die Angaben nach § 3 Absatz 1 Satz 1 Nummer 1 bis 9 und 11,
 
-    b)  die Angaben nach § 4 Abs. 1 Nr. 3,
+    b)  die Angaben nach § 3 Absatz 1 Satz 1 Nummer 12, 21, 22, 24 bis 28,
 
-    c)  die Angaben nach § 10 Abs. 1 Nr. 1 Buchstabe b sowie
+    c)  die Angabe zum Bestehen oder Nichtbestehen eines Widerrufsrechts,
 
-    d)  gegebenenfalls die Angaben nach § 4 Abs. 1 Nr. 4;
+    d)  falls unter verschiedenen Umständen unterschiedliche Sollzinssätze
+        gelten, die Bedingungen für die Anwendung jedes Sollzinssatzes und,
+        soweit vorhanden, die Indizes oder Referenzzinssätze, die auf den
+        anfänglichen Sollzinssatz Anwendung finden, die vom Zeitpunkt des
+        Vertragsschlusses an zu zahlenden Entgelte und gegebenenfalls die
+        Bedingungen, unter denen diese Entgelte geändert werden können,
 
-2.  im Vertrag
+    e)  ein repräsentatives Beispiel zur Veranschaulichung des Gesamtbetrags
+        und des effektiven Jahreszinses unter Angabe sämtlicher in die
+        Berechnung des effektiven Jahreszinses einfließender Annahmen,
 
-    a)  die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1
-        bis 9, 11 und 14, Abs. 3 und 4 sowie
+    f)  die Bedingungen und das Verfahren zur Beendigung des Darlehensvertrags
+        und
 
-    b)  die Angaben nach § 6 Abs. 1 Nr. 2 bis 4 und 6.
+    g)  falls ein entsprechendes Kündigungsrecht für den Darlehensgeber
+        vereinbart werden soll, der Hinweis, dass der Darlehensnehmer
+        jederzeit zur Rückzahlung des gesamten Darlehensbetrags aufgefordert
+        werden kann,
+
+2.  im Vertrag klar und prägnant die Angaben nach § 6 Absatz 1 Satz 1
+    Nummer 1 bis 10 und 13 und nach § 8 Satz 2.
+
+Die Informationen nach Satz 1 Nummer 1 Buchstabe a und c sind in
+auffallender Art und Weise unter dem Titel „Wesentliche Angaben“
+im ersten Teil des Musters der Anlage 5 auf einer Seite und vor
+den weiteren Informationen darzustellen und von diesen erkennbar zu
+trennen. Falls die Informationen nach Satz 2 nicht in auffallender
+Art und Weise auf einer Seite dargestellt werden können, sind sie
+im ersten Teil des Musters der Anlage 5 auf höchstens zwei Seiten
+darzustellen. In diesem Fall sind die Informationen nach Satz 1
+Nummer 1 Buchstabe a in Verbindung mit § 3 Absatz 1 Satz 1 Nummer
+1 hinsichtlich des Namens und nach Satz 1 Nummer 1 Buchstabe a in
+Verbindung mit § 3 Absatz 1 Satz 1 Nummer 2 bis 7 auf der ersten
+Seite darzustellen. Bei Allgemein-Verbraucherdarlehensverträgen und
+Finanzierungshilfen im Sinne von § 3 Absatz 1 Satz 5 beschränkt sich
+die Unterrichtung nach Satz 1 Nummer 1 auf die Informationen nach Satz
+1 Nummer 1 Buchstabe a und c.
 
 (2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
 wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 6
-zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und
-4 enthalten.
+zumindest die Angaben nach Absatz 1 Satz 1 Nummer 1 Buchstabe a und
+c und gegebenenfalls § 12 Absatz 1 Satz 2 Nummer 1 und § 13a Absatz 1
+Satz 1 enthalten.
 
-(3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Absatz 2 Nummer 1
-des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des
-§ 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt §
-10\. Die Absätze 1 und 2 sind nicht anzuwenden.
+(3) (weggefallen)
 
 
-##### § 12 Verbundene Verträge und entgeltliche Finanzierungshilfen
+##### § 12 Verbundene Verträge und Finanzierungshilfen
 
-(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz
-1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über
-entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder
+(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506
+Absatz 1 und 1a des Bürgerlichen Gesetzbuchs bezeichneten
+Verträge über Finanzierungshilfen. Bei diesen Verträgen oder
 Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß
 § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen
 eine Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen
-Gesetzbuchs angegeben ist, muss enthalten:
+Gesetzbuchs angegeben ist, muss
 
 1.  die vorvertragliche Information, auch in den Fällen des § 5, den
-    Gegenstand und den Barzahlungspreis,
+    Gegenstand und den Barzahlungspreis enthalten,
 
-2.  der Vertrag
+2.  der Vertrag folgende Angaben enthalten:
 
     a)  den Gegenstand und den Barzahlungspreis sowie
 
@@ -7819,40 +8083,46 @@ Gesetzbuchs angegeben ist, muss enthalten:
         Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen
         für die Ausübung dieser Rechte.
 
-Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in
-hervorgehobener und deutlich gestalteter Form, die bei Allgemein-
-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei
-Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8
-entspricht, genügt diese Vertragsklausel bei verbundenen Verträgen
-sowie Geschäften gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen
-Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten
-Anforderungen. Dies gilt bis zum Ablauf des 4. November 2011
-auch bei entsprechender Verwendung dieses Musters in der Fassung
-des Gesetzes zur Einführung einer Musterwiderrufsinformation für
-Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das
-Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung
-des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977).
-Bei Verträgen über eine entgeltliche Finanzierungshilfe treten
-diese Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall
+Die Information nach Satz 2 Nummer 1 ist zusätzlich zu den
+Informationen nach § 3 Absatz 1 Satz 2 oder § 11 Absatz 1 Satz 2
+in auffallender Art und Weise unter dem Titel „Wesentliche Angaben“
+im ersten Teil des Musters der Anlage 4 oder Anlage 5 auf einer
+Seite, vor und erkennbar getrennt von den weiteren Informationen
+darzustellen. Falls die Informationen nach Satz 3 nicht in
+auffallender Art und Weise auf einer Seite dargestellt werden
+können, sind sie im ersten Teil des Musters der Anlage 4 oder der
+Anlage 5 auf höchstens zwei Seiten darzustellen. In diesem Fall ist
+zusätzlich zu den Informationen nach § 3 Absatz 1 Satz 4 oder § 11
+Absatz 1 Satz 4 auch die Information nach Satz 2 Nummer 1 auf der
+ersten Seite darzustellen. Enthält der Verbraucherdarlehensvertrag
+eine Vertragsklausel in hervorgehobener und deutlich gestalteter
+Form, die bei Immobiliar-Verbraucherdarlehensverträgen dem Muster
+in Anlage 8 entspricht, genügt diese Vertragsklausel bei verbundenen
+Verträgen sowie Geschäften gemäß § 360 Absatz 2 Satz 2 des
+Bürgerlichen Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten
+Anforderungen. Bei Verträgen über eine entgeltliche Finanzierungshilfe
+gemäß § 506 Absatz 1a des Bürgerlichen Gesetzbuchs treten diese
+Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall
 vorliegenden Vertragstyp angepasst sind. Der Darlehensgeber darf
-unter Beachtung von Satz 3 in Format und Schriftgröße von dem Muster
+unter Beachtung von Satz 6 in Format und Schriftgröße von dem Muster
 abweichen.
 
 (2) Bei Verträgen gemäß § 506 Absatz 2 Satz 1 Nummer 3 des
-Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14,
-§ 4 Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2
-ist nicht anzuwenden. Hat der Unternehmer den Gegenstand für den
-Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der
-Anschaffungspreis.
+Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Absatz 1 Satz
+1 Nummer 11 und 21 und § 6 Absatz 1 Satz 1 Nummer 19 entbehrlich.
+§ 14 Abs. 1 Satz 2 ist nicht anzuwenden. Hat der Unternehmer den
+Gegenstand für den Verbraucher erworben, tritt an die Stelle des
+Barzahlungspreises der Anschaffungspreis.
 
 
 ##### § 13 Darlehensvermittler bei Verbraucherdarlehensverträgen
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines
 Verbraucherdarlehensvertrags oder eines Vertrags über eine
-entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so
-ist der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift
-des beteiligten Darlehensvermittlers zu ergänzen.
+Finanzierungshilfe gemäß § 506 des Bürgerlichen Gesetzbuchs ein
+Darlehensvermittler beteiligt, so ist der Vertragsinhalt nach § 6 Abs.
+1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers
+zu ergänzen.
 
 (2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des
 Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat
@@ -7865,7 +8135,7 @@ unterrichten über
 2.  die Tatsache, ob er für die Vermittlung von einem Dritten ein Entgelt
     oder sonstige Anreize erhält sowie gegebenenfalls die Höhe,
 
-3.  den Umfang seiner Befugnisse, insbesondere, ob er ausschließlich für
+3.  den Umfang seiner Befugnisse und darüber, ob er ausschließlich für
     einen oder mehrere bestimmte Darlehensgeber oder unabhängig tätig
     wird, und
 
@@ -7886,20 +8156,30 @@ Darlehensvermittler und Darlehensgeber haben sicherzustellen, dass
 die andere Partei eine Abschrift des Vertrags im Sinne von Absatz
 1 erhält.
 
-(4) Wirbt der Darlehensvermittler gegenüber einem Verbraucher für den
-Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über
-eine entgeltliche Finanzierungshilfe, so hat er hierbei die Angaben
-nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
+(4) Wirbt der Darlehensvermittler gegenüber einem Verbraucher
+für den Abschluss eines Verbraucherdarlehensvertrags oder eines
+Vertrags über eine Finanzierungshilfe gemäß § 506 des Bürgerlichen
+Gesetzbuchs, so hat er hierbei die Angaben nach Absatz 2 Satz 1 Nummer
+3 einzubeziehen.
 
 
 ##### § 13a Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
 
-Ist bei der Anbahnung oder beim Abschluss eines Allgemein-
+(1) Ist bei der Anbahnung oder beim Abschluss eines Allgemein-
 Verbraucherdarlehensvertrags oder eines Vertrags über eine
-entsprechende entgeltliche Finanzierungshilfe ein Darlehensvermittler
-beteiligt, so sind die vorvertraglichen Informationen nach § 3
-Absatz 1 Nummer 1 um den Namen und die Anschrift des beteiligten
-Darlehensvermittlers zu ergänzen.
+entsprechende Finanzierungshilfe gemäß § 506 Absatz 1 des Bürgerlichen
+Gesetzbuchs ein Darlehensvermittler beteiligt, so sind die
+vorvertraglichen Informationen nach § 3 Absatz 1 Satz 1 Nummer 1 um
+den Namen, die Anschrift, die Telefonnummer und die E-Mail-Adresse des
+beteiligten Darlehensvermittlers zu ergänzen. § 3 Absatz 1 Satz 2 bis
+4 und § 11 Absatz 1 Satz 2 bis 4 sind mit der Maßgabe anzuwenden, dass
+die Regelungen zu den Angaben über den Darlehensgeber entsprechend
+auch für den Darlehensvermittler gelten.
+
+(2) Bei Allgemein-Verbraucherdarlehensverträgen hat der
+Darlehensvermittler dem Darlehensgeber die erforderlichen
+Informationen, die er von dem Darlehensnehmer erhalten hat, zum Zweck
+der Kreditwürdigkeitsprüfung richtig und vollständig zu übermitteln.
 
 
 ##### § 13b Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
@@ -7945,9 +8225,7 @@ Darlehensvermittler dem Darlehensgeber die Informationen gemäß § 1
 Absatz 1, die er von dem Darlehensnehmer erhalten hat, zum Zweck der
 Kreditwürdigkeitsprüfung richtig und vollständig zu übermitteln.
 
-(3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung
-eines Immobiliar-Verbraucherdarlehensvertrags Beratungsleistungen an,
-gilt § 18 entsprechend.
+(3) (weggefallen)
 
 
 ##### § 14 Tilgungsplan
@@ -7974,17 +8252,16 @@ solange das Vertragsverhältnis besteht.
 ##### § 15 Unterrichtungen bei Zinsanpassungen
 
 (1) Eine Zinsanpassung in einem Verbraucherdarlehensvertrag oder einem
-Vertrag über eine entgeltliche Finanzierungshilfe wird erst wirksam,
-nachdem der Darlehensgeber den Darlehensnehmer über
+Vertrag über eine Finanzierungshilfe gemäß § 506 des Bürgerlichen
+Gesetzbuchs wird erst wirksam, nachdem der Darlehensgeber den
+Darlehensnehmer rechtzeitig über Folgendes unterrichtet hat:
 
 1.  den angepassten Sollzinssatz,
 
 2.  die angepasste Höhe der Teilzahlungen und
 
 3.  die Zahl und die Fälligkeit der Teilzahlungen, sofern sich diese
-    ändern,
-
-unterrichtet hat.
+    ändern.
 
 (2) Geht die Anpassung des Sollzinssatzes auf die Änderung eines
 Referenzzinssatzes zurück, können die Vertragsparteien einen von
@@ -7994,8 +8271,11 @@ Darlehensgebers vorsehen, den Darlehensnehmer nach Absatz 1 in
 regelmäßigen Zeitabständen zu unterrichten. Bei einem Immobiliar-
 Verbraucherdarlehensvertrag muss der Vertrag ferner die Pflicht
 vorsehen, auch über den neuen Referenzzinssatz zu unterrichten.
-Außerdem muss der Darlehensnehmer die Höhe des Referenzzinssatzes in
-den Geschäftsräumen des Darlehensgebers einsehen können.
+Außerdem muss der Darlehensnehmer eines Verbraucherdarlehens die Höhe
+des Referenzzinssatzes in den Geschäftsräumen des Darlehensgebers
+sowie, sofern der Darlehensgeber über einen Internetauftritt verfügt,
+in diesem Internetauftritt und, sofern der Darlehensgeber über eine
+mobile Anwendung verfügt, über diese mobile Anwendung einsehen können.
 
 (3) Werden bei einem Immobiliar-Verbraucherdarlehensvertrag Änderungen
 des Sollzinssatzes im Wege der Versteigerung auf den Kapitalmärkten
@@ -8048,14 +8328,16 @@ muss folgende Angaben enthalten:
 
 2.  den Betrag der Überziehung,
 
-3.  den Sollzinssatz und
+3.  den Sollzinssatz,
 
-4.  etwaige Vertragsstrafen, Kosten und Verzugszinsen.
+4.  etwaige Vertragsstrafen, Kosten und Verzugszinsen und
+
+5.  den Rückzahlungstermin.
 
 
-##### § 18 Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
+##### § 18 Vorvertragliche Informationen bei Beratungsleistungen für Verbraucherdarlehensverträge
 
-(1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-
+(1) Bevor der Darlehensgeber Beratungsleistungen für einen
 Verbraucherdarlehensvertrag erbringt oder einen entsprechenden
 Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu
 informieren,
@@ -8074,13 +8356,16 @@ Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht
 bestimmen, ist über die Methode zu informieren, die für die Berechnung
 verwendet wird.
 
-(2) Die Informationen sind auf einem dauerhaften Datenträger zu
+(2) Die Informationen sind bei Immobiliar-
+Verbraucherdarlehensverträgen auf einem dauerhaften Datenträger und
+bei Allgemein-Verbraucherdarlehensverträgen auf Papier oder auf einem
+anderen dauerhaften Datenträger nach Wahl des Darlehensnehmers zu
 übermitteln; sie können in der gleichen Art und Weise wie weitere
-vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 erteilt
-werden.
+vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 oder § 4
+Absatz 1 erteilt werden.
 
 
-#### Art 247a - Allgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung
+#### Art 247a - Allgemeine Pflichten bei Verbraucherdarlehensverträgen, Verträgen über Finanzierungshilfen und deren Vermittlung
 
 
 ##### § 1 Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
@@ -8165,33 +8450,57 @@ in Fremdwährung für den Darlehensnehmer zu erläutern.
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Abschluss von
 Verträgen über entgeltliche Finanzierungshilfen gemäß § 506 Absatz
-1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs oder deren Vermittlung
+1a Satz 1 und 2 des Bürgerlichen Gesetzbuchs oder deren Vermittlung
 durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des
 Bürgerlichen Gesetzbuchs angeboten wird.
 
 
-##### § 2 Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
+##### § 2 Allgemeine Informationspflichten bei Allgemein-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
 
-(1) Unternehmer, die den Abschluss von Verträgen über die Einräumung
-von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs
-oder deren Vermittlung durch gebundene Darlehensvermittler gemäß §
-655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen
-für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs in
-Textform unentgeltlich Informationen über Entgelte und Auslagen der
-Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung
-nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und
-Auslagen gesetzlich verbindlich geregelt sind.
+(1) Unternehmer, die Allgemein-Verbraucherdarlehensverträge anbieten
+oder vermitteln, stellen auf Papier oder auf einem anderen dauerhaften
+Datenträger nach Wahl des Verbrauchers jederzeit unentgeltlich
+allgemeine Informationen über die von ihnen angebotenen oder zu
+vermittelnden Allgemein-Verbraucherdarlehensverträge gemäß Absatz
+2 zur Verfügung. In den Geschäftsräumen des Unternehmers sind diese
+Informationen zumindest auf Papier zur Verfügung zu stellen.
 
-(2) Der Sollzinssatz, der für die Überziehungsmöglichkeit berechnet
-wird, ist in den nach Absatz 1 zur Verfügung zu stellenden
-Informationen klar, eindeutig und in auffallender Weise anzugeben.
-Verfügt derjenige, der gemäß Absatz 1 Informationen bereitzustellen
-hat, über einen Internetauftritt, so ist der Sollzinssatz in
-entsprechender Weise auch dort anzugeben.
+(2) Die Informationen nach Absatz 1 müssen klar und verständlich sein
+und zumindest folgende Angaben enthalten:
 
-(3) Die Absätze 1 und 2 gelten entsprechend für Unternehmer, die den
-Abschluss von Entgeltvereinbarungen für die Duldung von Überziehungen
-gemäß § 505 des Bürgerlichen Gesetzbuchs anbieten.
+1.  die Identität, Anschrift, Telefonnummer und E-Mail-Adresse des
+    Urhebers der Informationen,
+
+2.  eine Beschreibung des Widerrufsrechts und
+
+3.  die Angaben gemäß § 1 Absatz 2 Satz 1 Nummer 2, 4 bis 8, 10, 12 und
+    13\.
+
+(3) Die Absätze 1 und 2 gelten nicht im Hinblick auf die Duldung
+von Überziehungen gemäß § 505 des Bürgerlichen Gesetzbuchs und
+Umschuldungen gemäß § 491 Absatz 5 des Bürgerlichen Gesetzbuchs.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend für das Angebot von
+Finanzierungshilfen gemäß § 506 Absatz 1 des Bürgerlichen Gesetzbuchs
+und deren Vermittlung.
+
+
+##### § 3 Bedingungen für Allgemein-Verbraucherdarlehensverträge und entsprechende Finanzierungshilfen
+
+(1) Ein Verbraucher, der seinen rechtmäßigen Aufenthalt in der
+Europäischen Union hat, darf durch die für die Gewährung eines
+Allgemein-Verbraucherdarlehensvertrags zu erfüllenden Bedingungen
+nicht aus Gründen seiner Staatsangehörigkeit oder seines Wohnsitzes
+oder aus einem der in Artikel 21 der Charta der Grundrechte der
+Europäischen Union genannten Gründe benachteiligt werden, wenn
+er einen Allgemein-Verbraucherdarlehensvertrag abschließen will,
+abschließt oder abgeschlossen hat. Die Möglichkeit, den Zugang zu
+einem Darlehen unter unterschiedlichen Bedingungen zu gewähren, die
+durch objektive Kriterien hinreichend gerechtfertigt sind, bleibt von
+Satz 1 unberührt.
+
+(2) Absatz 1 gilt entsprechend für Finanzierungshilfen gemäß § 506
+Absatz 1 des Bürgerlichen Gesetzbuchs.
 
 
 #### Art 248 - Informationspflichten bei der Erbringung von Zahlungsdienstleistungen
@@ -9379,165 +9688,180 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ### Anlage 3b (weggefallen)
 
 
-### Anlage 4 (zu Artikel 247 § 2) Europäische Standardinformationen für Verbraucherkredite
+### Anlage 4 (zu Artikel 247 § 2)
 
-(Fundstelle: BGBl. I 2009, S. 2393 - 2397;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2026 I Nr. 139, S. 39 – 43)
 
-1.  Name und Kontaktangaben des Kreditgebers/Kreditvermittlers
+Formular „Europäische Standardinformationen für Verbraucherkredite“
 
-    | Kreditgeber Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) | [Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers] |
-    | --- | --- |
-    | (falls zutreffend) Kreditvermittler Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) | [Name] [Anschrift für Kontakte mit dem Verbraucher] |
+**Wesentliche Angaben**
 
-    -----
+**Teil I [immer auf der ersten Seite des Formulars]**
 
-    *) Freiwillige Angaben des Kreditgebers
+| Kreditgeber Falls zutreffend Kreditvermittler | [Name]  [Name] |
+| --- | --- |
+| Gesamtkreditbetrag *Dies ist die Obergrenze oder Gesamtsumme, die im Rahmen des Kreditvertrags zur Verfügung gestellt wird.* |  |
+| Laufzeit des Kreditvertrags |  |
+| Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [%  – fest oder – variabel, – Zeiträume] |
+| Effektiver Jahreszins *Dies sind die Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags. Der effektive Jahreszins soll Ihnen dabei helfen, mehrere Angebote zu vergleichen.* |  |
+| Gesamtbetrag, den Sie zu zahlen haben *Dies ist der Betrag des zur Verfügung gestellten Kapitals zuzüglich Zinsen und etwaiger Kosten im Zusammenhang mit Ihrem Kredit.* | [Summe des Gesamtkreditbetrags und der Gesamtkosten des Kredits für den Verbraucher] |
+| Falls zutreffend Der Kredit wird in Form eines Zahlungsaufschubs für bestimmte Waren oder bestimmte Dienstleistungen gewährt oder ist mit der Lieferung bestimmter Waren oder der Erbringung bestimmter Dienstleistungen verbunden. Bezeichnung der Ware/Dienstleistung Barzahlungspreis |  |
+| Kosten bei Zahlungsverzug | Bei Zahlungsverzug wird Ihnen [... (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet. |
 
-    In allen Fällen, in denen „falls zutreffend“ angegeben ist, muss der
-    Kreditgeber das betreffende Kästchen ausfüllen, wenn die Information
-    für den Kreditvertrag relevant ist, oder die betreffende Information
-    bzw. die gesamte Zeile streichen, wenn die Information für die in
-    Frage kommende Kreditart nicht relevant ist.
+__________
 
-    Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch
-    die entsprechenden Angaben zu ersetzen.
+**Teil II [Falls die folgenden Elemente nicht auf einer Seite deutlich
+sichtbar dargestellt werden können, werden sie im ersten Teil des
+Formulars auf der zweiten Seite dargestellt]:**
 
-2.  Beschreibung der wesentlichen Merkmale des Kredits
+| Raten und gegebenenfalls Reihenfolge, in der die Raten angerechnet werden | Sie müssen folgende Zahlungen leisten: [Betrag, Anzahl und Periodizität der vom Verbraucher zu leistenden Zahlungen] Zinsen und/oder Gebühren sind wie folgt zu entrichten: |
+| --- | --- |
+| Warnhinweis zu den Folgen ausbleibender oder verspäteter Zahlungen *Ausbleibende oder verspätete Zahlungen können schwerwiegende Folgen für Sie haben (zum Beispiel Zwangsverkauf) und es Ihnen erschweren, in Zukunft Kredite zu erhalten.* |  |
+| Widerrufsrecht *Sie haben das Recht, den Kreditvertrag innerhalb von 14 Kalendertagen zu widerrufen.* | Ja/Nein |
+| Vorzeitige Rückzahlung *Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen.* Falls zutreffend Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. | Ja |
+| Kreditgeber Anschrift Telefon E-Mail Website |  |
+| Falls zutreffend Kreditvermittler Anschrift Telefon E-Mail Website |  |
 
-    | Kreditart |  |
-    | --- | --- |
-    | Gesamtkreditbetrag Obergrenze oder Summe aller Beträge, die aufgrund des Kreditvertrags zur Verfügung gestellt wird |  |
-    | Bedingungen für die Inanspruchnahme Gemeint ist, wie und wann Sie das Geld erhalten |  |
-    | Laufzeit des Kreditvertrags |  |
-    | Teilzahlungen und gegebenenfalls Reihenfolge, in der die Teilzahlungen angerechnet werden | Sie müssen folgende Zahlungen leisten: [Betrag, Anzahl und Periodizität der vom Verbraucher zu leistenden Zahlungen] Zinsen und/oder Kosten sind wie folgt zu entrichten: |
-    | Von Ihnen zu zahlender Gesamtbetrag Betrag des geliehenen Kapitals zuzüglich Zinsen und etwaiger Kosten im Zusammenhang mit Ihrem Kredit | [Summe des Gesamtkreditbetrags und der Gesamtkosten des Kredits] |
-    | (falls zutreffend) Der Kredit wird in Form eines Zahlungsaufschubs für eine Ware oder Dienstleistung gewährt oder ist mit der Lieferung bestimmter Waren oder der Erbringung einer Dienstleistung verbunden. Bezeichnung der Ware oder Dienstleistung Barzahlungspreis |  |
-    | (falls zutreffend) Verlangte Sicherheiten Beschreibung der von Ihnen im Zusammenhang mit dem Kreditvertrag zu stellenden Sicherheiten | [Art der Sicherheiten] |
-    | (falls zutreffend) Zahlungen dienen nicht der unmittelbaren Kapitaltilgung |  |
+__________
 
-3.  Kreditkosten
+Zusätzliche Informationen zum Kreditvertrag
 
-    | Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [% – gebunden oder – veränderlich (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz) – Zeiträume] |
-    | --- | --- |
-    | Effektiver Jahreszins Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags Diese Angabe hilft Ihnen dabei, unterschiedliche Angebote zu vergleichen. | [% Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen] |
-    | Ist – der Abschluss einer Kreditversicherung oder – die Inanspruchnahme einer anderen mit dem Kreditvertrag zusammenhängenden Nebenleistung zwingende Voraussetzung dafür, dass der Kredit überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird?  Falls der Kreditgeber die Kosten dieser Dienstleistungen nicht kennt, sind sie nicht im effektiven Jahreszins enthalten. | Ja/Nein [Falls ja, Art der Versicherung:] Ja/Nein [Falls ja, Art der Nebenleistung:] |
-    | Kosten im Zusammenhang mit dem Kredit |  |
-    | (falls zutreffend) Die Führung eines oder mehrerer Konten ist für die Buchung der Zahlungsvorgänge und der in Anspruch genommenen Kreditbeträge erforderlich. |  |
-    | (falls zutreffend) Höhe der Kosten für die Verwendung eines bestimmten Zahlungsmittels (z. B. einer Kreditkarte) |  |
-    | (falls zutreffend) Sonstige Kosten im Zusammenhang mit dem Kreditvertrag |  |
-    | (falls zutreffend) Bedingungen, unter denen die vorstehend genannten Kosten im Zusammenhang mit dem Kreditvertrag geändert werden können |  |
-    | (falls zutreffend) Verpflichtung zur Zahlung von Notarkosten |  |
-    | Kosten bei Zahlungsverzug Ausbleibende Zahlungen können schwer wiegende Folgen für Sie haben (z. B. Zwangsverkauf) und die Erlangung eines Kredits erschweren. | Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet. |
-
-4.  Andere wichtige rechtliche Aspekte
-
-    | Widerrufsrecht Sie haben das Recht, innerhalb von 14 Kalendertagen den Kreditvertrag zu widerrufen. | Ja/Nein |
-    | --- | --- |
-    | Vorzeitige Rückzahlung Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen. (falls zutreffend) Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu | [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 BGB] |
-    | Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft. |  |
-    | Recht auf einen Kreditvertragsentwurf Sie haben das Recht, auf Verlangen unentgeltlich eine Kopie des Kreditvertragsentwurfs zu erhalten. Diese Bestimmung gilt nicht, wenn der Kreditgeber zum Zeitpunkt der Beantragung nicht zum Abschluss eines Kreditvertrags mit Ihnen bereit ist. |  |
-    | (falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist | Diese Informationen gelten vom … bis … |
-
-    (falls zutreffend)
-
-5.  Zusätzliche Informationen beim Fernabsatz von Finanzdienstleistungen
-
-    | a) zum Kreditgeber |  |
-    | --- | --- |
-    | (falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) *) Freiwillige Angaben des Kreditgebers | [Name]  [Ladungsfähige Anschrift für Kontakte des Verbrauchers] |
-    | (falls zutreffend) Eintrag im Handelsregister | [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung] |
-    | (falls zutreffend) Zuständige Aufsichtsbehörde |  |
-    | b) zum Kreditvertrag |  |
-    | (falls zutreffend) Ausübung des Widerrufsrechts | [Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Widerrufsfrist, Angabe der Anschrift, an die die Widerruferklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts] |
-    | (falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt |  |
-    | (falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständige Gericht | [Entsprechende Klauseln hier wiedergeben] |
-    | (falls zutreffend) Wahl der Sprache | Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten. |
-    | c) zu den Rechtsmitteln |  |
-    | Verfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang dazu | [Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang] |
-
-
-### Anlage 5 (zu Artikel 247 § 2) Europäische Verbraucherkreditinformationen bei 1. Überziehungskrediten 2. Umschuldungen
-
-(Fundstelle: BGBl. I 2009, S. 2398 - 2401;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
-
-1.  Name und Kontaktangaben des Kreditgebers/Kreditvermittlers
-
-    | Kreditgeber Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) | [Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers] |
-    | --- | --- |
-    | (falls zutreffend) Kreditvermittler Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) | [Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers] |
-
-    -----
-
-    *) Freiwillige Angaben des Kreditgebers
-
-    In allen Fällen, in denen „falls zutreffend" angegeben ist, muss der
-    Kreditgeber das betreffende Kästchen ausfüllen, wenn die Information
-    für den Kreditvertrag relevant ist, oder die betreffende Information
-    bzw. die gesamte Zeile streichen, wenn die Information für die in
-    Frage kommende Kreditart nicht relevant ist.
-
-    Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch
-    die entsprechenden Angaben zu ersetzen.
-
-2.  Beschreibung der wesentlichen Merkmale des Kredits
+1.  **Beschreibung der wesentlichen Merkmale des Kreditprodukts**
 
     | Kreditart |  |
     | --- | --- |
-    | Gesamtkreditbetrag Obergrenze oder Summe aller Beträge, die aufgrund des Kreditvertrags zur Verfügung gestellt wird |  |
-    | Laufzeit des Kreditvertrags |  |
-    | (falls zutreffend) Sie können jederzeit zur Rückzahlung des gesamten Kreditbetrags aufgefordert werden. |  |
+    | Bedingungen für die Inanspruchnahme *Hier ist beschrieben, wie und wann Sie das Geld erhalten.* Falls zutreffend  Andere Mechanismen für die Inanspruchnahme des Vertrags zu der betreffenden Kreditart können zu einem höheren effektiven Jahreszins führen. | [Sofern der Kreditvertrag verschiedene Arten der Inanspruchnahme mit unterschiedlichen Kosten oder Sollzinssätzen vorsieht und der Kreditgeber die Annahme nach Nummer 2 Buchstabe b der Anlage zu § 16 der Preisangabenverordnung zugrunde legt, ist ein Hinweis darauf aufzunehmen, dass andere Mechanismen der Inanspruchnahme bei einem Vertrag zu der betreffenden Kreditart zu einem höheren effektiven Jahreszins führen können] |
+    | Falls zutreffend Verlangte Sicherheiten *Hier sind die von Ihnen im Zusammenhang mit dem Kreditvertrag zu stellenden Sicherheiten beschrieben.* | [Art der Sicherheiten] |
+    | Falls zutreffend Zahlungen dienen nicht der unmittelbaren Kapitaltilgung. |  |
+    | Falls zutreffend Der Preis wurde auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert. |  |
 
-3.  Kreditkosten
+2.  **Kreditkosten**
 
-    | Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [% – gebunden oder – veränderlich (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz)] |
+    | Falls zutreffend Die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [%  – fest oder – variabel (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz), – Zeiträume, – Bedingungen für die Anwendung jedes Sollzinssatzes, – Zeiträume, Bedingungen und Art und Weise der Anpassung jedes Sollzinssatzes] |
     | --- | --- |
-    | (falls zutreffend) Effektiver Jahreszins*) Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags Diese Angabe hilft Ihnen dabei, unterschiedliche Angebote zu vergleichen. | [%. Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen] |
-    | (falls zutreffend) Kosten (falls zutreffend) Bedingungen, unter denen diese Kosten geändert werden können | [Sämtliche vom Zeitpunkt des Vertragsabschlusses des Kreditvertrags an zu zahlende Kosten] |
-    | Kosten bei Zahlungsverzug | Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet. |
+    | Repräsentatives Beispiel zur Veranschaulichung des effektiven Jahreszinses und des vom Verbraucher zu zahlenden Gesamtbetrags | [% Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des effektiven Jahreszinses einfließender Annahmen] |
+    | Ist es für den Erhalt des Kredits oder für den Erhalt des Kredits zu den vorgegebenen Vertragsbedingungen zwingend erforderlich, Folgendes abzuschließen: |  |
+    | – eine Kreditversicherung oder – einen anderen Vertrag über eine Nebenleistung?*Falls der Kreditgeber die Kosten dieser Dienstleistungen nicht kennt, sind sie nicht im effektiven Jahreszins enthalten.* | Ja/Nein [falls ja, Art der Versicherung:]  Ja/Nein [falls ja, Art der Nebenleistung:] |
 
-    -----
+    **Damit verbundene Kosten**
 
-    *) Bei Überziehungsmöglichkeiten nach § 504 Abs. 2 des Bürgerlichen
-    Gesetzbuchs, bei denen der Kredit jederzeit vom Kreditgeber gekündigt
-    werden kann oder binnen drei Monaten zurückgezahlt werden muss, muss
-    der effektive Jahreszins nicht angegeben werden, wenn der Kreditgeber
-    außer den Sollzinsen keine weiteren Kosten verlangt.
+    | Falls zutreffend Entgelte für die Führung eines oder mehrerer Konten, die für die Buchung der Zahlungsvorgänge und der in Anspruch genommenen Kreditbeträge erforderlich sind |  |
+    | --- | --- |
+    | Falls zutreffend Höhe der Kosten für die Verwendung eines bestimmten Zahlungsmittels (zum Beispiel einer Kreditkarte) |  |
+    | Falls zutreffend Aus dem Kreditvertrag entstehende sonstige Kosten |  |
+    | Falls zutreffend Bedingungen, unter denen die oben genannten Kosten im Zusammenhang mit dem Kreditvertrag geändert werden können |  |
+    | Falls zutreffend Verpflichtung zur Zahlung von Notargebühren |  |
 
-4.  Andere wichtige rechtliche Aspekte
+3.  **Andere wichtige rechtliche Aspekte**
+
+    | Falls zutreffend Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. | [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 des Bürgerlichen Gesetzbuchs] |
+    | --- | --- |
+    | Datenbankabfrage *Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird.* |  |
+    | Recht auf einen Kreditvertragsentwurf *Sie haben das Recht, auf Verlangen unentgeltlich eine Kopie des Kreditvertragsentwurfs zu erhalten. Diese Bestimmung gilt, wenn der Kreditgeber zum Zeitpunkt Ihres Antrags zum Abschluss eines Kreditvertrags mit Ihnen bereit ist.* |  |
+    | Falls zutreffend Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist | Die Angaben in diesem Formular gelten vom [...] bis zum [...]. |
+    | Zu den Rechtsbehelfen *Sie haben das Recht auf Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren.* | [Das außergerichtliche Beschwerde- und Rechtsbehelfsverfahren für den Verbraucher und wie er es in Anspruch nehmen kann] |
+    | Warnhinweis zu den rechtlichen und finanziellen Folgen der Nichteinhaltung *Die Nichteinhaltung der mit dem Kreditvertrag verbundenen Verpflichtungen, bei der es sich nicht um verspätete oder nicht geleistete Zahlungen handelt, könnte schwerwiegende Folgen für Sie haben.* |  |
+    | Tilgungsplan | [Tilgungsplan mit allen vom Verbraucher während der Laufzeit des Kreditvertrags zu leistenden Zahlungen und Rückzahlungen, einschließlich der Zahlungen für Nebenleistungen] |
+
+    Falls zutreffend
+
+4.  **Zusätzliche Informationen beim Fernabsatz von
+    Finanzdienstleistungen**
+
+    | a) Zum Kreditgeber |  |
+    | --- | --- |
+    | Falls zutreffend Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon E-Mail Website | [Name]  [Anschrift, an die sich der Verbraucher wenden kann] |
+    | Falls zutreffend Eintrag im Handelsregister | [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung] |
+    | Falls zutreffend Aufsichtsbehörde |  |
+    | b) Zum Kreditvertrag |  |
+    | Falls zutreffend Ausübung des Widerrufsrechts | [Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Widerrufsfrist, Angabe der Anschrift, an die die Mitteilung über den Widerruf zu senden ist, sowie Folgen bei Nichtausübung des Widerrufsrechts] |
+    | Falls zutreffend Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt |  |
+    | Falls zutreffend Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder die zuständige Gerichtsbarkeit | [entsprechende Klausel hier wiedergeben] |
+    | Falls zutreffend Sprachenregelung | Die Informationen und Vertragsbedingungen werden auf [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags auf [Angabe der Sprache(n)] mit Ihnen kommunizieren. |
+
+__________
+
+
+### Anlage 5 (zu Artikel 247 § 2)
+
+(Fundstelle: BGBl. 2026 I Nr. 139, S. 44 – 47)
+
+Formular „Europäische Informationen für Verbraucherkredite“
+
+**Umschuldungen (§ 491 Absatz 5 des Bürgerlichen Gesetzbuchs)**
+
+**Wesentliche Angaben**
+
+**Teil I [immer auf der ersten Seite des Formulars]:**
+
+| Kreditgeber Falls zutreffend Kreditvermittler | [Name]  [Name] |
+| --- | --- |
+| Gesamtkreditbetrag *Dies ist die Obergrenze oder Gesamtsumme, die im Rahmen des Kreditvertrags zur Verfügung gestellt wird.* |  |
+| Laufzeit des Kreditvertrags |  |
+| Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [%  – fest oder – variabel, – Zeiträume] |
+| Effektiver Jahreszins *Dies sind die Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags. Der effektive Jahreszins soll Ihnen dabei helfen, mehrere Angebote zu vergleichen.* |  |
+| Gesamtbetrag, den Sie zu zahlen haben *Dies ist der Betrag des zur Verfügung gestellten Kapitals zuzüglich Zinsen und etwaiger Kosten im Zusammenhang mit Ihrem Kredit.* | [Summe des Gesamtkreditbetrags und der Gesamtkosten des Kredits für den Verbraucher] |
+| Falls zutreffend Der Kredit wird in Form eines Zahlungsaufschubs für bestimmte Waren oder bestimmte Dienstleistungen gewährt oder ist mit der Lieferung bestimmter Waren oder der Erbringung bestimmter Dienstleistungen verbunden. Bezeichnung der Ware/Dienstleistung Barzahlungspreis |  |
+| Kosten bei Zahlungsverzug | Bei Zahlungsverzug wird Ihnen [... (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet. |
+
+__________
+
+**Teil II [Falls die folgenden Elemente nicht auf einer Seite deutlich
+sichtbar dargestellt werden können, werden sie im ersten Teil des
+Formulars auf der zweiten Seite dargestellt]:**
+
+| Raten und gegebenenfalls Reihenfolge, in der die Raten angerechnet werden | Sie müssen folgende Zahlungen leisten: [Betrag, Anzahl und Periodizität der vom Verbraucher zu leistenden Zahlungen] Zinsen und/oder Gebühren sind wie folgt zu entrichten: |
+| --- | --- |
+| Warnhinweis zu den Folgen ausbleibender oder verspäteter Zahlungen *Ausbleibende oder verspätete Zahlungen können schwerwiegende Folgen für Sie haben (zum Beispiel Zwangsverkauf) und es Ihnen erschweren, in Zukunft Kredite zu erhalten.* |  |
+| Widerrufsrecht | Ja/Nein |
+| Vorzeitige Rückzahlung *Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen.* Falls zutreffend Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. |  |
+| Kreditgeber Anschrift Telefon E-Mail Website |  |
+| Falls zutreffend Kreditvermittler Anschrift Telefon E-Mail Website |  |
+
+__________
+
+Zusätzliche Informationen zum Kreditvertrag
+
+1.  **Beschreibung der wesentlichen Merkmale des Kreditprodukts**
+
+    | Kreditart |  |
+    | --- | --- |
+    | Falls zutreffend Hinweis, dass der Verbraucher jederzeit zur Rückzahlung des gesamten Kreditbetrags aufgefordert werden kann. |  |
+    | Falls zutreffend Der Preis wurde auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert. |  |
+
+2.  **Kreditkosten**
+
+    | Falls zutreffend Die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten | [%  – fest oder – variabel (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz), – Zeiträume, – Bedingungen für die Anwendung jedes Sollzinssatzes] |
+    | --- | --- |
+    | Repräsentatives Beispiel zur Veranschaulichung des effektiven Jahreszinses und des vom Verbraucher zu zahlenden Gesamtbetrags | [% Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des effektiven Jahreszinses einfließender Annahmen] |
+    | Falls zutreffend Kosten Falls zutreffend Bedingungen, unter denen diese Kosten geändert werden können | [Sämtliche vom Zeitpunkt des Abschlusses des Kreditvertrags an zu zahlende Kosten] |
+
+3.  **Andere wichtige rechtliche Aspekte**
 
     | Beendigung des Kreditvertrags | [Bedingungen und Verfahren zur Beendigung des Kreditvertrags] |
     | --- | --- |
-    | Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft. |  |
-    | (falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist | Diese Informationen gelten vom … bis … |
+    | Falls zutreffend Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. | [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 des Bürgerlichen Gesetzbuchs] |
+    | Datenbankabfrage *Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird.* |  |
+    | Falls zutreffend Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist. | Diese Angaben in diesem Formular gelten vom [...] bis zum [...]. |
+    | Zu den Rechtsbehelfen *Sie haben das Recht auf Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren.* | [Das außergerichtliche Beschwerde- und Rechtsbehelfsverfahren für den Verbraucher und wie er es in Anspruch nehmen kann] |
+    | Warnhinweis zu den rechtlichen und finanziellen Folgen der Nichteinhaltung *Die Nichteinhaltung der mit dem Kreditvertrag verbundenen Verpflichtungen, bei der es sich nicht um verspätete oder nicht geleistete Zahlungen handelt, könnte schwerwiegende Folgen für Sie haben.* |  |
+    | Tilgungsplan | [Tilgungsplan mit allen vom Verbraucher während der Laufzeit des Vertrags zu leistenden Zahlungen und Rückzahlungen, einschließlich der Zahlungen für Nebenleistungen] |
 
-    (falls zutreffend)
+    Falls zutreffend
 
-5.  Zusätzliche Informationen, die zu liefern sind, wenn die
-    vorvertraglichen Informationen einen Verbraucherkredit für eine
-    Umschuldung betreffen
+4.  **Zusätzliche Informationen beim Fernabsatz von
+    Finanzdienstleistungen**
 
-    | Teilzahlungen und gegebenenfalls Reihenfolge, in der die Teilzahlungen angerechnet werden | Sie müssen folgende Zahlungen leisten: [Repräsentatives Beispiel für einen Ratenzahlungsplan unter Angabe des Betrags, der Anzahl und der Periodizität der vom Verbraucher zu leistenden Zahlungen] |
+    | a) Zum Kreditgeber |  |
     | --- | --- |
-    | Von Ihnen zu zahlender Gesamtbetrag |  |
-    | Vorzeitige Rückzahlung Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen. (falls zutreffend) Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. | [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 BGB] |
-
-6.  Zusätzlich zu gebende Informationen beim Fernabsatz von
-    Finanzdienstleistungen
-
-    | a) zum Kreditgeber |  |
-    | --- | --- |
-    | (falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) *) Freiwillige Angaben des Kreditgebers. | [Name]  [Ladungsfähige Anschrift für Kontakte des Verbrauchers] |
-    | (falls zutreffend) Eintrag im Handelsregister | [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung] |
-    | (falls zutreffend) zuständige Aufsichtsbehörde |  |
-    | b) zum Kreditvertrag |  |
-    | Widerrufsrecht Sie haben das Recht, innerhalb von 14 Kalendertagen den Kreditvertrag zu widerrufen. (falls zutreffend) Ausübung des Widerrufsrechts | Ja/Nein [Praktische Hinweise zur Ausübung des Widerrufsrechts, u. a. Anschrift, an die die Widerrufserklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts] |
-    | (falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt |  |
-    | (falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständige Gericht | [Entsprechende Klauseln hier wiedergeben] |
-    | (falls zutreffend) Wahl der Sprache | Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten. |
-    | c) zu den Rechtsmitteln |  |
-    | Verfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang zu ihnen | [Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang] |
+    | Falls zutreffend Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon E-Mail Website | [Name]  [Anschrift, an die sich der Verbraucher wenden kann] |
+    | Falls zutreffend Eintrag im Handelsregister | [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung] |
+    | Falls zutreffend Aufsichtsbehörde |  |
+    | b) Zum Kreditvertrag |  |
+    | Falls zutreffend Ausübung des Widerrufsrechts | [Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Widerrufsfrist, Angabe der Anschrift, an die die Mitteilung über den Widerruf zu senden ist, sowie Folgen bei Nichtausübung des Widerrufsrechts] |
+    | Falls zutreffend Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt |  |
+    | Falls zutreffend Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder die zuständige Gerichtsbarkeit | [entsprechende Klausel hier wiedergeben] |
+    | Falls zutreffend Sprachenregelung | Die Informationen und Vertragsbedingungen werden auf [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags auf [Angabe der Sprache(n)] mit Ihnen kommunizieren. |
 
 
 ### Anlage 6 (zu Artikel 247 § 1 Absatz 2) Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
@@ -10207,113 +10531,7 @@ Es sind die Behörden anzugeben, die für die Überwachung des
 vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
 
-### Anlage 7 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
-
-(Fundstelle: BGBl. I 2021, 1682 - 1686;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-| **Widerrufsinformation** |  |  |
-| --- | --- | --- |
-| **Abschnitt 1** **Widerrufsrecht** |  |  |
-| **Der Darlehensnehmer*** kann seine Vertragserklärung **innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen**. |  |  |
-| Die Frist **beginnt nach Abschluss des Vertrags, aber erst**, nachdem der Darlehensnehmer **alle nachstehend unter Abschnitt 2 aufgeführten Pflichtangaben erhalten** hat. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen.**Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs**, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: |  |  |
-| **Abschnitt 2** **Für den Beginn der Widerrufsfrist erforderliche vertragliche Pflichtangaben** |  |  |
-| Die Pflichtangaben nach Abschnitt 1 Satz 2 umfassen: |  |  |
-|  | 1. | den Namen und die Anschrift des Darlehensgebers und des Darlehensnehmers; |
-|  | 2. | die Art des Darlehens; |
-|  | 3. | den Nettodarlehensbetrag; |
-|  | 4. | den effektiven Jahreszins; |
-|  | 5. | den Gesamtbetrag; |
-|  |  | Zu den Nummern 4 und 5: Die Angabe des effektiven Jahreszinses und des Gesamtbetrags hat unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des Abschlusses des Vertrags bekannt sind und die in die Berechnung des effektiven Jahreszinses einfließen. |
-|  | 6. | den Sollzinssatz; |
-|  |  | Die Angabe zum Sollzinssatz muss die Bedingungen und den Zeitraum für seine Anwendung sowie die Art und Weise seiner Anpassung enthalten. Ist der Sollzinssatz von einem Index oder Referenzzinssatz abhängig, so sind diese anzugeben. Sieht der Darlehensvertrag mehrere Sollzinssätze vor, so sind die Angaben für alle Sollzinssätze zu erteilen. |
-|  | 7. | die Vertragslaufzeit; |
-|  | 8. | den Betrag, die Zahl und die Fälligkeit der einzelnen Teilzahlungen; |
-|  |  | Sind im Fall mehrerer vereinbarter Sollzinssätze Teilzahlungen vorgesehen, so ist anzugeben, in welcher Reihenfolge die ausstehenden Forderungen des Darlehensgebers, für die unterschiedliche Sollzinssätze gelten, durch die Teilzahlungen getilgt werden. |
-|  | 9. | die Auszahlungsbedingungen; |
-|  | 10. | den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung sowie gegebenenfalls anfallende Verzugskosten; |
-|  | 11. | einen Warnhinweis zu den Folgen ausbleibender Zahlungen; |
-|  | 12. | das Bestehen oder Nichtbestehen eines Widerrufsrechts, die Frist und die anderen Umstände für die Erklärung des Widerrufs sowie einen Hinweis auf die Verpflichtung des Darlehensnehmers, ein bereits ausbezahltes Darlehen zurückzuzahlen und Zinsen zu vergüten; der pro Tag zu zahlende Zinsbetrag ist anzugeben; |
-|  | 13. | das Recht des Darlehensnehmers, das Darlehen vorzeitig zurückzuzahlen; |
-|  | 14. | die für den Darlehensgeber zuständige Aufsichtsbehörde; |
-|  | 15. | das einzuhaltende Verfahren bei der Kündigung des Vertrags; |
-|  | 16. | den Hinweis, dass der Darlehensnehmer Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und die Voraussetzungen für diesen Zugang; |
-|  | 17. | ist ein Zeitpunkt für die Rückzahlung des Darlehens bestimmt, einen Hinweis auf den Anspruch des Darlehensnehmers, während der Gesamtlaufzeit des Darlehens jederzeit kostenlos einen Tilgungsplan zu erhalten; |
-|  |  | Verlangt der Darlehensnehmer einen Tilgungsplan, muss aus diesem hervorgehen, welche Zahlungen in welchen Zeitabständen zu leisten sind und welche Bedingungen für diese Zahlungen gelten. Dabei ist aufzuschlüsseln, in welcher Höhe die Teilzahlungen auf das Darlehen, die nach dem Sollzinssatz berechneten Zinsen und die sonstigen Kosten angerechnet werden. Ist der Sollzinssatz nicht gebunden oder können die sonstigen Kosten angepasst werden, so ist in dem Tilgungsplan in klarer und verständlicher Form anzugeben, dass die Daten des Tilgungsplans nur bis zur nächsten Anpassung des Sollzinssatzes oder der sonstigen Kosten gelten. Der Tilgungsplan ist dem Darlehensnehmer auf einem dauerhaften Datenträger zur Verfügung zu stellen. |
-|  | 18. | einen Hinweis, dass der Darlehensnehmer Notarkosten zu tragen hat; |
-|  | 19. | die vom Darlehensgeber verlangten Sicherheiten und Versicherungen, im Fall von entgeltlichen Finanzierungshilfen insbesondere einen Eigentumsvorbehalt; |
-|  | 20. | die Berechnungsmethode des Anspruchs auf Vorfälligkeitsentschädigung, soweit der Darlehensgeber beabsichtigt, diesen Anspruch geltend zu machen, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt; |
-|  | 21. | den Namen und die Anschrift des beteiligten Darlehensvermittlers; |
-|  | 22. | im Zusammenhang mit dem Verbraucherdarlehensvertrag erhobene Kontoführungsgebühren sowie die Bedingungen, unter denen die Gebühren angepasst werden können, wenn der Darlehensgeber den Abschluss eines Kontoführungsvertrags verlangt, sowie alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung oder der Verwendung eines Zahlungsinstruments, mit dem sowohl Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die Bedingungen, unter denen die Kosten angepasst werden können; |
-|  | 23. | soweit die vom Darlehensnehmer geleisteten Zahlungen nicht der unmittelbaren Darlehenstilgung dienen, eine Aufstellung der Zeiträume und Bedingungen für die Zahlung der Sollzinsen und der damit verbundenen wiederkehrenden und nicht wiederkehrenden Kosten im Darlehensvertrag; |
-|  | 24. | soweit sich der Darlehensnehmer mit dem Abschluss eines Darlehensvertrags auch zur Vermögensbildung verpflichtet, einen Hinweis, dass weder die während der Vertragslaufzeit fälligen Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer aus der Vermögensbildung erwirbt, die Tilgung des Darlehens gewährleisten, es sei denn, dies wird vertraglich vereinbart; |
-|  | 25. | sämtliche weitere Vertragsbedingungen. |
-| **Abschnitt 3** **Widerrufsfolgen** |  |  |
-| Soweit das Darlehen bereits ausbezahlt wurde, hat der Darlehensnehmer es **spätestens innerhalb von 30 Tagen zurückzuzahlen** und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den **vereinbarten Sollzins zu entrichten**. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen der Auszahlung und der Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde. |  |  |
-
-| **Gestaltungshinweise:** |  |  |  |
-| --- | --- | --- | --- |
-|  | Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internetadresse. |  |  |
-|  | Bei Anwendung der Gestaltungshinweise , oder ist hier folgende Unterüberschrift einzufügen: |  |  |
-|  | **„Besonderheiten bei weiteren Verträgen“**. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 des Bürgerlichen Gesetzbuchs (BGB) ist hier einzufügen: |  |  |
-|  | a) | Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat: |  |
-|  |  | „– | Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im Folgenden: verbundener Vertrag)** nicht mehr gebunden. |
-|  |  | – | Steht dem Darlehensnehmer in Bezug auf den [einsetzen***: verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des [einsetzen***: verbundenen Vertrags] auch an den Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des Widerrufs sind die in dem [einsetzen***: verbundenen Vertrag] getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung maßgeblich.“ |
-|  | b) | Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat: |  |
-|  |  | „– | Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“ |
-|  | Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen: |  |  |
-|  | „– | Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts] (im Folgenden: angegebenes Geschäft)** ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“ |  |
-|  | Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden: |  |  |
-|  | „– | Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den [einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags] (im Folgenden: zusammenhängender Vertrag)** nicht mehr gebunden.“ |  |
-|  | Die in den Nummern 17 bis 25 aufgelisteten Pflichtangaben sind nur dann in die Widerrufsinformation aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Eine Pflichtangabe ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, beispielsweise in Nummer 22 nur sonstige Kosten, nicht aber Kontoführungsgebühren vereinbart sind. Werden Pflichtangaben gemäß der vorstehenden Vorgabe nicht aufgenommen, ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 17 nicht übernommen, wird Nummer 18 zu Nummer 17 etc.). Die letzte in die Widerrufsinformation aufgenommene Pflichtangabe ist mit dem Satzzeichen „.“ abzuschließen. |  |  |
-|  | Bei Anwendung der Gestaltungshinweise oder ist hier folgende Unterüberschrift einzufügen: |  |  |
-|  | **„Besonderheiten bei weiteren Verträgen“**. |  |  |
-|  | Bei Verträgen über einen entgeltlichen Zahlungsaufschub oder über eine sonstige entgeltliche Finanzierungshilfe gilt Folgendes: |  |  |
-|  | a) | Es ist folgende Pflichtangabe einzufügen, und zwar unter der nächsten fortlaufenden Nummer, die – unter Berücksichtigung von Gestaltungshinweis – auf die in der vorliegenden Widerrufsinformation zuletzt verwendete Nummer folgt: |  |
-|  |  | „Ergänzende Pflichtangaben bei Verträgen über einen entgeltlichen Zahlungsaufschub oder über eine sonstige entgeltliche Finanzierungshilfe: |  |
-|  |  | Diese Verträge müssen zusätzlich zu den Angaben nach den Nummern 1 bis [einsetzen: die verwendete Nummer der zuletzt aufgeführten Pflichtangabe] den Gegenstand (Ware oder Dienstleistung), den der Darlehensnehmer erhalten soll, und den Barzahlungspreis enthalten. Hat der Unternehmer den Gegenstand für den Verbraucher erworben, so tritt an die Stelle des Barzahlungspreises der Anschaffungspreis.“ |  |
-|  | b) | Handelt es sich um einen Vertrag zwischen einem Unternehmer und einem Verbraucher über die entgeltliche Nutzung eines Gegenstandes, in dem vereinbart ist, dass der Verbraucher bei Beendigung des Vertrags für einen bestimmten Wert des Gegenstandes einzustehen hat, so sind die Angaben nach Nummer 13 (vorzeitige Rückzahlung), Nummer 17 Satz 3 (Aufschlüsselung der Anrechnung von Teilzahlungen im Tilgungsplan) und Nummer 20 (Vorfälligkeitsentschädigung) entbehrlich. |  |
-|  | Bei Darlehensverträgen, die mit einem anderen Vertrag verbunden sind, und bei Darlehensverträgen, die ausschließlich der Finanzierung eines anderen (später widerrufenen) Vertrags dienen und in denen die Leistung des Unternehmers aus dem widerrufenen Vertrag genau angegeben ist, ist unter der nächsten fortlaufenden Nummer, die – unter Berücksichtigung der Gestaltungshinweise und – auf die in der vorliegenden Widerrufsinformation zuletzt verwendete Nummer folgt, folgende Pflichtangabe einzufügen: |  |  |
-|  | „Ergänzende Pflichtangaben bei Darlehensverträgen, die mit einem anderen Vertrag verbunden sind, und bei Darlehensverträgen, die ausschließlich der Finanzierung eines anderen (später widerrufenen) Vertrags dienen und in denen die Leistung des Unternehmers aus dem widerrufenen Vertrag genau angegeben ist: |  |  |
-|  | Diese Verträge müssen zusätzlich zu den Angaben nach den Nummern 1 bis [einsetzen: die verwendete Nummer der zuletzt aufgeführten Pflichtangabe mit Ausnahme der Einfügung einer Pflichtangabe nach Gestaltungshinweis ] Folgendes enthalten: |  |  |
-|  | a) | Bezeichnung des Gegenstandes (Ware oder Dienstleistung) und Höhe des Barzahlungspreises sowie |  |
-|  | b) | Informationen über die Rechte des Verbrauchers, die sich daraus ergeben, dass der Darlehensvertrag mit einem anderen Vertrag verbunden ist oder in der vorstehend genannten Weise zusammenhängt. Weiter ist über die Bedingungen für die Ausübung dieser Rechte zu informieren.“ |  |
-|  | Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben. |  |  |
-|  | Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, so ist hier Folgendes einzufügen: |  |  |
-|  | „– | Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“ |  |
-|  | Bei Anwendung der Gestaltungshinweise , , , , , oder ist hier als Unterüberschrift einzufügen: |  |  |
-|  | **„Besonderheiten bei weiteren Verträgen“**. |  |  |
-|  | Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis verwendet wird und weitere Verträge nicht vorliegen. |  |  |
-|  | Liegen mehrere weitere Verträge nebeneinander vor, so kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Steht dem Darlehensnehmer in Bezug auf [einsetzen***: den verbundenen Vertrag] ein Widerrufsrecht zu, so sind im Fall des wirksamen Widerrufs [einsetzen***: des verbundenen Vertrags] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer ausgeschlossen.“ |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis Gebrauch gemacht wurde, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an [einsetzen***: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag] nicht mehr gebunden, so sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“ |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen: |  |  |
-|  | „– | Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an [einsetzen***: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an [einsetzen***: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“ |  |
-|  | Der Unterabsatz kann wie folgt ergänzt werden: |  |  |
-|  | „Wenn der Darlehensnehmer die auf Grund [einsetzen***: des verbundenen Vertrags oder des zusammenhängenden Vertrags] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, so hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.“ |  |  |
-|  | Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes: |  |  |
-|  | a) | Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche (EGBGB) unter Anpassung der dort genannten Frist zu geben. |  |
-|  |  | Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden. |  |
-|  | b) | Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folgender Hinweis gegeben werden: |  |
-|  |  | „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung zur Zahlung von Wertersatz, so kann dies dazu führen, dass der Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen muss.“ |  |
-|  | c) | Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, so können hier die konkreten Hinweise entsprechend Gestaltungshinweis der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden. |  |
-|  | d) | Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so kann hier folgender Hinweis gegeben werden: |  |
-|  |  | „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.“ |  |
-|  | Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen: |  |  |
-|  | „– | Ist der Darlehensnehmer auf Grund des Widerrufs des [einsetzen***: angegebenen Geschäfts] an den Darlehensvertrag nicht mehr gebunden, so führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vergleiche oben unter „Widerrufsfolgen“).“ |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr an den weiteren Vertrag gebunden ist oder infolge des Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag gebunden ist, so gilt ergänzend Folgendes: Ist das Darlehen bei Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers aus [einsetzen***: dem verbundenen Vertrag] bereits zugeflossen, so tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“ |  |
-|  | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen: |  |  |
-|  | **„Einwendungen bei verbundenen Verträgen“**. |  |  |
-|  | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.“ |  |  |
-|  | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt. |  |  |
-| * | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“. |  |  |
-| ** | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts. |  |  |
-| *** | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen. |  |  |
+### Anlage 7 (weggefallen)
 
 
 ### Anlage 8 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
@@ -10375,74 +10593,15 @@ Gestaltungshinweise:
 |  | „– | Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr an den weiteren Vertrag gebunden ist oder infolge des Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers aus [einsetzen***: dem verbundenen Vertrag] bereits zugeflossen, tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“ |  |
 |  | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist. |  |  |
 |  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen: |  |  |
-|  | **„Einwendungen bei verbundenen Verträgen.”** |  |  |
-|  | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.” |  |  |
+|  | **„Einwendungen bei verbundenen Verträgen.“** |  |  |
+|  | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.“ |  |  |
 |  | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt. |  |  |
 | * | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“. |  |  |
 | ** | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts. |  |  |
 | *** | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen. |  |  |
 
 
-### Anlage 9 (zu Artikel 246 Absatz 3)Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
-
-(Fundstelle: BGBl. I 2016, S. 436 - 438;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-| **Widerrufsbelehrung** |
-| --- |
-| **Widerrufsrecht** |
-| Der Darlehensnehmer* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsbelehrung auf einem dauerhaften Datenträger erhalten hat. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: |
-| **Widerrufsfolgen** |
-| Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen. Die Frist beginnt mit der Absendung der Widerrufserklärung. |
-
-Gestaltungshinweise:
-
-|  | Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse. |  |  |
-| --- | --- | --- | --- |
-|  | Bei Anwendung der Gestaltungshinweise , oder ist hier folgende Unterüberschrift einzufügen: |  |  |
-|  | „Besonderheiten bei weiteren Verträgen”. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen: |  |  |
-|  | a) | Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat: |  |
-|  |  | „– | Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im Folgenden: verbundener Vertrag)** nicht mehr gebunden. |
-|  |  | – | Steht dem Darlehensnehmer in Bezug auf den [einsetzen***: verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des [einsetzen***: verbundenen Vertrags] auch an den Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des Widerrufs sind die in dem [einsetzen***: verbundenen Vertrag] getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung maßgeblich.“ |
-|  | b) | Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat: |  |
-|  |  | „– | Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“ |
-|  | Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Darlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen: |  |  |
-|  | „– | Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts] (im Folgenden: angegebenes Geschäft)** ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“ |  |
-|  | Bei einem mit einem Darlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden: |  |  |
-|  | „– | Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den [einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags] (im Folgenden: zusammenhängender Vertrag)** nicht mehr gebunden.“ |  |
-|  | Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357b Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“ |  |
-|  | Bei Anwendung der Gestaltungshinweise , , , , oder ist hier als Unterüberschrift einzufügen: |  |  |
-|  | „Besonderheiten bei weiteren Verträgen”. |  |  |
-|  | Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis verwandt wird und weitere Verträge nicht vorliegen. |  |  |
-|  | Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis Gebrauch gemacht wird, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an [einsetzen***: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“ |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen: |  |  |
-|  | „– | Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an [einsetzen***: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an [einsetzen***: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers gebracht worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“ |  |
-|  | Der Unterabsatz kann wie folgt ergänzt werden: |  |  |
-|  | „Wenn der Darlehensnehmer die auf Grund [einsetzen***: des verbundenen Vertrags oder des zusammenhängenden Vertrags] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.” |  |  |
-|  | Bei einem Vertrag über eine unentgeltliche Finanzierungshilfe gilt Folgendes: |  |  |
-|  | a) | Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben. |  |
-|  |  | Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden. |  |
-|  | b) | Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folgender Hinweis gegeben werden: |  |
-|  |  | „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass der Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen muss.” |  |
-|  | c) | Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden. |  |
-|  | d) | Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, kann hier folgender Hinweis gegeben werden: |  |
-|  |  | „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.” |  |
-|  | Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen: |  |  |
-|  | „– | Ist der Darlehensnehmer auf Grund des Widerrufs des [einsetzen***: angegebenen Geschäfts] an den Darlehensvertrag nicht mehr gebunden, führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vgl. oben unter „Widerrufsfolgen“).“ |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen: |  |  |
-|  | „– | Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr an den weiteren Vertrag gebunden ist oder infolge des Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers aus [einsetzen***: dem verbundenen Vertrag] bereits zugeflossen, tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“ |  |
-|  | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist. |  |  |
-|  | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen: |  |  |
-|  | **„Einwendungen bei verbundenen Verträgen”.** |  |  |
-|  | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.” |  |  |
-|  | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt. |  |  |
-| * | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei unentgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“. |  |  |
-| ** | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts. |  |  |
-| *** | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen. |  |  |
+### Anlage 9 (weggefallen)
 
 
 ### Anlage 10 (zu Artikel 249 § 3)Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen

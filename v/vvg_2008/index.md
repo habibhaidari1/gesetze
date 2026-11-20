@@ -3165,15 +3165,23 @@ Versicherung auf die Person eines anderen auch deren Kenntnis und
 Verhalten zu berücksichtigen.
 
 
-#### § 157 Unrichtige Altersangabe
+#### § 157 Unrichtige Altersangabe; onkologische Erkrankung
 
-Ist das Alter der versicherten Person unrichtig angegeben worden,
+(1) Ist das Alter der versicherten Person unrichtig angegeben worden,
 verändert sich die Leistung des Versicherers nach dem Verhältnis,
 in welchem die dem wirklichen Alter entsprechende Prämie zu der
 vereinbarten Prämie steht. Das Recht, wegen der Verletzung der
 Anzeigepflicht von dem Vertrag zurückzutreten, steht dem Versicherer
-abweichend von § 19 Abs. 2 nur zu, wenn er den Vertrag bei richtiger
+abweichend von § 19 Absatz 2 nur zu, wenn er den Vertrag bei richtiger
 Altersangabe nicht geschlossen hätte.
+
+(2) Eine onkologische Erkrankung der versicherten Person ist bei
+einem Restschuldversicherungsvertrag, der sich auf einen Allgemein-
+Verbraucherdarlehensvertrag oder eine entsprechende Finanzierungshilfe
+bezieht, kein erheblicher Gefahrumstand im Sinne des § 19 Absatz 1,
+wenn die medizinische Behandlung dieser Erkrankung bei Abgabe der
+Vertragserklärung des Versicherungsnehmers bereits seit mindestens 15
+Jahren beendet ist.
 
 
 #### § 158 Gefahränderung
@@ -4619,6 +4627,16 @@ eingewilligt worden ist.
 
 (4) Die betroffene Person ist auf diese Rechte hinzuweisen, auf das
 Widerspruchsrecht nach Absatz 2 bei der Unterrichtung.
+
+
+### § 213a Verbot der Verwendung bestimmter personenbezogener Gesundheitsdaten bei auf Allgemein-Verbraucherdarlehensverträge bezogenen Restschuldversicherungsverträgen
+
+Der Versicherer darf personenbezogene Gesundheitsdaten über eine
+onkologische Erkrankung der versicherten Person nicht für die Zwecke
+eines Restschuldversicherungsvertrages, der sich auf einen Allgemein-
+Verbraucherdarlehensvertrag oder eine entsprechende Finanzierungshilfe
+bezieht, verwenden, wenn die medizinische Behandlung dieser Erkrankung
+bereits seit mindestens 15 Jahren beendet ist.
 
 
 ### § 214 Schlichtungsstelle

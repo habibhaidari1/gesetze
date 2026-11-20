@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2529 (3672)
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 4 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

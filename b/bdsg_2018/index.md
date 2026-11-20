@@ -1362,76 +1362,83 @@ Auskunftsverlangen von Darlehensgebern aus anderen Mitgliedstaaten
 der Europäischen Union genauso zu behandeln wie Auskunftsverlangen
 inländischer Darlehensgeber.
 
-(2) Wer den Abschluss eines Verbraucherdarlehensvertrags oder
-eines Vertrags über eine entgeltliche Finanzierungshilfe mit einem
-Verbraucher infolge einer Auskunft einer Stelle im Sinne des Absatzes
-1 ablehnt, hat den Verbraucher unverzüglich hierüber sowie über die
-erhaltene Auskunft zu unterrichten. Die Unterrichtung unterbleibt,
-soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet
-würde. § 37 bleibt unberührt.
+(2) Eine Stelle im Sinne des Absatzes 1 darf nur Auskunftsverlangen
+solcher Darlehensgeber von Allgemein-Verbraucherdarlehen entsprechen,
+die unter der Aufsicht der national jeweils finanzrechtlich
+zuständigen Behörde stehen und die die Gewähr dafür bieten, dass sie
+die Verordnung (EU) 2016/679 in vollem Umfang einhalten.
+
+(3) Datenbanken, die von Stellen im Sinne des Absatzes 1 betrieben
+werden und Informationen über Allgemein-Verbraucherdarlehensverträge
+enthalten, müssen zumindest Informationen über Zahlungsrückstände von
+Verbrauchern bei der Rückzahlung ihrer Darlehen, die jeweilige Art
+des Darlehens und die Identität des Darlehensgebers enthalten. Die
+betreibende Stelle hat den Verbraucher über Folgendes zu unterrichten:
+
+1.  innerhalb von 30 Tagen nach der Eintragung von etwaigen Rückständen
+    bei der Darlehensrückzahlung in einer Datenbank über diese Eintragung
+    sowie
+
+2.  über seine Rechte gemäß der Verordnung (EU) 2016/679.
+
+(4) Eine Stelle im Sinne des Absatzes 1 hat für die Zwecke von
+Allgemein-Verbraucherdarlehensverträgen über Verfahren zu verfügen,
+mit denen sie sicherstellt, dass die in der von ihr betriebenen
+Datenbank enthaltenen Informationen aktuell und zutreffend sind.
+
+(5) Darlehensgeber und Darlehensvermittler von Allgemein-
+Verbraucherdarlehensverträgen dürfen weder besondere Kategorien
+personenbezogener Daten gemäß Artikel 9 Absatz 1 der Verordnung
+(EU) 2016/679 noch verarbeitete personenbezogene Daten aus sozialen
+Netzwerken verarbeiten, die möglicherweise in den von Stellen im Sinne
+des Absatzes 1 betriebenen Datenbanken enthalten sind.
+
+(6) Beinhaltet im Fall von Allgemein-Verbraucherdarlehensverträgen
+die Kreditwürdigkeitsprüfung eine automatisierte Verarbeitung
+personenbezogener Daten, kann der Darlehensnehmer vom Darlehensgeber
+das Eingreifen einer Person verlangen. Dies umfasst das Recht auf
+
+1.  klare und verständliche Erläuterungen zu der Kreditwürdigkeitsprüfung,
+    einschließlich der Logik und der Risiken der automatisierten
+    Verarbeitung personenbezogener Daten sowie ihrer Bedeutung für die
+    Entscheidung des Darlehensgebers über die Darlehensgewährung und ihrer
+    Auswirkungen auf die Entscheidung,
+
+2.  die Darlegung des eigenen Standpunkts des Darlehensnehmers und
+
+3.  die Überprüfung der Kreditwürdigkeitsprüfung und der Entscheidung über
+    die Darlehensgewährung durch den Darlehensgeber.
+
+Der Darlehensgeber muss den Darlehensnehmer nach Abschluss der
+automatisierten Verarbeitung personenbezogener Daten über seine Rechte
+nach den Sätzen 1 und 2 unterrichten.
+
+(7) Wer den Abschluss eines Verbraucherdarlehensvertrags infolge
+der Auskunft einer Stelle im Sinne des Absatzes 1 ablehnt, hat
+den Verbraucher unverzüglich hierüber sowie über die erhaltene
+Auskunft, die Einzelheiten der konsultierten Datenbank und über die
+berücksichtigten Datenkategorien zu unterrichten. Stützt sich die
+Kreditwürdigkeitsprüfung unabhängig von Satz 1 auf eine automatisierte
+Verarbeitung personenbezogener Daten, so hat der Darlehensgeber
+den Darlehensnehmer im Falle einer Ablehnung des Abschlusses eines
+Verbraucherdarlehensvertrags über diese Tatsache zu unterrichten
+sowie bei Allgemein-Verbraucherdarlehensverträgen über das Recht
+des Darlehensnehmers auf eine Prüfung durch eine Person und über das
+Verfahren zur Anfechtung der Entscheidung des Darlehensgebers, die
+Darlehensgewährung abzulehnen.
+
+(8) Eine Stelle im Sinne des Absatzes 1 hat über Verfahren
+zu verfügen, um Verbrauchern für die Zwecke von Allgemein-
+Verbraucherdarlehensverträgen eine Beschwerde über den Inhalt der
+betriebenen Datenbanken, einschließlich der Daten, die Dritte aus
+diesen Datenbanken erhalten können, zu erleichtern.
+
+(9) Die Absätze 1 bis 8 gelten auch für die Anbieter und Vermittler
+der jeweils entsprechenden Finanzierungshilfen gemäß § 506 des
+Bürgerlichen Gesetzbuchs.
 
 
-##### § 31 Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften
-
-(1) Die Verwendung eines Wahrscheinlichkeitswerts über ein bestimmtes
-zukünftiges Verhalten einer natürlichen Person zum Zweck der
-Entscheidung über die Begründung, Durchführung oder Beendigung eines
-Vertragsverhältnisses mit dieser Person (Scoring) ist nur zulässig,
-wenn
-
-1.  die Vorschriften des Datenschutzrechts eingehalten wurden,
-
-2.  die zur Berechnung des Wahrscheinlichkeitswerts genutzten Daten
-    unter Zugrundelegung eines wissenschaftlich anerkannten mathematisch-
-    statistischen Verfahrens nachweisbar für die Berechnung der
-    Wahrscheinlichkeit des bestimmten Verhaltens erheblich sind,
-
-3.  für die Berechnung des Wahrscheinlichkeitswerts nicht ausschließlich
-    Anschriftendaten genutzt wurden und
-
-4.  im Fall der Nutzung von Anschriftendaten die betroffene Person
-    vor Berechnung des Wahrscheinlichkeitswerts über die vorgesehene
-    Nutzung dieser Daten unterrichtet worden ist; die Unterrichtung ist
-    zu dokumentieren.
-
-(2) Die Verwendung eines von Auskunfteien ermittelten
-Wahrscheinlichkeitswerts über die Zahlungsfähig- und
-Zahlungswilligkeit einer natürlichen Person ist im Fall der
-Einbeziehung von Informationen über Forderungen nur zulässig, soweit
-die Voraussetzungen nach Absatz 1 vorliegen und nur solche Forderungen
-über eine geschuldete Leistung, die trotz Fälligkeit nicht erbracht
-worden ist, berücksichtigt werden,
-
-1.  die durch ein rechtskräftiges oder für vorläufig vollstreckbar
-    erklärtes Urteil festgestellt worden sind oder für die ein Schuldtitel
-    nach § 794 der Zivilprozessordnung vorliegt,
-
-2.  die nach § 178 der Insolvenzordnung festgestellt und nicht vom
-    Schuldner im Prüfungstermin bestritten worden sind,
-
-3.  die der Schuldner ausdrücklich anerkannt hat,
-
-4.  bei denen
-
-    a)  der Schuldner nach Eintritt der Fälligkeit der Forderung mindestens
-        zweimal schriftlich gemahnt worden ist,
-
-    b)  die erste Mahnung mindestens vier Wochen zurückliegt,
-
-    c)  der Schuldner zuvor, jedoch frühestens bei der ersten Mahnung, über
-        eine mögliche Berücksichtigung durch eine Auskunftei unterrichtet
-        worden ist und
-
-    d)  der Schuldner die Forderung nicht bestritten hat oder
-
-5.  deren zugrunde liegendes Vertragsverhältnis aufgrund von
-    Zahlungsrückständen fristlos gekündigt werden kann und bei denen
-    der Schuldner zuvor über eine mögliche Berücksichtigung durch eine
-    Auskunftei unterrichtet worden ist.
-
-Die Zulässigkeit der Verarbeitung, einschließlich der Ermittlung von
-Wahrscheinlichkeitswerten, von anderen bonitätsrelevanten Daten nach
-allgemeinem Datenschutzrecht bleibt unberührt.
+##### § 31 (weggefallen)
 
 
 ### Kapitel 2 - Rechte der betroffenen Person
@@ -1669,6 +1676,107 @@ spezifische Maßnahmen zur Wahrung der Interessen der betroffenen
 Person gemäß § 22 Absatz 2 Satz 2 vor.
 
 
+#### § 37a Scoring
+
+(1) Das Recht gemäß Artikel 22 Absatz 1 der Verordnung (EU) 2016/679,
+keiner ausschließlich auf einer automatisierten Verarbeitung
+beruhenden Entscheidung unterworfen zu werden, besteht über die in
+Artikel 22 Absatz 2 Buchstabe a und c der Verordnung (EU) 2016/679
+genannten Ausnahmen hinaus nicht, wenn zu einer natürlichen Person
+Wahrscheinlichkeitswerte erstellt oder verwendet werden über
+
+1.  ein bestimmtes zukünftiges Verhalten der Person zum Zweck der
+    Entscheidung über die Begründung, Durchführung oder Beendigung eines
+    Vertragsverhältnisses mit dieser Person oder
+
+2.  ihre Zahlungsfähig- und -willigkeit durch Auskunfteien und unter
+    Einbeziehung von Informationen über Forderungen.
+
+(2) Wahrscheinlichkeitswerte im Sinne des Absatzes 1 dürfen nur
+erstellt oder verwendet werden, wenn
+
+1.  für die Erstellung folgende Daten nicht genutzt werden:
+
+    a)  besondere Kategorien personenbezogener Daten im Sinne von Artikel 9
+        Absatz 1 der Verordnung (EU) 2016/679,
+
+    b)  das Alter, das Geschlecht, der Name der betroffenen Person oder
+        personenbezogene Daten aus der Nutzung sozialer Netzwerke,
+
+    c)  Informationen über Zahlungseingänge und -ausgänge auf und von
+        Bankkonten und
+
+    d)  Anschriftendaten,
+
+2.  sie keine minderjährige Person betreffen und
+
+3.  die genutzten personenbezogenen Daten
+
+    a)  unter Zugrundelegung eines wissenschaftlich anerkannten mathematisch-
+        statistischen Verfahrens nachweisbar für die Berechnung der
+        Wahrscheinlichkeit des bestimmten Verhaltens erheblich sind und
+
+    b)  die aus diesen ermittelten Wahrscheinlichkeitswerte für keine anderen
+        Zwecke verarbeitet werden.
+
+(3) In den Fällen des Absatzes 1 Nummer 2 dürfen nur solche
+Forderungen über eine geschuldete Leistung, die trotz Fälligkeit nicht
+erbracht worden ist, berücksichtigt werden,
+
+1.  die durch ein rechtskräftiges oder für vorläufig vollstreckbar
+    erklärtes Urteil festgestellt worden sind oder für die ein Schuldtitel
+    nach § 794 der Zivilprozessordnung vorliegt,
+
+2.  die nach § 178 der Insolvenzordnung festgestellt und nicht vom
+    Schuldner im Prüfungstermin bestritten worden sind,
+
+3.  die der Schuldner ausdrücklich anerkannt hat,
+
+4.  bei denen
+
+    a)  der Schuldner nach Eintritt der Fälligkeit der Forderung mindestens
+        zweimal schriftlich gemahnt worden ist,
+
+    b)  die erste Mahnung mindestens vier Wochen zurückliegt,
+
+    c)  der Schuldner zuvor, jedoch frühestens bei der ersten Mahnung, über
+        eine mögliche Berücksichtigung durch eine Auskunftei unterrichtet
+        worden ist und
+
+    d)  der Schuldner die Forderung nicht bestritten hat oder
+
+5.  deren zugrunde liegendes Vertragsverhältnis aufgrund von
+    Zahlungsrückständen fristlos gekündigt werden kann und bei denen
+    der Schuldner zuvor über eine mögliche Berücksichtigung durch eine
+    Auskunftei unterrichtet worden ist.
+
+(4) Verantwortliche, die Wahrscheinlichkeitswerte im Sinne des
+Absatzes 1 erstellen, haben auf Antrag der betroffenen Person und
+innerhalb der Frist des Artikels 12 Absatz 3 der Verordnung (EU)
+2016/679 in präziser, transparenter, verständlicher und leicht
+zugänglicher Form in einer klaren und einfachen Sprache Folgendes
+mitzuteilen:
+
+1.  die für die Erstellung genutzten personenbezogenen Daten der
+    betroffenen Person und Kriterien,
+
+2.  die Gewichtung von Kategorien von Kriterien und der einzelnen
+    Kriterien zueinander, die den Wahrscheinlichkeitswert am stärksten
+    beeinflussen,
+
+3.  die Aussagekraft des konkreten Wahrscheinlichkeitswerts und
+
+4.  die erstellten Wahrscheinlichkeitswerte und ihre Empfänger.
+
+Die hierfür erforderlichen Informationen sind für ein Jahr zu
+speichern.
+
+(5) Gegenüber einem Verantwortlichen hat die betroffene Person
+hinsichtlich der jeweiligen auf Wahrscheinlichkeitswerten nach Absatz
+1 beruhenden Entscheidung das Recht auf Anfechtung, Darlegung des
+eigenen Standpunkts und Entscheidung einer natürlichen Person.
+
+
 ### Kapitel 3 - Pflichten der Verantwortlichen und Auftragsverarbeiter
 
 
@@ -1848,11 +1956,13 @@ Benachrichtigenden verwendet werden.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 30 Absatz 1 ein Auskunftsverlangen nicht richtig behandelt
-    oder
+1.  entgegen § 30 Absatz 1 ein Auskunftsverlangen nicht richtig behandelt,
 
-2.  entgegen § 30 Absatz 2 Satz 1 einen Verbraucher nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig unterrichtet.
+2.  entgegen § 30 Absatz 3 Satz 2 Nummer 1, Absatz 6 Satz 3 oder Absatz
+    7 einen Verbraucher oder einen Darlehensnehmer nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig unterrichtet oder
+
+3.  entgegen § 30 Absatz 5 Daten verarbeitet.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.

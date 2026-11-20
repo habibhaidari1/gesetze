@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 306
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2025 I Nr. 371
-
-Änderung durch
-:   Art. 12 Abs. 3 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 3 G v. 22.10.2026 I Nr. 318
 
 Stand
 :   G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008

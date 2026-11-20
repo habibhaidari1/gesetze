@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.10.2023 I Nr. 291
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.7.2026 I Nr. 213
-
-Änderung durch
-:   Art. 12 Abs. 13 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 13 G v. 22.10.2026 I Nr. 318
 
 
 ## Erster Abschnitt - Passvorschriften

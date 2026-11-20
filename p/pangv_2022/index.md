@@ -471,16 +471,16 @@ geforderten Preise ersichtlich sind.
 
 ### § 16 Verbraucherdarlehen
 
-(1) Wer als Unternehmer den Abschluss von Verbraucherdarlehen im
-Sinne des § 491 des Bürgerlichen Gesetzbuchs anbietet, hat als
-Preis die nach den Absätzen 2 bis 6 und 8 berechneten Gesamtkosten
+(1) Wer als Unternehmer den Abschluss von Verbraucherdarlehen
+im Sinne des § 491 des Bürgerlichen Gesetzbuchs anbietet, hat
+als Preis die nach den Absätzen 2 bis 7 berechneten Gesamtkosten
 des Verbraucherdarlehens für den Verbraucher, ausgedrückt als
 jährlicher Prozentsatz des Nettodarlehensbetrags, soweit zutreffend,
 einschließlich der Kosten gemäß Absatz 3 Satz 2 Nummer 2, anzugeben
 und als effektiven Jahreszins zu bezeichnen.
 
-(2) Der effektive Jahreszins ist mit der in der Anlage angegebenen
-mathematischen Formel und nach den in der Anlage zugrunde
+(2) Der effektive Jahreszins ist mit der in der Nummer 1 der
+Anlage angegebenen mathematischen Formel und nach den dort zugrunde
 gelegten Vorgehensweisen zu berechnen. Bei der Berechnung des
 effektiven Jahreszinses wird von der Annahme ausgegangen, dass der
 Verbraucherdarlehensvertrag für den vereinbarten Zeitraum gilt und
@@ -497,13 +497,13 @@ gehören:
 
 1.  Kosten für die Vermittlung des Verbraucherdarlehens;
 
-2.  Kosten für die Eröffnung und Führung eines spezifischen Kontos, Kosten
-    für die Verwendung eines Zahlungsmittels, mit dem sowohl Geschäfte auf
-    diesem Konto getätigt als auch Verbraucherdarlehensbeträge in Anspruch
-    genommen werden können, sowie sonstige Kosten für Zahlungsgeschäfte,
-    wenn die Eröffnung oder Führung eines Kontos Voraussetzung dafür ist,
-    dass das Verbraucherdarlehen überhaupt oder nach den vorgesehenen
-    Vertragsbedingungen gewährt wird;
+2.  Kosten für die Eröffnung und Führung eines Kontos, dessen
+    Eröffnung der Darlehensgeber vom Darlehensnehmer verlangt und
+    auf dem sowohl Zahlungsvorgänge als auch in Anspruch genommene
+    Verbraucherdarlehensbeträge verbucht werden, Kosten für die Verwendung
+    eines Zahlungsmittels, mit dem sowohl Zahlungsvorgänge auf diesem
+    Konto getätigt als auch Verbraucherdarlehensbeträge in Anspruch
+    genommen werden können, sowie sonstige Kosten für Zahlungsgeschäfte;
 
 3.  Kosten für die Immobilienbewertung, sofern eine solche Bewertung für
     die Gewährung des Verbraucherdarlehens erforderlich ist.
@@ -525,34 +525,26 @@ gehören:
 4.  Gebühren für die Eintragung der Eigentumsübertragung oder der
     Übertragung eines grundstücksgleichen Rechts in das Grundbuch;
 
-5.  Notarkosten.
+5.  Notarkosten;
 
-(5) Ist eine Änderung des Zinssatzes oder sonstiger in die Berechnung
-des effektiven Jahreszinses einzubeziehender Kosten vorbehalten und
-ist ihre zahlenmäßige Bestimmung im Zeitpunkt der Berechnung des
-effektiven Jahreszinses nicht möglich, so wird bei der Berechnung
-von der Annahme ausgegangen, dass der Sollzinssatz und die sonstigen
-Kosten gemessen an der ursprünglichen Höhe fest bleiben und bis zum
-Ende des Verbraucherdarlehensvertrags gelten.
+6.  Kosten eines freiwillig eröffneten Kontos, wenn die mit dem Konto
+    verbundenen Kosten im Verbraucherdarlehensvertrag oder in einem
+    anderen mit dem Verbraucher geschlossenen Vertrag klar und separat
+    ausgewiesen werden.
 
-(6) Soweit die in der Anlage niedergelegten Annahmen zutreffend
-sind, sind diese bei der Berechnung des effektiven Jahreszinses zu
-berücksichtigen.
+(5) Ist eine Änderung des Sollzinssatzes oder sonstiger in die
+Berechnung des effektiven Jahreszinses einzubeziehender Kosten
+vorbehalten und ist ihre zahlenmäßige Bestimmung im Zeitpunkt der
+Berechnung des effektiven Jahreszinses nicht möglich, so wird bei der
+Berechnung von der Annahme ausgegangen, dass der Sollzinssatz und die
+sonstigen Kosten gemessen an der ursprünglichen Höhe fest bleiben und
+bis zum Ende des Verbraucherdarlehensvertrags gelten.
 
-(7) Ist der Abschluss eines Vertrags über die Inanspruchnahme
-einer Nebenleistung, insbesondere eines Versicherungsvertrags oder
-allgemein einer Mitgliedschaft, zwingende Voraussetzung dafür,
-dass das Verbraucherdarlehen überhaupt oder nach den vorgesehenen
-Vertragsbedingungen gewährt wird, und können die Kosten der
-Nebenleistung nicht im Voraus bestimmt werden, so ist in klarer,
-eindeutiger und auffallender Art und Weise darauf hinzuweisen,
+(6) Soweit die in den Nummern 2 bis 4 der Anlage niedergelegten
+Annahmen zutreffend sind, sind diese bei der Berechnung des effektiven
+Jahreszinses zu berücksichtigen.
 
-1.  dass eine Verpflichtung zum Abschluss des Vertrages über die
-    Nebenleistung besteht und
-
-2.  wie hoch der effektive Jahreszins des Verbraucherdarlehens ist.
-
-(8) Bei Bauspardarlehen ist bei der Berechnung des effektiven
+(7) Bei Bauspardarlehen ist bei der Berechnung des effektiven
 Jahreszinses davon auszugehen, dass im Zeitpunkt der Auszahlung des
 Verbraucherdarlehens das vertragliche Mindestsparguthaben angespart
 ist. Von der Abschlussgebühr ist im Zweifel lediglich der Teil
@@ -575,25 +567,25 @@ anzugeben.
 Verbraucherdarlehen betrifft, hat den Kriterien der Redlichkeit und
 Eindeutigkeit zu genügen und darf nicht irreführend sein. Insbesondere
 sind Formulierungen unzulässig, die bei Verbrauchern falsche
-Erwartungen wecken über die Kosten eines Verbraucherdarlehens oder in
-Bezug auf die Möglichkeit, ein Verbraucherdarlehen zu erhalten.
+Erwartungen wecken über die Kosten eines Verbraucherdarlehens, über
+den vom Verbraucher zu zahlenden Gesamtbetrag oder in Bezug auf die
+Möglichkeit, ein Verbraucherdarlehen zu erhalten.
 
 (2) Wer gegenüber Verbrauchern für den Abschluss eines
 Verbraucherdarlehensvertrags mit Zinssätzen oder sonstigen Zahlen,
 die die Kosten betreffen, wirbt, hat in klarer, eindeutiger und
-auffallender Art und Weise anzugeben:
+auffallender Art und Weise sowie gut lesbar oder, falls zutreffend,
+akustisch gut verständlich und den technischen Einschränkungen des für
+die Werbung verwendeten Mediums angepasst Folgendes anzugeben:
 
-1.  die Identität und Anschrift des Darlehensgebers oder gegebenenfalls
-    des Darlehensvermittlers,
+1.  den Nettodarlehensbetrag,
 
-2.  den Nettodarlehensbetrag,
-
-3.  den Sollzinssatz und die Auskunft, ob es sich um einen festen oder
+2.  den Sollzinssatz und die Auskunft, ob es sich um einen festen oder
     einen variablen Zinssatz oder um eine Kombination aus beiden handelt,
     sowie Einzelheiten aller für den Verbraucher anfallenden, in die
     Gesamtkosten einbezogenen Kosten,
 
-4.  den effektiven Jahreszins.
+3.  den effektiven Jahreszins.
 
 In der Werbung ist der effektive Jahreszins mindestens genauso
 hervorzuheben wie jeder andere Zinssatz.
@@ -601,61 +593,79 @@ hervorzuheben wie jeder andere Zinssatz.
 (3) In der Werbung nach Absatz 2 sind ferner, soweit zutreffend,
 folgende Angaben zu machen:
 
-1.  der vom Verbraucher zu zahlende Gesamtbetrag,
+1.  die Laufzeit des Verbraucherdarlehensvertrags,
 
-2.  die Laufzeit des Verbraucherdarlehensvertrags,
+2.  der vom Verbraucher zu zahlende Gesamtbetrag,
 
 3.  die Höhe der Raten,
 
-4.  die Anzahl der Raten,
+4.  bei einem Verbraucherdarlehen in Form eines Zahlungsaufschubs für
+    bestimmte Waren oder Dienstleistungen der Barzahlungspreis und der
+    Betrag etwaiger Anzahlungen,
 
-5.  bei Immobiliar-Verbraucherdarlehen der Hinweis, dass der
-    Verbraucherdarlehensvertrag durch ein Grundpfandrecht oder eine
-    Reallast besichert wird,
+5.  bei Immobiliar-Verbraucherdarlehen:
 
-6.  bei Immobiliar-Verbraucherdarlehen in Fremdwährung ein Warnhinweis,
-    dass sich mögliche Wechselkursschwankungen auf die Höhe des vom
-    Verbraucher zu zahlenden Gesamtbetrags auswirken könnten.
+    a)  die Anzahl der Raten,
 
-(4) Die in den Absätzen 2 und 3 genannten Angaben sind mit Ausnahme
-der Angaben nach Absatz 2 Satz 1 Nummer 1 und Absatz 3 Nummer 5 und
-6 mit einem Beispiel zu versehen. Bei der Auswahl des Beispiels muss
+    b)  der Hinweis, dass der Verbraucherdarlehensvertrag durch ein
+        Grundpfandrecht oder eine Reallast besichert ist,
+
+6.  bei Immobiliar-Verbraucherdarlehen, die in Fremdwährung abgeschlossen
+    werden, zusätzlich zu den Angaben nach Nummer 5 ein Warnhinweis, dass
+    sich mögliche Wechselkursschwankungen auf die Höhe des vom Verbraucher
+    zu zahlenden Gesamtbetrags auswirken könnten.
+
+Satz 1 Nummer 1 bis 4 ist nicht anzuwenden auf Werbung für Allgemein-
+Verbraucherdarlehen nach § 491 Absatz 2 des Bürgerlichen Gesetzbuchs,
+die die Voraussetzungen des Artikels 247 § 3 Absatz 1 Satz 5 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche erfüllen.
+
+(4) Für Allgemein-Verbraucherdarlehen nach § 491 Absatz 2 des
+Bürgerlichen Gesetzbuchs gilt Absatz 3 Satz 1 Nummer 2 bis 4 in
+besonderen und begründeten Fällen nicht, in denen das für die Werbung
+nach den Absätzen 2 und 3 gewählte Medium die visuelle Darstellung der
+Informationen nicht zulässt.
+
+(5) Bei Allgemein-Verbraucherdarlehen nach § 491 Absatz 2 des
+Bürgerlichen Gesetzbuchs muss der Verbraucher in besonderen und
+begründeten Fällen, in denen das elektronische Medium, das zur
+Übermittlung der Informationen nach den Absätzen 2 und 3 verwendet
+wird, die visuelle Darstellung der Informationen in klarer und
+auffallender Art und Weise nicht zulässt, durch Klicken, Scrollen
+oder Wischen auf die in Absatz 3 Satz 1 Nummer 2 bis 4 genannten
+Informationen zugreifen können.
+
+(6) Die in den Absätzen 2 und 3 genannten Angaben sind mit Ausnahme
+der Angabe nach Absatz 3 Satz 1 Nummer 5 Buchstabe b und Nummer 6
+mit einem Beispiel zu versehen. Bei der Auswahl des Beispiels muss
 der Werbende von einem effektiven Jahreszins ausgehen, von dem der
 Werbende erwarten darf, dass mindestens zwei Drittel der auf Grund
 der Werbung zustande kommenden Verträge zu dem angegebenen oder einem
 niedrigeren effektiven Jahreszins abgeschlossen werden.
 
-(5) Verlangt der Werbende den Abschluss eines Versicherungsvertrags
-oder eines Vertrags über andere Zusatzleistungen und können die
-Kosten für diesen Vertrag nicht im Voraus bestimmt werden, ist auf
-die Verpflichtung zum Abschluss dieses Vertrags klar und verständlich
-an gestalterisch hervorgehobener Stelle zusammen mit dem effektiven
-Jahreszins hinzuweisen.
+(7) Ist der Abschluss eines Vertrags über eine Nebenleistung,
+insbesondere eines Versicherungsvertrags, zwingende Voraussetzung
+dafür, dass das Darlehen überhaupt oder zu den vorgegebenen
+Vertragsbedingungen gewährt wird, und können die Kosten der
+Nebenleistung nicht im Voraus bestimmt werden, so ist auf die
+Verpflichtung zum Abschluss des Vertrags über die Nebenleistung
+klar und verständlich in gestalterisch hervorgehobener Art und Weise
+zusammen mit den Angaben nach den Absätzen 2 und 3 hinzuweisen.
 
-(6) Die Informationen nach den Absätzen 2, 3 und 5 müssen in
-Abhängigkeit vom Medium, das für die Werbung gewählt wird, akustisch
-gut verständlich oder deutlich lesbar sein.
-
-(7) Auf Immobiliar-Verbraucherdarlehensverträge nach § 491 Absatz 2
-Satz 2 Nummer 5 des Bürgerlichen Gesetzbuchs sind die Absätze 2 bis 6
+(8) Auf Immobiliar-Verbraucherdarlehensverträge nach § 491 Absatz 2
+Satz 2 Nummer 3 des Bürgerlichen Gesetzbuchs sind die Absätze 2 bis 7
 nicht anwendbar.
 
 
-### § 18 Überziehungsmöglichkeiten
-
-Bei Überziehungsmöglichkeiten im Sinne des § 504 Absatz 2 des
-Bürgerlichen Gesetzbuchs hat der Darlehensgeber statt des effektiven
-Jahreszinses den Sollzinssatz pro Jahr und die Zinsbelastungsperiode
-anzugeben, wenn diese nicht kürzer als drei Monate ist und der
-Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt.
+### § 18 (weggefallen)
 
 
-### § 19 Entgeltliche Finanzierungshilfen
+### § 19 Finanzierungshilfen
 
-Die §§ 16 und 17 sind auf Verträge entsprechend anzuwenden, durch die
-ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub
-oder eine sonstige entgeltliche Finanzierungshilfe im Sinne des § 506
-des Bürgerlichen Gesetzbuchs gewährt.
+Die §§ 16 und 17 sind auf Verträge entsprechend anzuwenden, durch
+die ein Unternehmer einem Verbraucher einen Zahlungsaufschub oder
+eine sonstige Finanzierungshilfe im Sinne des § 506 des Bürgerlichen
+Gesetzbuchs gewährt.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
@@ -686,13 +696,13 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 13 Absatz 2 Satz 1 ein Preisverzeichnis nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
 
-5.  entgegen § 16 Absatz 7 einen Hinweis nicht, nicht richtig oder nicht
+5.  entgegen § 17 Absatz 7 einen Hinweis nicht, nicht richtig oder nicht
     vollständig gibt.
 
 
 ### Anlage (zu § 16)Berechnung des effektiven Jahreszinses
 
-(Fundstelle: BGBl. I 2021, 4928 - 4930)
+(Fundstelle: BGBl. 2026 I Nr. 139, S. 48 - 51)
 
 1.  Grundgleichung zur Darstellung der Gleichheit zwischen
     Verbraucherdarlehens-Auszahlungsbeträgen einerseits und Rückzahlungen
@@ -705,35 +715,35 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
     Summe der Gegenwartswerte der Rückzahlungen (Tilgung, Zinsen und
     Verbraucherdarlehenskosten) andererseits aus:
 
+    ![bgbl1_2026_j01390_0040.jpg](bgbl1_2026_j01390_0040.jpg)
+
     Hierbei ist
 
-    – *X* der effektive Jahreszins;
+    – X der effektive Jahreszins;
 
-    – *m* die laufende Nummer des letzten Verbraucherdarlehens-
-        Auszahlungsbetrags;
+    – m die laufende Nummer des letzten Verbraucherdarlehens-
+          Auszahlungsbetrags;
 
-    – *k* die laufende Nummer eines Verbraucherdarlehens-Auszahlungsbetrags,
-        wobei 1 ≤ *k* ≤ *m*;
+    – k die laufende Nummer eines Verbraucherdarlehens-Auszahlungsbetrags,
+          wobei 1 ≤ *k* ≤ *m*;
 
-    – *Ck* die Höhe des Verbraucherdarlehens-Auszahlungsbetrags mit der
-        Nummer k;
+    – Ck die Höhe des Verbraucherdarlehens-Auszahlungsbetrags mit der Nummer k;
 
-    – *tk* der in Jahren oder Jahresbruchteilen ausgedrückte Zeitraum
-        zwischen der ersten Verbraucherdarlehensvergabe und dem Zeitpunkt der
-        einzelnen nachfolgenden in Anspruch genommenen Verbraucherdarlehens-
-        Auszahlungsbeträge, wobei *t1* = 0;
+    – tk der in Jahren oder Jahresbruchteilen ausgedrückte Zeitraum zwischen
+           der ersten Verbraucherdarlehensauszahlung und dem Zeitpunkt der
+           einzelnen nachfolgenden in Anspruch genommenen Verbraucherdarlehens-
+           Auszahlungsbeträge, wobei *t1* = 0;
 
-    – *m'* die laufende Nummer der letzten Tilgungs-, Zins- oder
-        Kostenzahlung;
+    – m' die laufende Nummer der letzten Tilgungs-, Zins- oder Kostenzahlung;
 
-    – *l* die laufende Nummer einer Tilgungs-, Zins- oder Kostenzahlung;
+    – l die laufende Nummer einer Tilgungs-, Zins- oder Kostenzahlung;
 
-    – *Dl* der Betrag einer Tilgungs-, Zins- oder Kostenzahlung;
+    – Dl der Betrag einer Tilgungs-, Zins- oder Kostenzahlung;
 
-    – *sl* der in Jahren oder Jahresbruchteilen ausgedrückte
-        Zeitraum zwischen dem Zeitpunkt der Inanspruchnahme des ersten
-        Verbraucherdarlehens-Auszahlungsbetrags und dem Zeitpunkt jeder
-        einzelnen Tilgungs-, Zins- oder Kostenzahlung.
+    – sl der in Jahren oder Jahresbruchteilen ausgedrückte Zeitraum zwischen
+           dem Zeitpunkt der Inanspruchnahme der ersten Verbraucherdarlehens-
+           Auszahlung und dem Zeitpunkt jeder einzelnen Tilgungs-, Zins- oder
+           Kostenzahlung.
 
     Anmerkungen:
 
@@ -744,11 +754,12 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
     b)  Anfangszeitpunkt ist der Tag der Auszahlung des ersten
         Verbraucherdarlehensbetrags.
 
-    c)  Der Zeitraum zwischen diesen Zeitpunkten wird in Jahren oder
-        Jahresbruchteilen ausgedrückt. Zugrunde gelegt werden für ein Jahr
-        365 Tage (bzw. für ein Schaltjahr 366 Tage), 52 Wochen oder 12
-        Standardmonate. Ein Standardmonat hat 30,41666 Tage (d. h. 365/12),
-        unabhängig davon, ob es sich um ein Schaltjahr handelt oder nicht.
+    c)  Der Zeitraum zwischen den in den Berechnungen verwendeten Zeitpunkten
+        wird in Jahren oder Jahresbruchteilen ausgedrückt. Zugrunde gelegt
+        werden für ein Jahr 365 Tage (beziehungsweise für ein Schaltjahr
+        366 Tage), 52 Wochen oder 12 Standardmonate. Ein Standardmonat hat
+        30,41666 Tage (das heißt 365/12), unabhängig davon, ob es sich um ein
+        Schaltjahr handelt oder nicht.
 
         Können die Zeiträume zwischen den in den Berechnungen verwendeten
         Zeitpunkten nicht als ganze Zahl von Wochen, Monaten oder Jahren
@@ -756,7 +767,7 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         Zeitabschnitte in Kombination mit einer Anzahl von Tagen auszudrücken.
         Bei der Verwendung von Tagen
 
-        aa) werden alle Tage einschließlich Wochenenden und Feiertage gezählt;
+        aa) werden alle Tage, einschließlich Wochenenden und Feiertage, gezählt;
 
         bb) werden gleich lange Zeitabschnitte und dann Tage bis zur
             Inanspruchnahme des ersten Verbraucherdarlehensbetrags zurückgezählt;
@@ -768,8 +779,8 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
             bis zum gleichen Tag des Vorjahres, geteilt wird.
 
     d)  Das Rechenergebnis wird auf zwei Dezimalstellen genau angegeben. Ist
-        die Ziffer der dritten Dezimalstelle größer als oder gleich 5, so
-        erhöht sich die Ziffer der zweiten Dezimalstelle um den Wert 1.
+        die Zahl der dritten Dezimalstelle größer als oder gleich 5, so erhöht
+        sich die Zahl der zweiten Dezimalstelle um den Wert 1.
 
     e)  Mathematisch darstellen lässt sich diese Gleichung durch eine einzige
         Summation unter Verwendung des Faktors „Ströme“ (*Ak*), die entweder
@@ -777,12 +788,15 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         für Rückzahlungen innerhalb der Perioden 1 bis *n*, ausgedrückt in
         Jahren, stehen:
 
-        dabei ist *S* der Saldo der Gegenwartswerte aller „Ströme“, deren Wert
-        gleich Null sein muss, damit die Gleichheit zwischen den „Strömen“
-        gewahrt bleibt.
+        ![bgbl1_2026_j01390_0050.jpg](bgbl1_2026_j01390_0050.jpg)
 
-2.  Es gelten die folgenden zusätzlichen Annahmen für die Berechnung des
-    effektiven Jahreszinses:
+        Dabei ist *S* der Saldo der Gegenwartswerte aller „Ströme“. Damit die
+        Gleichheit zwischen den „Strömen“ gewahrt bleibt, muss der Wert von
+        *S* gleich null sein.
+
+2.  Für alle Verbraucherdarlehensverträge gemäß § 491 BGB gelten die
+    folgenden zusätzlichen Annahmen für die Berechnung des effektiven
+    Jahreszinses:
 
     a)  Ist dem Verbraucher nach dem Verbraucherdarlehensvertrag freigestellt,
         wann er das Verbraucherdarlehen in Anspruch nehmen will, so gilt das
@@ -798,10 +812,10 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         Beschränkungen in Anspruch genommen.
 
     c)  Sieht der Verbraucherdarlehensvertrag verschiedene Arten der
-        Inanspruchnahme mit unterschiedlichen Kosten oder Sollzinssätzen
-        vor, so gilt das gesamte Verbraucherdarlehen als zu den höchsten
-        Kosten und zum höchsten Sollzinssatz in Anspruch genommen, wie sie
-        für die Kategorie von Geschäften gelten, die bei dieser Art von
+        Inanspruchnahme mit unterschiedlichen Kosten oder Sollzinssätzen vor,
+        so gilt das gesamte Verbraucherdarlehen als zu den höchsten Kosten
+        und zum höchsten Sollzinssatz in Anspruch genommen, wie sie für
+        die Mechanismen der Inanspruchnahme gelten, die bei dieser Art von
         Verbraucherdarlehensverträgen am häufigsten vorkommt.
 
     d)  Bei einer Überziehungsmöglichkeit gilt das gesamte Verbraucherdarlehen
@@ -811,36 +825,31 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         effektiven Jahreszinses von der Annahme auszugehen, dass die Laufzeit
         des Verbraucherdarlehensvertrags drei Monate beträgt.
 
-    e)  Bei einem Überbrückungsdarlehen gilt das gesamte Verbraucherdarlehen
-        als in voller Höhe und für die gesamte Laufzeit des
-        Verbraucherdarlehensvertrags in Anspruch genommen. Ist die Laufzeit
-        des Verbraucherdarlehensvertrags nicht bekannt, so wird bei der
-        Berechnung des effektiven Jahreszinses von der Annahme ausgegangen,
-        dass sie 12 Monate beträgt.
+    e)  Werden für einen begrenzten Zeitraum oder Betrag verschiedene
+        Sollzinssätze und Kosten angeboten, so sind während der gesamten
+        Laufzeit des Verbraucherdarlehensvertrags der höchste Sollzinssatz und
+        die höchsten Kosten anzunehmen.
 
-    f)  Bei einem unbefristeten Verbraucherdarlehensvertrag, der weder eine
-        Überziehungsmöglichkeit noch ein Überbrückungsdarlehen beinhaltet,
-        wird angenommen, dass
+3.  Für Allgemein-Verbraucherdarlehensverträge gemäß § 491 Absatz 2 BGB
+    gelten außerdem die folgenden zusätzlichen Annahmen für die Berechnung
+    des effektiven Jahreszinses:
 
-        aa) das Verbraucherdarlehen bei Immobiliar-Verbraucherdarlehensverträgen
-            für einen Zeitraum von 20 Jahren ab der ersten Inanspruchnahme gewährt
-            wird und dass mit der letzten Zahlung des Verbrauchers der Saldo, die
-            Zinsen und etwaige sonstige Kosten ausgeglichen sind; bei Allgemein-
-            Verbraucherdarlehensverträgen, die nicht für den Erwerb oder die
-            Erhaltung von Rechten an Immobilien bestimmt sind oder bei denen das
-            Verbraucherdarlehen im Rahmen von Debit-Karten mit Zahlungsaufschub
-            oder Kreditkarten in Anspruch genommen wird, dieser Zeitraum ein Jahr
-            beträgt und dass mit der letzten Zahlung des Verbrauchers der Saldo,
-            die Zinsen und etwaige sonstige Kosten ausgeglichen sind;
+    a)  Bei unbefristeten Verbraucherdarlehensverträgen, die keine
+        Überziehungsmöglichkeit sind, wird angenommen, dass
+
+        aa) das Verbraucherdarlehen ab dem Zeitpunkt der ersten Inanspruchnahme
+            für einen Zeitraum von einem Jahr gewährt wird und dass mit der
+            letzten Zahlung des Verbrauchers der Saldo, die Zinsen und etwaige
+            sonstige Kosten ausgeglichen sind;
 
         bb) der Verbraucherdarlehensbetrag in gleich hohen monatlichen Zahlungen,
             beginnend einen Monat nach dem Zeitpunkt der ersten Inanspruchnahme,
-            zurückgezahlt wird; muss der Verbraucherdarlehensbetrag jedoch
+            zurückgezahlt wird. Muss der Verbraucherdarlehensbetrag jedoch
             vollständig, in Form einer einmaligen Zahlung, innerhalb jedes
             Zahlungszeitraums zurückgezahlt werden, so ist anzunehmen,
             dass spätere Inanspruchnahmen und Rückzahlungen des gesamten
             Verbraucherdarlehensbetrags durch den Verbraucher innerhalb eines
-            Jahres stattfinden; Zinsen und sonstige Kosten werden entsprechend
+            Jahres stattfinden. Zinsen und sonstige Kosten werden entsprechend
             diesen Inanspruchnahmen und Tilgungszahlungen und nach den
             Bestimmungen des Verbraucherdarlehensvertrags festgelegt.
 
@@ -851,34 +860,28 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         vollständig zurückgezahlt werden muss, dann aber erneut in Anspruch
         genommen werden kann.
 
-    g)  Bei Verbraucherdarlehensverträgen, die weder Überziehungsmöglichkeiten
-        beinhalten noch Überbrückungsdarlehen, Verbraucherdarlehensverträge
-        mit Wertbeteiligung, Eventualverpflichtungen oder Garantien sind, und
-        bei unbefristeten Verbraucherdarlehensverträgen (siehe die Annahmen
-        unter den Buchstaben d, e, f, l und m) gilt Folgendes:
+    b)  Bei Verbraucherdarlehensverträgen, die weder Überziehungsmöglichkeit
+        noch unbefristeter Verbraucherdarlehensvertrag sind (siehe die
+        Annahmen unter Nummer 2 Buchstabe d und Nummer 3 Buchstabe a), gilt
+        Folgendes:
 
         aa) Lassen sich der Zeitpunkt oder die Höhe einer vom Verbraucher zu
-            leistenden Tilgungszahlung nicht feststellen, so ist anzunehmen,
+            leistenden Tilgungszahlung nicht feststellen, so wird angenommen,
             dass die Rückzahlung zu dem im Verbraucherdarlehensvertrag genannten
             frühestmöglichen Zeitpunkt und in der darin festgelegten geringsten
             Höhe erfolgt.
 
         bb) Lässt sich der Zeitraum zwischen der ersten Inanspruchnahme und der
             ersten vom Verbraucher zu leistenden Zahlung nicht feststellen, so
-            wird der kürzest mögliche Zeitraum angenommen.
+            wird der kürzestmögliche Zeitraum angenommen.
 
-        cc) Ist der Zeitpunkt des Abschlusses des Verbraucherdarlehensvertrags
-            nicht bekannt, so ist anzunehmen, dass das Verbraucherdarlehen
-            erstmals zu dem Zeitpunkt in Anspruch genommen wurde, der sich aus
-            dem kürzesten zeitlichen Abstand zwischen diesem Zeitpunkt und der
-            Fälligkeit der ersten vom Verbraucher zu leistenden Zahlung ergibt.
-
-    h)  Lassen sich der Zeitpunkt oder die Höhe einer vom Verbraucher zu
+    c)  Lassen sich der Zeitpunkt oder die Höhe einer vom Verbraucher zu
         leistenden Zahlung nicht anhand des Verbraucherdarlehensvertrags oder
-        der Annahmen nach den Buchstaben d, e, f, g, l oder m feststellen,
-        so ist anzunehmen, dass die Zahlung in Übereinstimmung mit den vom
-        Darlehensgeber bestimmten Fristen und Bedingungen erfolgt, und dass,
-        falls diese nicht bekannt sind,
+        der Annahmen nach Nummer 2 Buchstabe d, Nummer 3 Buchstabe a oder
+        Nummer 3 Buchstabe b feststellen, so wird angenommen, dass die Zahlung
+        in Übereinstimmung mit den vom Darlehensgeber bestimmten Fristen und
+        Bedingungen erfolgt und dass, falls die betreffenden Zeitpunkte und
+        Bedingungen nicht bekannt sind,
 
         aa) die Zinszahlungen zusammen mit den Tilgungszahlungen erfolgen,
 
@@ -888,41 +891,123 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
 
         cc) Zahlungen für Kosten, die keine Zinsen sind und die als
             Mehrfachzahlungen ausgedrückt sind, beginnend mit der ersten
-            Tilgungszahlung in regelmäßigen Abständen erfolgen, und es sich, falls
+            Tilgungszahlung in regelmäßigen Abständen erfolgen und es sich, falls
             die Höhe dieser Zahlungen nicht bekannt ist, um jeweils gleich hohe
             Beträge handelt,
 
         dd) mit der letzten Zahlung der Saldo, die Zinsen und etwaige sonstige
             Kosten ausgeglichen sind.
 
-    i)  Ist keine Verbraucherdarlehensobergrenze vereinbart, ist anzunehmen,
-        dass die Obergrenze des gewährten Verbraucherdarlehens 170
-        000 EUR beträgt. Bei Verbraucherdarlehensverträgen, die weder
-        Eventualverpflichtungen noch Garantien sind und die nicht für
-        den Erwerb oder die Erhaltung eines Rechts an Wohnimmobilien oder
-        Grundstücken bestimmt sind, sowie bei Überziehungsmöglichkeiten,
-        Debit-Karten mit Zahlungsaufschub oder Kreditkarten ist anzunehmen,
-        dass die Obergrenze des gewährten Verbraucherdarlehens 1 500 EUR
-        beträgt.
+    d)  Wurde noch keine Darlehensobergrenze vereinbart, so wird bei
+        Verbraucherdarlehensverträgen, die weder Eventualverpflichtungen
+        noch Garantien sind, bei Überziehungsmöglichkeiten, Debitkarten mit
+        Zahlungsaufschub oder Kreditkarten eine Obergrenze in Höhe von 1 500
+        Euro angenommen.
 
-    j)  Werden für einen begrenzten Zeitraum oder Betrag verschiedene
-        Sollzinssätze und Kosten angeboten, so sind während der gesamten
-        Laufzeit des Verbraucherdarlehensvertrags der höchste Sollzinssatz und
-        die höchsten Kosten anzunehmen.
-
-    k)  Bei Verbraucherdarlehensverträgen, bei denen für den Anfangszeitraum
+    e)  Bei Verbraucherdarlehensverträgen, bei denen für den Anfangszeitraum
         ein fester Sollzinssatz vereinbart wurde, nach dessen Ablauf ein
         neuer Sollzinssatz festgelegt wird, der anschließend in regelmäßigen
+        Abständen nach einem vereinbarten Indikator angepasst wird, wird
+        bei der Berechnung des effektiven Jahreszinses von der Annahme
+        ausgegangen, dass der Sollzinssatz ab dem Ende der Festzinsperiode
+        dem Sollzinssatz entspricht, der sich aus dem Wert des vereinbarten
+        Indikators zum Zeitpunkt der Berechnung des effektiven Jahreszinses
+        ergibt.
+
+4.  Für Immobiliar-Verbraucherdarlehensverträge gemäß § 491 Absatz 3 BGB
+    gelten außerdem die folgenden zusätzlichen Annahmen für die Berechnung
+    des effektiven Jahreszinses:
+
+    a)  Bei Darlehensverträgen, bei denen für den Anfangszeitraum ein
+        fester Sollzinssatz vereinbart wurde, nach dessen Ablauf ein neuer
+        Sollzinssatz festgelegt wird, der anschließend in regelmäßigen
         Abständen nach einem vereinbarten Indikator oder einem internen
         Referenzzinssatz angepasst wird, wird bei der Berechnung des
         effektiven Jahreszinses von der Annahme ausgegangen, dass der
-        Sollzinssatz ab dem Ende der Festzinsperiode dem Sollzinssatz
-        entspricht, der sich aus dem Wert des vereinbarten Indikators oder
-        des internen Referenzzinssatzes zum Zeitpunkt der Berechnung des
-        effektiven Jahreszinses ergibt, die Höhe des festen Sollzinssatzes
-        jedoch nicht unterschreitet.
+        Sollzinssatz
 
-    l)  Bei Eventualverpflichtungen oder Garantien wird angenommen, dass
+        aa) ab dem Ende der Festzinsperiode dem Sollzinssatz entspricht, der
+            sich aus dem Wert des vereinbarten Indikators oder des internen
+            Referenzzinssatzes zum Zeitpunkt der Berechnung des effektiven
+            Jahreszinses ergibt,
+
+        bb) jedoch die Höhe des festen Sollzinssatzes nicht unterschreitet.
+
+    b)  Wurde noch keine Darlehensobergrenze vereinbart, so wird eine
+        Obergrenze in Höhe von 170 000 Euro angenommen.
+
+    c)  Bei Darlehensverträgen, die weder Überziehungsmöglichkeiten noch
+        Überbrückungsdarlehen, Darlehensverträge mit Wertbeteiligung,
+        Eventualverpflichtungen oder Garantien sind, und bei unbefristeten
+        Darlehensverträgen (siehe die Annahmen unter Nummer 2 Buchstabe d und
+        Nummer 4 Buchstabe e, f, g und h) gilt Folgendes:
+
+        aa) Lassen sich der Zeitpunkt oder die Höhe einer vom Verbraucher zu
+            leistenden Tilgungszahlung nicht feststellen, so wird angenommen, dass
+            die Rückzahlung zu dem im Darlehensvertrag genannten frühestmöglichen
+            Zeitpunkt und in der darin festgelegten geringsten Höhe erfolgt.
+
+        bb) Lässt sich der Zeitraum zwischen der ersten Inanspruchnahme und der
+            ersten vom Verbraucher zu leistenden Zahlung nicht feststellen, so
+            wird der kürzestmögliche Zeitraum angenommen.
+
+    d)  Lassen sich der Zeitpunkt oder die Höhe einer vom Verbraucher zu
+        leistenden Zahlung nicht anhand des Verbraucherdarlehensvertrags
+        oder der Annahmen nach Nummer 2 Buchstabe d und Nummer 4 Buchstabe
+        c, e, f, g und h feststellen, so ist anzunehmen, dass die Zahlung
+        in Übereinstimmung mit den vom Darlehensgeber bestimmten Fristen und
+        Bedingungen erfolgt und dass, falls die betreffenden Zeitpunkte und
+        Bedingungen nicht bekannt sind,
+
+        aa) die Zinszahlungen zusammen mit den Tilgungszahlungen erfolgen,
+
+        bb) Zahlungen für Kosten, die keine Zinsen sind und die als Einmalbetrag
+            ausgedrückt sind, bei Abschluss des Verbraucherdarlehensvertrags
+            erfolgen,
+
+        cc) Zahlungen für Kosten, die keine Zinsen sind und die als
+            Mehrfachzahlungen ausgedrückt sind, beginnend mit der ersten
+            Tilgungszahlung in regelmäßigen Abständen erfolgen und es sich, falls
+            die Höhe dieser Zahlungen nicht bekannt ist, um jeweils gleich hohe
+            Beträge handelt,
+
+        dd) mit der letzten Zahlung der Saldo, die Zinsen und etwaige sonstige
+            Kosten ausgeglichen sind.
+
+    e)  Bei einem Überbrückungsdarlehen gilt das gesamte Verbraucherdarlehen
+        als in voller Höhe und für die gesamte Laufzeit des
+        Verbraucherdarlehensvertrags in Anspruch genommen. Ist die Laufzeit
+        des Verbraucherdarlehensvertrags nicht bekannt, so wird bei der
+        Berechnung des effektiven Jahreszinses von der Annahme ausgegangen,
+        dass sie 12 Monate beträgt.
+
+    f)  Bei unbefristeten Darlehensverträgen, die weder eine
+        Überziehungsmöglichkeit noch ein Überbrückungsdarlehen sind, wird
+        angenommen, dass
+
+        aa) bei Darlehensverträgen, die für den Erwerb oder die Erhaltung von
+            Rechten an Immobilien bestimmt sind, das Darlehen für einen Zeitraum
+            von 20 Jahren ab der ersten Inanspruchnahme gewährt wird und dass mit
+            der letzten Zahlung des Verbrauchers der Saldo, die Zinsen und etwaige
+            sonstige Kosten ausgeglichen sind;
+
+        bb) der Darlehensbetrag in gleich hohen monatlichen Zahlungen,
+            beginnend einen Monat nach dem Zeitpunkt der ersten Inanspruchnahme,
+            zurückgezahlt wird. Muss der Darlehensbetrag jedoch vollständig,
+            in Form einer einmaligen Zahlung, innerhalb jedes Zahlungszeitraums
+            zurückgezahlt werden, so ist anzunehmen, dass spätere Inanspruchnahmen
+            und Rückzahlungen des gesamten Darlehensbetrags durch den Verbraucher
+            innerhalb eines Jahres stattfinden. Zinsen und sonstige Kosten werden
+            entsprechend diesen Inanspruchnahmen und Tilgungszahlungen und nach
+            den Bestimmungen des Darlehensvertrags festgelegt.
+
+        Als unbefristete Darlehensverträge gelten für die Zwecke dieses
+        Buchstabens Darlehensverträge ohne feste Laufzeit, einschließlich
+        solcher Darlehen, bei denen der Darlehensbetrag innerhalb oder nach
+        Ablauf eines Zeitraums vollständig zurückgezahlt werden muss, dann
+        aber erneut in Anspruch genommen werden kann.
+
+    g)  Bei Eventualverpflichtungen oder Garantien wird angenommen, dass
         das gesamte Verbraucherdarlehen zum früheren der beiden folgenden
         Zeitpunkte als einmaliger Betrag vollständig in Anspruch genommen
         wird:
@@ -934,7 +1019,7 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         bb) bei einem Roll-over-Verbraucherdarlehensvertrag am Ende der ersten
             Zinsperiode vor der Erneuerung der Vereinbarung.
 
-    m)  Bei Verbraucherdarlehensverträgen mit Wertbeteiligung wird angenommen,
+    h)  Bei Verbraucherdarlehensverträgen mit Wertbeteiligung wird angenommen,
         dass
 
         aa) die Zahlungen der Verbraucher zu den letzten nach dem
@@ -943,8 +1028,9 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
         bb) die prozentuale Wertsteigerung der Immobilie, die die Sicherheit
             für den Vertrag darstellt, und ein in dem Vertrag genannter
             Inflationsindex ein Prozentsatz ist, der – je nachdem, welcher Satz
-            höher ist – dem aktuellen Inflationsziel der Zentralbank oder der Höhe
-            der Inflation in dem Mitgliedstaat, in dem die Immobilie belegen ist,
-            zum Zeitpunkt des Abschlusses des Verbraucherdarlehensvertrags oder
-            dem Wert 0 %, falls diese Prozentsätze negativ sind, entspricht.
+            höher ist – dem aktuellen Inflationsziel der Zentralbank oder der
+            Höhe der Inflation in dem Mitgliedstaat der Europäischen Union, in
+            dem die Immobilie belegen ist, zum Zeitpunkt des Abschlusses des
+            Verbraucherdarlehensvertrags oder dem Wert 0 Prozent, falls diese
+            Prozentsätze negativ sind, entspricht.
 

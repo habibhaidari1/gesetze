@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 109, 2
 
-Geändert durch
-:   Art. 1 G v. 20.6.2024 I Nr. 207
-
-Änderung durch
-:   Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318
 
 
 ## Kapitel 1 - Allgemeine Vorschriften

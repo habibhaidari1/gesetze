@@ -212,7 +212,11 @@ die aufgrund der folgenden Vorschriften erbracht werden:
     vom 14. Dezember 2022 über die digitale operationale Resilienz im
     Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009,
     (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)
-    2016/1011 (ABl. L 333 vom 27.12.2022, S. 1).
+    2016/1011 (ABl. L 333 vom 27.12.2022, S. 1),
+
+42. Absatzfinanzierungsaufsichtsgesetz,
+
+43. EU-Verbraucherschutzdurchführungsgesetz.
 
 
 ## § 2 Höhe der Gebühren
@@ -299,6 +303,8 @@ Inhaltsübersicht
 | 31a | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2015/61 |
 | 32 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes |
 | 33 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554 |
+| 34 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Absatzfinanzierungsaufsichtsgesetzes (AbsFinAG) |
+| 35 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des EU-Verbraucherschutzdurchführungsgesetzes (EU-VSchDG) |
 
 | Nr. | Gebührentatbestand | Gebühr in Euro |
 | --- | --- | --- |
@@ -910,4 +916,14 @@ Inhaltsübersicht
 | 33 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554 |  |
 | 33.1 | Maßnahmen infolge der Durchführung eines gebündelten Tests (Artikel 26 Absatz 4 der Verordnung (EU) 2022/2554) | nach Zeitaufwand |
 | 33.2 | Genehmigung des Einsatzes interner Tester (Artikel 27 Absatz 2 der Verordnung (EU) 2022/2554) | nach Zeitaufwand |
+| **34** | **Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Absatzfinanzierungsaufsichtsgesetzes (AbsFinAG)** |  |
+| 34.1 | Prüfung der Einhaltung der gesetzlichen Vorgaben (§ 3 Absatz 1 und Absatz 3 in Verbindung mit § 5 AbsFinAG und § 18a KWG und § 5 Absatz 1 Nummer 4 bis 5a InstitutsVergV) von Kreditgebern und Instituten | nach Zeitaufwand |
+| 34.2 | Anordnung von Maßnahmen gegenüber Kreditgebern und Instituten zur Beseitigung von Missständen (inklusive Werbung) im Sinne des § 3 Absatz 1 in Verbindung mit § 5 AbsFinAG | nach Zeitaufwand |
+| 34.3 | Registrierung von Kreditgebern (§ 4 Absatz 1, 3, 4, 5 und 8 Satz 1 AbsFinAG) | 242 |
+| 34.4 | Entgegennahme der Mitteilungen von Kreditgebern über Änderungen über tatsächliche oder rechtliche Verhältnisse, die die Angaben des Registrierungsantrags betreffen, und Berichtigung der Registereintragung (§ 4 Absatz 6 in Verbindung mit Absatz 7 Alternative 1 und Absatz 8 Satz 2 AbsFinAG) | 117 |
+| 34.5 | Aufhebung der Registrierung von Kreditgebern und Berichtigung der Registereintragung (§ 4 Absatz 7 Alternative 2 und Absatz 8 Satz 2 AbsFinAG) | nach Zeitaufwand |
+| 34.6 | Erstmalige Meldungen von Instituten (im Sinne des § 2 Absatz 2 AbsFinAG) und Eintragung ins Kreditgeberregister nach § 6 Absatz 2 Satz 1, Absatz 3 AbsFinAG | 242 |
+| 34.7 | Entgegennahme der Mitteilungen von Instituten (im Sinne des § 2 Absatz 2 AbsFinAG) über weitere Vertragsbeziehungen mit Warenlieferanten und Dienstleistungserbringern sowie Änderungen der Angaben nach § 6 Absatz 2 AbsFinAG (§ 6 Absatz 2 AbsFinAG) | 55,80 |
+| **35** | **Individuell zurechenbare öffentliche Leistungen auf der Grundlage des EU-Verbraucherschutzdurchführungsgesetzes (EU-VSchDG)** |  |
+| 35.1 | Prüfung der Einhaltung der gesetzlichen Vorgaben und Maßnahmen, welche sich aus der Zuständigkeit der Bundesanstalt nach § 2 Nummer 2 Buchstabe c EU-VSchDG in Verbindung mit der Verordnung (EU) 2017/2394 ableiten | nach Zeitaufwand |
 

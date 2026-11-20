@@ -192,10 +192,7 @@ geschäftliche Handlung vorliegt, den Regelungen dieses Gesetzes vor.
 2.  ist „Haltbarkeit“ die Fähigkeit der Waren, ihre erforderlichen
     Funktionen und ihre Leistung bei normaler Verwendung zu behalten;
 
-3.  ist eine „Online-Schnittstelle“ eine solche im Sinne von Artikel 3
-    Buchstabe m der Verordnung (EU) 2022/2065;
-
-4.  ist „Softwareaktualisierung“ eine Aktualisierung, einschließlich einer
+3.  ist „Softwareaktualisierung“ eine Aktualisierung, einschließlich einer
     Sicherheitsaktualisierung, die für den Erhalt der Vertragsgemäßheit
     von Waren mit digitalen Elementen im Sinne des § 327a Absatz 3 Satz
     1 des Bürgerlichen Gesetzbuchs, digitalen Inhalten im Sinne des
@@ -203,7 +200,7 @@ geschäftliche Handlung vorliegt, den Regelungen dieses Gesetzes vor.
     Dienstleistungen im Sinne des § 327 Absatz 2 Satz 2 des Bürgerlichen
     Gesetzbuchs erforderlich ist, oder eine Funktionsaktualisierung;
 
-5.  sind „Verbraucher“ Verbraucher entsprechend § 13 des Bürgerlichen
+4.  sind „Verbraucher“ Verbraucher entsprechend § 13 des Bürgerlichen
     Gesetzbuchs.
 
 
@@ -849,7 +846,8 @@ geschäftliche Handlung vornimmt und hierdurch Verbraucher zu einer
 geschäftlichen Entscheidung veranlasst, die sie andernfalls nicht
 getroffen hätten, ist ihnen zum Ersatz des daraus entstehenden
 Schadens verpflichtet. Dies gilt nicht für unlautere geschäftliche
-Handlungen nach den §§ 3a, 4 und 6 sowie nach Nummer 32 des Anhangs.
+Handlungen nach den §§ 3a, 4 und 6 sowie nach den Nummern 23e und 32
+des Anhangs.
 
 (3) Gegen verantwortliche Personen von periodischen Druckschriften
 kann der Anspruch auf Schadensersatz nach den Absätzen 1 und 2 nur bei
@@ -1632,6 +1630,27 @@ Irreführende geschäftliche Handlungen
          Zubehör verwendet werden, die nicht vom ursprünglichen Hersteller der
          Ware bereitgestellt werden, oder die falsche Behauptung, dass eine
          solche Beeinträchtigung eintreten wird;
+
+23e. Irreführung bei Werbung für Kreditprodukte
+
+     die Werbung für Kreditprodukte gemäß § 491 Absatz 2 oder § 506 Absatz
+     1 des Bürgerlichen Gesetzbuchs, wenn
+
+     a)  diese ohne einen klaren und auffallenden Warnhinweis auf die mit der
+         Kreditaufnahme verbundenen Kosten erfolgt, wobei die Formulierung
+         „Achtung! Kreditaufnahme kostet Geld“ oder eine gleichwertige
+         Formulierung zu verwenden ist,
+
+     b)  Verbraucher zur Kreditaufnahme ermutigt werden, indem suggeriert wird,
+         ein Kredit würde ihre finanzielle Situation verbessern,
+
+     c)  angegeben wird, dass laufende Kreditverträge oder in Datenbanken
+         eingetragene Kredite geringen oder keinen Einfluss auf die Bewertung
+         eines Kreditantrages hätten, oder
+
+     d)  fälschlicherweise suggeriert wird, dass ein Kredit die Finanzmittel
+         erhöhen, einen Ersatz für Ersparnisse darstellen oder den
+         Lebensstandard des Verbrauchers anheben würde;
 
 Aggressive geschäftliche Handlungen
 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.4.1987 I 1225;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 19.5.2020 I 1018
-
-Änderung durch
-:   Art. 4 G v. 22.7.2026 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.7.2026 I Nr. 225
 
 
 ## I. - Die Approbation als Zahnarzt

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.7.2026 I Nr. 222
-
-Änderung durch
-:   Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel

@@ -328,14 +328,21 @@ zu berücksichtigen.
     Erbringung von Beratungsleistungen gemäß § 511 des Bürgerlichen
     Gesetzbuchs im besten Interesse des Darlehensnehmers zu handeln;
     insbesondere darf die Vergütung nicht an Absatzziele in Bezug auf
-    Immobiliar-Verbraucherdarlehensverträge gemäß § 491 Absatz 3 des
-    Bürgerlichen Gesetzbuchs gekoppelt sein;
+    Verbraucherdarlehensverträge gemäß § 491 Absatz 1 des Bürgerlichen
+    Gesetzbuchs gekoppelt sein;
 
-5.  die Vergütung der für die Prüfung der Kreditwürdigkeit zuständigen
-    Mitarbeiter und Mitarbeiterinnen nicht von der Zahl oder dem
-    Anteil der genehmigten Anträge auf Abschluss eines Immobiliar-
-    Verbraucherdarlehensvertrags gemäß § 491 Absatz 3 des Bürgerlichen
-    Gesetzbuchs abhängt; und
+5.  die Vergütung der für die Prüfung der Kreditwürdigkeit
+    zuständigen Mitarbeiter und Mitarbeiterinnen nicht von der
+    Zahl oder dem Anteil der genehmigten Anträge auf Abschluss
+    eines Verbraucherdarlehensvertrags gemäß § 491 Absatz 1 des
+    Bürgerlichen Gesetzbuchs abhängt und die Vergütungspolitik an der
+    Geschäftsstrategie, den Zielen, Werten und langfristigen Interessen
+    des Instituts ausgerichtet ist und Maßnahmen zur Vermeidung von
+    Interessenskonflikten beinhaltet;
+
+5a. die Vergütungspolitik der für die Prüfung der Kreditwürdigkeit
+    zuständigen Mitarbeiter und Mitarbeiterinnen mit einem soliden und
+    wirksamen Risikomanagement vereinbar und diesem förderlich ist und
 
 6.  sie geschlechtsneutral sind, so dass eine Entgeltbenachteiligung wegen
     des Geschlechts bei gleicher oder gleichwertiger Arbeit ausgeschlossen

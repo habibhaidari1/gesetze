@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 2154
 
-Änderung durch
-:   Art. 5 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 5 G v. 23.7.2026 I Nr. 226
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
